@@ -1,0 +1,732 @@
+********************************************************************************
+* DUPLICATOR-PRO: Install-Log
+* STEP-1 START @ 03:35:43
+* VERSION: 1.3.24
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+PACKAGE INFO________ CURRENT SERVER                         |ORIGINAL SERVER
+PHP VERSION_________: 7.2.31                                |5.6.40
+OS__________________: Linux                                 |Linux
+CREATED_____________: 2020-05-29 14:36:54
+WP VERSION__________: 5.3.3
+DUP VERSION_________: 1.3.24
+DB__________________: 10.3.23
+DB TABLES___________: 51
+DB ROWS_____________: 4,981
+DB FILE SIZE________: 21.5MB
+********************************************************************************
+SERVER INFO
+PHP_________________: 5.6.40 | SAPI: cgi-fcgi
+PHP MEMORY__________: 4294967296 | SUHOSIN: disabled
+SERVER______________: Apache
+DOC ROOT____________: "/home/pineda/public_html"
+DOC ROOT 755________: true
+LOG FILE 644________: true
+REQUEST URL_________: "http://lapinedadeleon.com/dup-installer/main.installer.php"
+********************************************************************************
+USER INPUTS
+ARCHIVE ENGINE______: "ziparchive"
+SET DIR PERMS_______: 1
+DIR PERMS VALUE_____: 1363
+SET FILE PERMS______: 1
+FILE PERMS VALUE____: 1204
+SAFE MODE___________: "0"
+LOGGING_____________: "1"
+CONFIG MODE_________: "NEW"
+FILE TIME___________: "current"
+********************************************************************************
+
+
+--------------------------------------
+ARCHIVE SETUP
+--------------------------------------
+NAME________________: "Listo_pinedadeleon29_05_2020_9b172ab7a5c7eba84372_20200529143654_archive.zip"
+SIZE________________: 459.38MB
+
+PRE-EXTRACT-CHECKS
+- PASS: Microsoft IIS 'web.config' not found - no backup needed.
+- PASS: WordFence '.user.ini' not found - no backup needed.
+
+
+START ZIP FILE EXTRACTION STANDARD >>> 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 19107
+    [filename] => /home/pineda/public_html/Listo_pinedadeleon29_05_2020_9b172ab7a5c7eba84372_20200529143654_archive.zip
+    [comment] => 
+)
+File timestamp set to Current: 2020-05-30 15:36:47
+<<< ZipArchive Unzip Complete: true
+--------------------------------------
+POST-EXTACT-CHECKS
+--------------------------------------
+PERMISSION UPDATES:
+    -DIRS:  '755'
+    -FILES: '644'
+
+STEP-1 COMPLETE @ 03:36:50 - RUNTIME: 66.8579 sec.
+
+
+
+********************************************************************************
+* DUPLICATOR-LITE INSTALL-LOG
+* STEP-2 START @ 03:38:04
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+USER INPUTS
+VIEW MODE___________: "basic"
+DB ACTION___________: "empty"
+DB HOST_____________: "**OBSCURED**"
+DB NAME_____________: "**OBSCURED**"
+DB PASS_____________: "**OBSCURED**"
+DB PORT_____________: "**OBSCURED**"
+NON-BREAKING SPACES_: false
+MYSQL MODE__________: "DEFAULT"
+MYSQL MODE OPTS_____: ""
+CHARSET_____________: "utf8"
+COLLATE_____________: "utf8_general_ci"
+COLLATE FB__________: false
+VIEW CREATION_______: true
+STORED PROCEDURE____: true
+********************************************************************************
+
+--------------------------------------
+DATABASE-ENVIRONMENT
+--------------------------------------
+MYSQL VERSION:	This Server: 10.2.32 -- Build Server: 10.3.23
+FILE SIZE:	dup-database__9b172ab-29143654.sql (7.29MB)
+TIMEOUT:	5000
+MAXPACK:	268435456
+SQLMODE:	NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION
+NEW SQL FILE:	[/home/pineda/public_html/dup-installer/dup-installer-data__9b172ab-29143654.sql]
+COLLATE FB:	Off
+
+NOTICE: This servers version [10.2.32] is less than the build version [10.3.23].  
+If you find issues after testing your site please referr to this FAQ item.
+https://snapcreek.com/duplicator/docs/faqs-tech/#faq-installer-260-q
+--------------------------------------
+DATABASE RESULTS
+--------------------------------------
+DB VIEWS:	enabled
+DB PROCEDURES:	enabled
+ERRORS FOUND:	0
+DROPPED TABLES:	51
+RENAMED TABLES:	0
+QUERIES RAN:	5033
+
+ht_commentmeta: (0)
+ht_comments: (0)
+ht_create_map: (0)
+ht_duplicator_packages: (0)
+ht_gdlr_hostel_booking: (0)
+ht_gdlr_hostel_payment: (0)
+ht_gdlr_hotel_booking: (0)
+ht_gdlr_hotel_payment: (0)
+ht_gglcptch_whitelist: (0)
+ht_gmp_icons: (47)
+ht_gmp_maps: (1)
+ht_gmp_marker_groups: (0)
+ht_gmp_marker_groups_relation: (0)
+ht_gmp_markers: (0)
+ht_gmp_membership_presets: (1)
+ht_gmp_modules: (14)
+ht_gmp_modules_type: (4)
+ht_gmp_options: (2)
+ht_gmp_options_categories: (4)
+ht_gmp_usage_stat: (0)
+ht_group_map: (0)
+ht_links: (0)
+ht_map_locations: (0)
+ht_masterslider_options: (5)
+ht_masterslider_sliders: (0)
+ht_options: (396)
+ht_postmeta: (2627)
+ht_posts: (619)
+ht_pum_subscribers: (0)
+ht_revslider_css: (109)
+ht_revslider_css_bkp: (109)
+ht_revslider_layer_animations: (0)
+ht_revslider_layer_animations_bkp: (0)
+ht_revslider_navigations: (0)
+ht_revslider_navigations_bkp: (0)
+ht_revslider_sliders: (5)
+ht_revslider_sliders_bkp: (5)
+ht_revslider_slides: (5)
+ht_revslider_slides_bkp: (5)
+ht_revslider_static_slides: (1)
+ht_revslider_static_slides_bkp: (1)
+ht_smush_dir_images: (0)
+ht_swift_performance_warmup: (202)
+ht_term_relationships: (297)
+ht_term_taxonomy: (140)
+ht_termmeta: (37)
+ht_terms: (140)
+ht_usermeta: (110)
+ht_users: (3)
+ht_yoast_seo_links: (0)
+ht_yoast_seo_meta: (30)
+Removed '60' cache/transient rows
+
+INSERT DATA RUNTIME: 3.1637 sec.
+STEP-2 COMPLETE @ 03:38:08 - RUNTIME: 3.1722 sec.
+[PHP ERR][NOTICE] MSG:Unknown: send of 5 bytes failed with errno=32 Broken pipe [CODE:8|FILE:Unknown|LINE:0]
+
+====================================
+SET SEARCH AND REPLACE LIST
+====================================
+
+
+********************************************************************************
+DUPLICATOR PRO INSTALL-LOG
+STEP-3 START @ 03:41:48
+NOTICE: Do NOT post to public sites or forums
+********************************************************************************
+CHARSET SERVER:	"utf8"
+CHARSET CLIENT:	"utf8"
+********************************************************************************
+OPTIONS:
+blogname______________: "La Pineda de León"
+postguid______________: false
+fullsearch____________: false
+path_old______________: "/home/humberto/public_html/pineda/"
+path_new______________: "/home/pineda/public_html/"
+siteurl_______________: "http://lapinedadeleon.com"
+url_old_______________: "http://pineda.webkreativen.kreativetest.com"
+url_new_______________: "http://lapinedadeleon.com"
+maxSerializeStrlen____: 4000000
+replaceMail___________: false
+dbhost________________: "localhost"
+dbuser________________: "pineda_pineda_user"
+dbname________________: "pineda_st"
+dbcharset_____________: "utf8"
+dbcollate_____________: "utf8_general_ci"
+wp_username___________: "admin"
+wp_mail_______________: "puestopd@mail.com"
+wp_nickname___________: "admin"
+wp_first_name_________: ""
+wp_last_name__________: ""
+ssl_admin_____________: false
+cache_wp______________: false
+cache_path____________: false
+exe_safe_mode_________: false
+config_mode___________: "NEW"
+********************************************************************************
+
+
+====================================
+RUN SEARCH AND REPLACE
+====================================
+
+EVALUATE TABLE: "ht_commentmeta"__________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "ht_comments"_____________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "ht_create_map"___________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "ht_duplicator_packages"__________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "ht_gdlr_hostel_booking"__________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "ht_gdlr_hostel_payment"__________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "ht_gdlr_hotel_booking"___________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "ht_gdlr_hotel_payment"___________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "ht_gglcptch_whitelist"___________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "ht_gmp_icons"____________________________________[ROWS:    47][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/humberto/public_html/pineda/" ==============> "/home/pineda/public_html/"
+	SEARCH  2:"\/home\/humberto\/public_html\/pineda\/" =========> "\/home\/pineda\/public_html\/"
+	SEARCH  3:"%2Fhome%2Fhumberto%2Fpublic_html%2Fpineda%2F" ====> "%2Fhome%2Fpineda%2Fpublic_html%2F"
+	SEARCH  4:"\home\humberto\public_html\pineda" ===============> "/home/pineda/public_html"
+	SEARCH  5:"\\home\\humberto\\public_html\\pineda" ===========> "\/home\/pineda\/public_html"
+	SEARCH  6:"%5Chome%5Chumberto%5Cpublic_html%5Cpineda" =======> "%2Fhome%2Fpineda%2Fpublic_html"
+	SEARCH  7:"//pineda.webkreativen.kreativetest.com" ==========> "//lapinedadeleon.com"
+	SEARCH  8:"\/\/pineda.webkreativen.kreativetest.com" ========> "\/\/lapinedadeleon.com"
+	SEARCH  9:"%2F%2Fpineda.webkreativen.kreativetest.com" ======> "%2F%2Flapinedadeleon.com"
+	SEARCH 10:"https://lapinedadeleon.com" ======================> "http://lapinedadeleon.com"
+	SEARCH 11:"https:\/\/lapinedadeleon.com" ====================> "http:\/\/lapinedadeleon.com"
+	SEARCH 12:"https%3A%2F%2Flapinedadeleon.com" ================> "http%3A%2F%2Flapinedadeleon.com"
+
+EVALUATE TABLE: "ht_gmp_maps"_____________________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/humberto/public_html/pineda/" ==============> "/home/pineda/public_html/"
+	SEARCH  2:"\/home\/humberto\/public_html\/pineda\/" =========> "\/home\/pineda\/public_html\/"
+	SEARCH  3:"%2Fhome%2Fhumberto%2Fpublic_html%2Fpineda%2F" ====> "%2Fhome%2Fpineda%2Fpublic_html%2F"
+	SEARCH  4:"\home\humberto\public_html\pineda" ===============> "/home/pineda/public_html"
+	SEARCH  5:"\\home\\humberto\\public_html\\pineda" ===========> "\/home\/pineda\/public_html"
+	SEARCH  6:"%5Chome%5Chumberto%5Cpublic_html%5Cpineda" =======> "%2Fhome%2Fpineda%2Fpublic_html"
+	SEARCH  7:"//pineda.webkreativen.kreativetest.com" ==========> "//lapinedadeleon.com"
+	SEARCH  8:"\/\/pineda.webkreativen.kreativetest.com" ========> "\/\/lapinedadeleon.com"
+	SEARCH  9:"%2F%2Fpineda.webkreativen.kreativetest.com" ======> "%2F%2Flapinedadeleon.com"
+	SEARCH 10:"https://lapinedadeleon.com" ======================> "http://lapinedadeleon.com"
+	SEARCH 11:"https:\/\/lapinedadeleon.com" ====================> "http:\/\/lapinedadeleon.com"
+	SEARCH 12:"https%3A%2F%2Flapinedadeleon.com" ================> "http%3A%2F%2Flapinedadeleon.com"
+
+EVALUATE TABLE: "ht_gmp_marker_groups"____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "ht_gmp_marker_groups_relation"___________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "ht_gmp_markers"__________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "ht_gmp_membership_presets"_______________________[ROWS:     1][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/humberto/public_html/pineda/" ==============> "/home/pineda/public_html/"
+	SEARCH  2:"\/home\/humberto\/public_html\/pineda\/" =========> "\/home\/pineda\/public_html\/"
+	SEARCH  3:"%2Fhome%2Fhumberto%2Fpublic_html%2Fpineda%2F" ====> "%2Fhome%2Fpineda%2Fpublic_html%2F"
+	SEARCH  4:"\home\humberto\public_html\pineda" ===============> "/home/pineda/public_html"
+	SEARCH  5:"\\home\\humberto\\public_html\\pineda" ===========> "\/home\/pineda\/public_html"
+	SEARCH  6:"%5Chome%5Chumberto%5Cpublic_html%5Cpineda" =======> "%2Fhome%2Fpineda%2Fpublic_html"
+	SEARCH  7:"//pineda.webkreativen.kreativetest.com" ==========> "//lapinedadeleon.com"
+	SEARCH  8:"\/\/pineda.webkreativen.kreativetest.com" ========> "\/\/lapinedadeleon.com"
+	SEARCH  9:"%2F%2Fpineda.webkreativen.kreativetest.com" ======> "%2F%2Flapinedadeleon.com"
+	SEARCH 10:"https://lapinedadeleon.com" ======================> "http://lapinedadeleon.com"
+	SEARCH 11:"https:\/\/lapinedadeleon.com" ====================> "http:\/\/lapinedadeleon.com"
+	SEARCH 12:"https%3A%2F%2Flapinedadeleon.com" ================> "http%3A%2F%2Flapinedadeleon.com"
+
+EVALUATE TABLE: "ht_gmp_modules"__________________________________[ROWS:    14][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/humberto/public_html/pineda/" ==============> "/home/pineda/public_html/"
+	SEARCH  2:"\/home\/humberto\/public_html\/pineda\/" =========> "\/home\/pineda\/public_html\/"
+	SEARCH  3:"%2Fhome%2Fhumberto%2Fpublic_html%2Fpineda%2F" ====> "%2Fhome%2Fpineda%2Fpublic_html%2F"
+	SEARCH  4:"\home\humberto\public_html\pineda" ===============> "/home/pineda/public_html"
+	SEARCH  5:"\\home\\humberto\\public_html\\pineda" ===========> "\/home\/pineda\/public_html"
+	SEARCH  6:"%5Chome%5Chumberto%5Cpublic_html%5Cpineda" =======> "%2Fhome%2Fpineda%2Fpublic_html"
+	SEARCH  7:"//pineda.webkreativen.kreativetest.com" ==========> "//lapinedadeleon.com"
+	SEARCH  8:"\/\/pineda.webkreativen.kreativetest.com" ========> "\/\/lapinedadeleon.com"
+	SEARCH  9:"%2F%2Fpineda.webkreativen.kreativetest.com" ======> "%2F%2Flapinedadeleon.com"
+	SEARCH 10:"https://lapinedadeleon.com" ======================> "http://lapinedadeleon.com"
+	SEARCH 11:"https:\/\/lapinedadeleon.com" ====================> "http:\/\/lapinedadeleon.com"
+	SEARCH 12:"https%3A%2F%2Flapinedadeleon.com" ================> "http%3A%2F%2Flapinedadeleon.com"
+
+EVALUATE TABLE: "ht_gmp_modules_type"_____________________________[ROWS:     4][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/humberto/public_html/pineda/" ==============> "/home/pineda/public_html/"
+	SEARCH  2:"\/home\/humberto\/public_html\/pineda\/" =========> "\/home\/pineda\/public_html\/"
+	SEARCH  3:"%2Fhome%2Fhumberto%2Fpublic_html%2Fpineda%2F" ====> "%2Fhome%2Fpineda%2Fpublic_html%2F"
+	SEARCH  4:"\home\humberto\public_html\pineda" ===============> "/home/pineda/public_html"
+	SEARCH  5:"\\home\\humberto\\public_html\\pineda" ===========> "\/home\/pineda\/public_html"
+	SEARCH  6:"%5Chome%5Chumberto%5Cpublic_html%5Cpineda" =======> "%2Fhome%2Fpineda%2Fpublic_html"
+	SEARCH  7:"//pineda.webkreativen.kreativetest.com" ==========> "//lapinedadeleon.com"
+	SEARCH  8:"\/\/pineda.webkreativen.kreativetest.com" ========> "\/\/lapinedadeleon.com"
+	SEARCH  9:"%2F%2Fpineda.webkreativen.kreativetest.com" ======> "%2F%2Flapinedadeleon.com"
+	SEARCH 10:"https://lapinedadeleon.com" ======================> "http://lapinedadeleon.com"
+	SEARCH 11:"https:\/\/lapinedadeleon.com" ====================> "http:\/\/lapinedadeleon.com"
+	SEARCH 12:"https%3A%2F%2Flapinedadeleon.com" ================> "http%3A%2F%2Flapinedadeleon.com"
+
+EVALUATE TABLE: "ht_gmp_options"__________________________________[ROWS:     2][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/humberto/public_html/pineda/" ==============> "/home/pineda/public_html/"
+	SEARCH  2:"\/home\/humberto\/public_html\/pineda\/" =========> "\/home\/pineda\/public_html\/"
+	SEARCH  3:"%2Fhome%2Fhumberto%2Fpublic_html%2Fpineda%2F" ====> "%2Fhome%2Fpineda%2Fpublic_html%2F"
+	SEARCH  4:"\home\humberto\public_html\pineda" ===============> "/home/pineda/public_html"
+	SEARCH  5:"\\home\\humberto\\public_html\\pineda" ===========> "\/home\/pineda\/public_html"
+	SEARCH  6:"%5Chome%5Chumberto%5Cpublic_html%5Cpineda" =======> "%2Fhome%2Fpineda%2Fpublic_html"
+	SEARCH  7:"//pineda.webkreativen.kreativetest.com" ==========> "//lapinedadeleon.com"
+	SEARCH  8:"\/\/pineda.webkreativen.kreativetest.com" ========> "\/\/lapinedadeleon.com"
+	SEARCH  9:"%2F%2Fpineda.webkreativen.kreativetest.com" ======> "%2F%2Flapinedadeleon.com"
+	SEARCH 10:"https://lapinedadeleon.com" ======================> "http://lapinedadeleon.com"
+	SEARCH 11:"https:\/\/lapinedadeleon.com" ====================> "http:\/\/lapinedadeleon.com"
+	SEARCH 12:"https%3A%2F%2Flapinedadeleon.com" ================> "http%3A%2F%2Flapinedadeleon.com"
+
+EVALUATE TABLE: "ht_gmp_options_categories"_______________________[ROWS:     4][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/humberto/public_html/pineda/" ==============> "/home/pineda/public_html/"
+	SEARCH  2:"\/home\/humberto\/public_html\/pineda\/" =========> "\/home\/pineda\/public_html\/"
+	SEARCH  3:"%2Fhome%2Fhumberto%2Fpublic_html%2Fpineda%2F" ====> "%2Fhome%2Fpineda%2Fpublic_html%2F"
+	SEARCH  4:"\home\humberto\public_html\pineda" ===============> "/home/pineda/public_html"
+	SEARCH  5:"\\home\\humberto\\public_html\\pineda" ===========> "\/home\/pineda\/public_html"
+	SEARCH  6:"%5Chome%5Chumberto%5Cpublic_html%5Cpineda" =======> "%2Fhome%2Fpineda%2Fpublic_html"
+	SEARCH  7:"//pineda.webkreativen.kreativetest.com" ==========> "//lapinedadeleon.com"
+	SEARCH  8:"\/\/pineda.webkreativen.kreativetest.com" ========> "\/\/lapinedadeleon.com"
+	SEARCH  9:"%2F%2Fpineda.webkreativen.kreativetest.com" ======> "%2F%2Flapinedadeleon.com"
+	SEARCH 10:"https://lapinedadeleon.com" ======================> "http://lapinedadeleon.com"
+	SEARCH 11:"https:\/\/lapinedadeleon.com" ====================> "http:\/\/lapinedadeleon.com"
+	SEARCH 12:"https%3A%2F%2Flapinedadeleon.com" ================> "http%3A%2F%2Flapinedadeleon.com"
+
+EVALUATE TABLE: "ht_gmp_usage_stat"_______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "ht_group_map"____________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "ht_links"________________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "ht_map_locations"________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "ht_masterslider_options"_________________________[ROWS:     5][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/humberto/public_html/pineda/" ==============> "/home/pineda/public_html/"
+	SEARCH  2:"\/home\/humberto\/public_html\/pineda\/" =========> "\/home\/pineda\/public_html\/"
+	SEARCH  3:"%2Fhome%2Fhumberto%2Fpublic_html%2Fpineda%2F" ====> "%2Fhome%2Fpineda%2Fpublic_html%2F"
+	SEARCH  4:"\home\humberto\public_html\pineda" ===============> "/home/pineda/public_html"
+	SEARCH  5:"\\home\\humberto\\public_html\\pineda" ===========> "\/home\/pineda\/public_html"
+	SEARCH  6:"%5Chome%5Chumberto%5Cpublic_html%5Cpineda" =======> "%2Fhome%2Fpineda%2Fpublic_html"
+	SEARCH  7:"//pineda.webkreativen.kreativetest.com" ==========> "//lapinedadeleon.com"
+	SEARCH  8:"\/\/pineda.webkreativen.kreativetest.com" ========> "\/\/lapinedadeleon.com"
+	SEARCH  9:"%2F%2Fpineda.webkreativen.kreativetest.com" ======> "%2F%2Flapinedadeleon.com"
+	SEARCH 10:"https://lapinedadeleon.com" ======================> "http://lapinedadeleon.com"
+	SEARCH 11:"https:\/\/lapinedadeleon.com" ====================> "http:\/\/lapinedadeleon.com"
+	SEARCH 12:"https%3A%2F%2Flapinedadeleon.com" ================> "http%3A%2F%2Flapinedadeleon.com"
+
+EVALUATE TABLE: "ht_masterslider_sliders"_________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "ht_options"______________________________________[ROWS:   396][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/humberto/public_html/pineda/" ==============> "/home/pineda/public_html/"
+	SEARCH  2:"\/home\/humberto\/public_html\/pineda\/" =========> "\/home\/pineda\/public_html\/"
+	SEARCH  3:"%2Fhome%2Fhumberto%2Fpublic_html%2Fpineda%2F" ====> "%2Fhome%2Fpineda%2Fpublic_html%2F"
+	SEARCH  4:"\home\humberto\public_html\pineda" ===============> "/home/pineda/public_html"
+	SEARCH  5:"\\home\\humberto\\public_html\\pineda" ===========> "\/home\/pineda\/public_html"
+	SEARCH  6:"%5Chome%5Chumberto%5Cpublic_html%5Cpineda" =======> "%2Fhome%2Fpineda%2Fpublic_html"
+	SEARCH  7:"//pineda.webkreativen.kreativetest.com" ==========> "//lapinedadeleon.com"
+	SEARCH  8:"\/\/pineda.webkreativen.kreativetest.com" ========> "\/\/lapinedadeleon.com"
+	SEARCH  9:"%2F%2Fpineda.webkreativen.kreativetest.com" ======> "%2F%2Flapinedadeleon.com"
+	SEARCH 10:"https://lapinedadeleon.com" ======================> "http://lapinedadeleon.com"
+	SEARCH 11:"https:\/\/lapinedadeleon.com" ====================> "http:\/\/lapinedadeleon.com"
+	SEARCH 12:"https%3A%2F%2Flapinedadeleon.com" ================> "http%3A%2F%2Flapinedadeleon.com"
+
+EVALUATE TABLE: "ht_postmeta"_____________________________________[ROWS:  2627][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/humberto/public_html/pineda/" ==============> "/home/pineda/public_html/"
+	SEARCH  2:"\/home\/humberto\/public_html\/pineda\/" =========> "\/home\/pineda\/public_html\/"
+	SEARCH  3:"%2Fhome%2Fhumberto%2Fpublic_html%2Fpineda%2F" ====> "%2Fhome%2Fpineda%2Fpublic_html%2F"
+	SEARCH  4:"\home\humberto\public_html\pineda" ===============> "/home/pineda/public_html"
+	SEARCH  5:"\\home\\humberto\\public_html\\pineda" ===========> "\/home\/pineda\/public_html"
+	SEARCH  6:"%5Chome%5Chumberto%5Cpublic_html%5Cpineda" =======> "%2Fhome%2Fpineda%2Fpublic_html"
+	SEARCH  7:"//pineda.webkreativen.kreativetest.com" ==========> "//lapinedadeleon.com"
+	SEARCH  8:"\/\/pineda.webkreativen.kreativetest.com" ========> "\/\/lapinedadeleon.com"
+	SEARCH  9:"%2F%2Fpineda.webkreativen.kreativetest.com" ======> "%2F%2Flapinedadeleon.com"
+	SEARCH 10:"https://lapinedadeleon.com" ======================> "http://lapinedadeleon.com"
+	SEARCH 11:"https:\/\/lapinedadeleon.com" ====================> "http:\/\/lapinedadeleon.com"
+	SEARCH 12:"https%3A%2F%2Flapinedadeleon.com" ================> "http%3A%2F%2Flapinedadeleon.com"
+
+EVALUATE TABLE: "ht_posts"________________________________________[ROWS:   619][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/humberto/public_html/pineda/" ==============> "/home/pineda/public_html/"
+	SEARCH  2:"\/home\/humberto\/public_html\/pineda\/" =========> "\/home\/pineda\/public_html\/"
+	SEARCH  3:"%2Fhome%2Fhumberto%2Fpublic_html%2Fpineda%2F" ====> "%2Fhome%2Fpineda%2Fpublic_html%2F"
+	SEARCH  4:"\home\humberto\public_html\pineda" ===============> "/home/pineda/public_html"
+	SEARCH  5:"\\home\\humberto\\public_html\\pineda" ===========> "\/home\/pineda\/public_html"
+	SEARCH  6:"%5Chome%5Chumberto%5Cpublic_html%5Cpineda" =======> "%2Fhome%2Fpineda%2Fpublic_html"
+	SEARCH  7:"//pineda.webkreativen.kreativetest.com" ==========> "//lapinedadeleon.com"
+	SEARCH  8:"\/\/pineda.webkreativen.kreativetest.com" ========> "\/\/lapinedadeleon.com"
+	SEARCH  9:"%2F%2Fpineda.webkreativen.kreativetest.com" ======> "%2F%2Flapinedadeleon.com"
+	SEARCH 10:"https://lapinedadeleon.com" ======================> "http://lapinedadeleon.com"
+	SEARCH 11:"https:\/\/lapinedadeleon.com" ====================> "http:\/\/lapinedadeleon.com"
+	SEARCH 12:"https%3A%2F%2Flapinedadeleon.com" ================> "http%3A%2F%2Flapinedadeleon.com"
+
+EVALUATE TABLE: "ht_pum_subscribers"______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "ht_revslider_css"________________________________[ROWS:   109][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/humberto/public_html/pineda/" ==============> "/home/pineda/public_html/"
+	SEARCH  2:"\/home\/humberto\/public_html\/pineda\/" =========> "\/home\/pineda\/public_html\/"
+	SEARCH  3:"%2Fhome%2Fhumberto%2Fpublic_html%2Fpineda%2F" ====> "%2Fhome%2Fpineda%2Fpublic_html%2F"
+	SEARCH  4:"\home\humberto\public_html\pineda" ===============> "/home/pineda/public_html"
+	SEARCH  5:"\\home\\humberto\\public_html\\pineda" ===========> "\/home\/pineda\/public_html"
+	SEARCH  6:"%5Chome%5Chumberto%5Cpublic_html%5Cpineda" =======> "%2Fhome%2Fpineda%2Fpublic_html"
+	SEARCH  7:"//pineda.webkreativen.kreativetest.com" ==========> "//lapinedadeleon.com"
+	SEARCH  8:"\/\/pineda.webkreativen.kreativetest.com" ========> "\/\/lapinedadeleon.com"
+	SEARCH  9:"%2F%2Fpineda.webkreativen.kreativetest.com" ======> "%2F%2Flapinedadeleon.com"
+	SEARCH 10:"https://lapinedadeleon.com" ======================> "http://lapinedadeleon.com"
+	SEARCH 11:"https:\/\/lapinedadeleon.com" ====================> "http:\/\/lapinedadeleon.com"
+	SEARCH 12:"https%3A%2F%2Flapinedadeleon.com" ================> "http%3A%2F%2Flapinedadeleon.com"
+
+EVALUATE TABLE: "ht_revslider_css_bkp"____________________________[ROWS:   109][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/humberto/public_html/pineda/" ==============> "/home/pineda/public_html/"
+	SEARCH  2:"\/home\/humberto\/public_html\/pineda\/" =========> "\/home\/pineda\/public_html\/"
+	SEARCH  3:"%2Fhome%2Fhumberto%2Fpublic_html%2Fpineda%2F" ====> "%2Fhome%2Fpineda%2Fpublic_html%2F"
+	SEARCH  4:"\home\humberto\public_html\pineda" ===============> "/home/pineda/public_html"
+	SEARCH  5:"\\home\\humberto\\public_html\\pineda" ===========> "\/home\/pineda\/public_html"
+	SEARCH  6:"%5Chome%5Chumberto%5Cpublic_html%5Cpineda" =======> "%2Fhome%2Fpineda%2Fpublic_html"
+	SEARCH  7:"//pineda.webkreativen.kreativetest.com" ==========> "//lapinedadeleon.com"
+	SEARCH  8:"\/\/pineda.webkreativen.kreativetest.com" ========> "\/\/lapinedadeleon.com"
+	SEARCH  9:"%2F%2Fpineda.webkreativen.kreativetest.com" ======> "%2F%2Flapinedadeleon.com"
+	SEARCH 10:"https://lapinedadeleon.com" ======================> "http://lapinedadeleon.com"
+	SEARCH 11:"https:\/\/lapinedadeleon.com" ====================> "http:\/\/lapinedadeleon.com"
+	SEARCH 12:"https%3A%2F%2Flapinedadeleon.com" ================> "http%3A%2F%2Flapinedadeleon.com"
+
+EVALUATE TABLE: "ht_revslider_layer_animations"___________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "ht_revslider_layer_animations_bkp"_______________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "ht_revslider_navigations"________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "ht_revslider_navigations_bkp"____________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "ht_revslider_sliders"____________________________[ROWS:     5][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/humberto/public_html/pineda/" ==============> "/home/pineda/public_html/"
+	SEARCH  2:"\/home\/humberto\/public_html\/pineda\/" =========> "\/home\/pineda\/public_html\/"
+	SEARCH  3:"%2Fhome%2Fhumberto%2Fpublic_html%2Fpineda%2F" ====> "%2Fhome%2Fpineda%2Fpublic_html%2F"
+	SEARCH  4:"\home\humberto\public_html\pineda" ===============> "/home/pineda/public_html"
+	SEARCH  5:"\\home\\humberto\\public_html\\pineda" ===========> "\/home\/pineda\/public_html"
+	SEARCH  6:"%5Chome%5Chumberto%5Cpublic_html%5Cpineda" =======> "%2Fhome%2Fpineda%2Fpublic_html"
+	SEARCH  7:"//pineda.webkreativen.kreativetest.com" ==========> "//lapinedadeleon.com"
+	SEARCH  8:"\/\/pineda.webkreativen.kreativetest.com" ========> "\/\/lapinedadeleon.com"
+	SEARCH  9:"%2F%2Fpineda.webkreativen.kreativetest.com" ======> "%2F%2Flapinedadeleon.com"
+	SEARCH 10:"https://lapinedadeleon.com" ======================> "http://lapinedadeleon.com"
+	SEARCH 11:"https:\/\/lapinedadeleon.com" ====================> "http:\/\/lapinedadeleon.com"
+	SEARCH 12:"https%3A%2F%2Flapinedadeleon.com" ================> "http%3A%2F%2Flapinedadeleon.com"
+
+EVALUATE TABLE: "ht_revslider_sliders_bkp"________________________[ROWS:     5][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/humberto/public_html/pineda/" ==============> "/home/pineda/public_html/"
+	SEARCH  2:"\/home\/humberto\/public_html\/pineda\/" =========> "\/home\/pineda\/public_html\/"
+	SEARCH  3:"%2Fhome%2Fhumberto%2Fpublic_html%2Fpineda%2F" ====> "%2Fhome%2Fpineda%2Fpublic_html%2F"
+	SEARCH  4:"\home\humberto\public_html\pineda" ===============> "/home/pineda/public_html"
+	SEARCH  5:"\\home\\humberto\\public_html\\pineda" ===========> "\/home\/pineda\/public_html"
+	SEARCH  6:"%5Chome%5Chumberto%5Cpublic_html%5Cpineda" =======> "%2Fhome%2Fpineda%2Fpublic_html"
+	SEARCH  7:"//pineda.webkreativen.kreativetest.com" ==========> "//lapinedadeleon.com"
+	SEARCH  8:"\/\/pineda.webkreativen.kreativetest.com" ========> "\/\/lapinedadeleon.com"
+	SEARCH  9:"%2F%2Fpineda.webkreativen.kreativetest.com" ======> "%2F%2Flapinedadeleon.com"
+	SEARCH 10:"https://lapinedadeleon.com" ======================> "http://lapinedadeleon.com"
+	SEARCH 11:"https:\/\/lapinedadeleon.com" ====================> "http:\/\/lapinedadeleon.com"
+	SEARCH 12:"https%3A%2F%2Flapinedadeleon.com" ================> "http%3A%2F%2Flapinedadeleon.com"
+
+EVALUATE TABLE: "ht_revslider_slides"_____________________________[ROWS:     5][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/humberto/public_html/pineda/" ==============> "/home/pineda/public_html/"
+	SEARCH  2:"\/home\/humberto\/public_html\/pineda\/" =========> "\/home\/pineda\/public_html\/"
+	SEARCH  3:"%2Fhome%2Fhumberto%2Fpublic_html%2Fpineda%2F" ====> "%2Fhome%2Fpineda%2Fpublic_html%2F"
+	SEARCH  4:"\home\humberto\public_html\pineda" ===============> "/home/pineda/public_html"
+	SEARCH  5:"\\home\\humberto\\public_html\\pineda" ===========> "\/home\/pineda\/public_html"
+	SEARCH  6:"%5Chome%5Chumberto%5Cpublic_html%5Cpineda" =======> "%2Fhome%2Fpineda%2Fpublic_html"
+	SEARCH  7:"//pineda.webkreativen.kreativetest.com" ==========> "//lapinedadeleon.com"
+	SEARCH  8:"\/\/pineda.webkreativen.kreativetest.com" ========> "\/\/lapinedadeleon.com"
+	SEARCH  9:"%2F%2Fpineda.webkreativen.kreativetest.com" ======> "%2F%2Flapinedadeleon.com"
+	SEARCH 10:"https://lapinedadeleon.com" ======================> "http://lapinedadeleon.com"
+	SEARCH 11:"https:\/\/lapinedadeleon.com" ====================> "http:\/\/lapinedadeleon.com"
+	SEARCH 12:"https%3A%2F%2Flapinedadeleon.com" ================> "http%3A%2F%2Flapinedadeleon.com"
+
+EVALUATE TABLE: "ht_revslider_slides_bkp"_________________________[ROWS:     5][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/humberto/public_html/pineda/" ==============> "/home/pineda/public_html/"
+	SEARCH  2:"\/home\/humberto\/public_html\/pineda\/" =========> "\/home\/pineda\/public_html\/"
+	SEARCH  3:"%2Fhome%2Fhumberto%2Fpublic_html%2Fpineda%2F" ====> "%2Fhome%2Fpineda%2Fpublic_html%2F"
+	SEARCH  4:"\home\humberto\public_html\pineda" ===============> "/home/pineda/public_html"
+	SEARCH  5:"\\home\\humberto\\public_html\\pineda" ===========> "\/home\/pineda\/public_html"
+	SEARCH  6:"%5Chome%5Chumberto%5Cpublic_html%5Cpineda" =======> "%2Fhome%2Fpineda%2Fpublic_html"
+	SEARCH  7:"//pineda.webkreativen.kreativetest.com" ==========> "//lapinedadeleon.com"
+	SEARCH  8:"\/\/pineda.webkreativen.kreativetest.com" ========> "\/\/lapinedadeleon.com"
+	SEARCH  9:"%2F%2Fpineda.webkreativen.kreativetest.com" ======> "%2F%2Flapinedadeleon.com"
+	SEARCH 10:"https://lapinedadeleon.com" ======================> "http://lapinedadeleon.com"
+	SEARCH 11:"https:\/\/lapinedadeleon.com" ====================> "http:\/\/lapinedadeleon.com"
+	SEARCH 12:"https%3A%2F%2Flapinedadeleon.com" ================> "http%3A%2F%2Flapinedadeleon.com"
+
+EVALUATE TABLE: "ht_revslider_static_slides"______________________[ROWS:     1][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/humberto/public_html/pineda/" ==============> "/home/pineda/public_html/"
+	SEARCH  2:"\/home\/humberto\/public_html\/pineda\/" =========> "\/home\/pineda\/public_html\/"
+	SEARCH  3:"%2Fhome%2Fhumberto%2Fpublic_html%2Fpineda%2F" ====> "%2Fhome%2Fpineda%2Fpublic_html%2F"
+	SEARCH  4:"\home\humberto\public_html\pineda" ===============> "/home/pineda/public_html"
+	SEARCH  5:"\\home\\humberto\\public_html\\pineda" ===========> "\/home\/pineda\/public_html"
+	SEARCH  6:"%5Chome%5Chumberto%5Cpublic_html%5Cpineda" =======> "%2Fhome%2Fpineda%2Fpublic_html"
+	SEARCH  7:"//pineda.webkreativen.kreativetest.com" ==========> "//lapinedadeleon.com"
+	SEARCH  8:"\/\/pineda.webkreativen.kreativetest.com" ========> "\/\/lapinedadeleon.com"
+	SEARCH  9:"%2F%2Fpineda.webkreativen.kreativetest.com" ======> "%2F%2Flapinedadeleon.com"
+	SEARCH 10:"https://lapinedadeleon.com" ======================> "http://lapinedadeleon.com"
+	SEARCH 11:"https:\/\/lapinedadeleon.com" ====================> "http:\/\/lapinedadeleon.com"
+	SEARCH 12:"https%3A%2F%2Flapinedadeleon.com" ================> "http%3A%2F%2Flapinedadeleon.com"
+
+EVALUATE TABLE: "ht_revslider_static_slides_bkp"__________________[ROWS:     1][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/humberto/public_html/pineda/" ==============> "/home/pineda/public_html/"
+	SEARCH  2:"\/home\/humberto\/public_html\/pineda\/" =========> "\/home\/pineda\/public_html\/"
+	SEARCH  3:"%2Fhome%2Fhumberto%2Fpublic_html%2Fpineda%2F" ====> "%2Fhome%2Fpineda%2Fpublic_html%2F"
+	SEARCH  4:"\home\humberto\public_html\pineda" ===============> "/home/pineda/public_html"
+	SEARCH  5:"\\home\\humberto\\public_html\\pineda" ===========> "\/home\/pineda\/public_html"
+	SEARCH  6:"%5Chome%5Chumberto%5Cpublic_html%5Cpineda" =======> "%2Fhome%2Fpineda%2Fpublic_html"
+	SEARCH  7:"//pineda.webkreativen.kreativetest.com" ==========> "//lapinedadeleon.com"
+	SEARCH  8:"\/\/pineda.webkreativen.kreativetest.com" ========> "\/\/lapinedadeleon.com"
+	SEARCH  9:"%2F%2Fpineda.webkreativen.kreativetest.com" ======> "%2F%2Flapinedadeleon.com"
+	SEARCH 10:"https://lapinedadeleon.com" ======================> "http://lapinedadeleon.com"
+	SEARCH 11:"https:\/\/lapinedadeleon.com" ====================> "http:\/\/lapinedadeleon.com"
+	SEARCH 12:"https%3A%2F%2Flapinedadeleon.com" ================> "http%3A%2F%2Flapinedadeleon.com"
+
+EVALUATE TABLE: "ht_smush_dir_images"_____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "ht_swift_performance_warmup"_____________________[ROWS:   202][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/humberto/public_html/pineda/" ==============> "/home/pineda/public_html/"
+	SEARCH  2:"\/home\/humberto\/public_html\/pineda\/" =========> "\/home\/pineda\/public_html\/"
+	SEARCH  3:"%2Fhome%2Fhumberto%2Fpublic_html%2Fpineda%2F" ====> "%2Fhome%2Fpineda%2Fpublic_html%2F"
+	SEARCH  4:"\home\humberto\public_html\pineda" ===============> "/home/pineda/public_html"
+	SEARCH  5:"\\home\\humberto\\public_html\\pineda" ===========> "\/home\/pineda\/public_html"
+	SEARCH  6:"%5Chome%5Chumberto%5Cpublic_html%5Cpineda" =======> "%2Fhome%2Fpineda%2Fpublic_html"
+	SEARCH  7:"//pineda.webkreativen.kreativetest.com" ==========> "//lapinedadeleon.com"
+	SEARCH  8:"\/\/pineda.webkreativen.kreativetest.com" ========> "\/\/lapinedadeleon.com"
+	SEARCH  9:"%2F%2Fpineda.webkreativen.kreativetest.com" ======> "%2F%2Flapinedadeleon.com"
+	SEARCH 10:"https://lapinedadeleon.com" ======================> "http://lapinedadeleon.com"
+	SEARCH 11:"https:\/\/lapinedadeleon.com" ====================> "http:\/\/lapinedadeleon.com"
+	SEARCH 12:"https%3A%2F%2Flapinedadeleon.com" ================> "http%3A%2F%2Flapinedadeleon.com"
+
+EVALUATE TABLE: "ht_term_relationships"___________________________[ROWS:   297][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/humberto/public_html/pineda/" ==============> "/home/pineda/public_html/"
+	SEARCH  2:"\/home\/humberto\/public_html\/pineda\/" =========> "\/home\/pineda\/public_html\/"
+	SEARCH  3:"%2Fhome%2Fhumberto%2Fpublic_html%2Fpineda%2F" ====> "%2Fhome%2Fpineda%2Fpublic_html%2F"
+	SEARCH  4:"\home\humberto\public_html\pineda" ===============> "/home/pineda/public_html"
+	SEARCH  5:"\\home\\humberto\\public_html\\pineda" ===========> "\/home\/pineda\/public_html"
+	SEARCH  6:"%5Chome%5Chumberto%5Cpublic_html%5Cpineda" =======> "%2Fhome%2Fpineda%2Fpublic_html"
+	SEARCH  7:"//pineda.webkreativen.kreativetest.com" ==========> "//lapinedadeleon.com"
+	SEARCH  8:"\/\/pineda.webkreativen.kreativetest.com" ========> "\/\/lapinedadeleon.com"
+	SEARCH  9:"%2F%2Fpineda.webkreativen.kreativetest.com" ======> "%2F%2Flapinedadeleon.com"
+	SEARCH 10:"https://lapinedadeleon.com" ======================> "http://lapinedadeleon.com"
+	SEARCH 11:"https:\/\/lapinedadeleon.com" ====================> "http:\/\/lapinedadeleon.com"
+	SEARCH 12:"https%3A%2F%2Flapinedadeleon.com" ================> "http%3A%2F%2Flapinedadeleon.com"
+
+EVALUATE TABLE: "ht_term_taxonomy"________________________________[ROWS:   140][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/humberto/public_html/pineda/" ==============> "/home/pineda/public_html/"
+	SEARCH  2:"\/home\/humberto\/public_html\/pineda\/" =========> "\/home\/pineda\/public_html\/"
+	SEARCH  3:"%2Fhome%2Fhumberto%2Fpublic_html%2Fpineda%2F" ====> "%2Fhome%2Fpineda%2Fpublic_html%2F"
+	SEARCH  4:"\home\humberto\public_html\pineda" ===============> "/home/pineda/public_html"
+	SEARCH  5:"\\home\\humberto\\public_html\\pineda" ===========> "\/home\/pineda\/public_html"
+	SEARCH  6:"%5Chome%5Chumberto%5Cpublic_html%5Cpineda" =======> "%2Fhome%2Fpineda%2Fpublic_html"
+	SEARCH  7:"//pineda.webkreativen.kreativetest.com" ==========> "//lapinedadeleon.com"
+	SEARCH  8:"\/\/pineda.webkreativen.kreativetest.com" ========> "\/\/lapinedadeleon.com"
+	SEARCH  9:"%2F%2Fpineda.webkreativen.kreativetest.com" ======> "%2F%2Flapinedadeleon.com"
+	SEARCH 10:"https://lapinedadeleon.com" ======================> "http://lapinedadeleon.com"
+	SEARCH 11:"https:\/\/lapinedadeleon.com" ====================> "http:\/\/lapinedadeleon.com"
+	SEARCH 12:"https%3A%2F%2Flapinedadeleon.com" ================> "http%3A%2F%2Flapinedadeleon.com"
+
+EVALUATE TABLE: "ht_termmeta"_____________________________________[ROWS:    37][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/humberto/public_html/pineda/" ==============> "/home/pineda/public_html/"
+	SEARCH  2:"\/home\/humberto\/public_html\/pineda\/" =========> "\/home\/pineda\/public_html\/"
+	SEARCH  3:"%2Fhome%2Fhumberto%2Fpublic_html%2Fpineda%2F" ====> "%2Fhome%2Fpineda%2Fpublic_html%2F"
+	SEARCH  4:"\home\humberto\public_html\pineda" ===============> "/home/pineda/public_html"
+	SEARCH  5:"\\home\\humberto\\public_html\\pineda" ===========> "\/home\/pineda\/public_html"
+	SEARCH  6:"%5Chome%5Chumberto%5Cpublic_html%5Cpineda" =======> "%2Fhome%2Fpineda%2Fpublic_html"
+	SEARCH  7:"//pineda.webkreativen.kreativetest.com" ==========> "//lapinedadeleon.com"
+	SEARCH  8:"\/\/pineda.webkreativen.kreativetest.com" ========> "\/\/lapinedadeleon.com"
+	SEARCH  9:"%2F%2Fpineda.webkreativen.kreativetest.com" ======> "%2F%2Flapinedadeleon.com"
+	SEARCH 10:"https://lapinedadeleon.com" ======================> "http://lapinedadeleon.com"
+	SEARCH 11:"https:\/\/lapinedadeleon.com" ====================> "http:\/\/lapinedadeleon.com"
+	SEARCH 12:"https%3A%2F%2Flapinedadeleon.com" ================> "http%3A%2F%2Flapinedadeleon.com"
+
+EVALUATE TABLE: "ht_terms"________________________________________[ROWS:   140][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/humberto/public_html/pineda/" ==============> "/home/pineda/public_html/"
+	SEARCH  2:"\/home\/humberto\/public_html\/pineda\/" =========> "\/home\/pineda\/public_html\/"
+	SEARCH  3:"%2Fhome%2Fhumberto%2Fpublic_html%2Fpineda%2F" ====> "%2Fhome%2Fpineda%2Fpublic_html%2F"
+	SEARCH  4:"\home\humberto\public_html\pineda" ===============> "/home/pineda/public_html"
+	SEARCH  5:"\\home\\humberto\\public_html\\pineda" ===========> "\/home\/pineda\/public_html"
+	SEARCH  6:"%5Chome%5Chumberto%5Cpublic_html%5Cpineda" =======> "%2Fhome%2Fpineda%2Fpublic_html"
+	SEARCH  7:"//pineda.webkreativen.kreativetest.com" ==========> "//lapinedadeleon.com"
+	SEARCH  8:"\/\/pineda.webkreativen.kreativetest.com" ========> "\/\/lapinedadeleon.com"
+	SEARCH  9:"%2F%2Fpineda.webkreativen.kreativetest.com" ======> "%2F%2Flapinedadeleon.com"
+	SEARCH 10:"https://lapinedadeleon.com" ======================> "http://lapinedadeleon.com"
+	SEARCH 11:"https:\/\/lapinedadeleon.com" ====================> "http:\/\/lapinedadeleon.com"
+	SEARCH 12:"https%3A%2F%2Flapinedadeleon.com" ================> "http%3A%2F%2Flapinedadeleon.com"
+
+EVALUATE TABLE: "ht_usermeta"_____________________________________[ROWS:   110][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/humberto/public_html/pineda/" ==============> "/home/pineda/public_html/"
+	SEARCH  2:"\/home\/humberto\/public_html\/pineda\/" =========> "\/home\/pineda\/public_html\/"
+	SEARCH  3:"%2Fhome%2Fhumberto%2Fpublic_html%2Fpineda%2F" ====> "%2Fhome%2Fpineda%2Fpublic_html%2F"
+	SEARCH  4:"\home\humberto\public_html\pineda" ===============> "/home/pineda/public_html"
+	SEARCH  5:"\\home\\humberto\\public_html\\pineda" ===========> "\/home\/pineda\/public_html"
+	SEARCH  6:"%5Chome%5Chumberto%5Cpublic_html%5Cpineda" =======> "%2Fhome%2Fpineda%2Fpublic_html"
+	SEARCH  7:"//pineda.webkreativen.kreativetest.com" ==========> "//lapinedadeleon.com"
+	SEARCH  8:"\/\/pineda.webkreativen.kreativetest.com" ========> "\/\/lapinedadeleon.com"
+	SEARCH  9:"%2F%2Fpineda.webkreativen.kreativetest.com" ======> "%2F%2Flapinedadeleon.com"
+	SEARCH 10:"https://lapinedadeleon.com" ======================> "http://lapinedadeleon.com"
+	SEARCH 11:"https:\/\/lapinedadeleon.com" ====================> "http:\/\/lapinedadeleon.com"
+	SEARCH 12:"https%3A%2F%2Flapinedadeleon.com" ================> "http%3A%2F%2Flapinedadeleon.com"
+
+EVALUATE TABLE: "ht_users"________________________________________[ROWS:     3][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/humberto/public_html/pineda/" ==============> "/home/pineda/public_html/"
+	SEARCH  2:"\/home\/humberto\/public_html\/pineda\/" =========> "\/home\/pineda\/public_html\/"
+	SEARCH  3:"%2Fhome%2Fhumberto%2Fpublic_html%2Fpineda%2F" ====> "%2Fhome%2Fpineda%2Fpublic_html%2F"
+	SEARCH  4:"\home\humberto\public_html\pineda" ===============> "/home/pineda/public_html"
+	SEARCH  5:"\\home\\humberto\\public_html\\pineda" ===========> "\/home\/pineda\/public_html"
+	SEARCH  6:"%5Chome%5Chumberto%5Cpublic_html%5Cpineda" =======> "%2Fhome%2Fpineda%2Fpublic_html"
+	SEARCH  7:"//pineda.webkreativen.kreativetest.com" ==========> "//lapinedadeleon.com"
+	SEARCH  8:"\/\/pineda.webkreativen.kreativetest.com" ========> "\/\/lapinedadeleon.com"
+	SEARCH  9:"%2F%2Fpineda.webkreativen.kreativetest.com" ======> "%2F%2Flapinedadeleon.com"
+	SEARCH 10:"https://lapinedadeleon.com" ======================> "http://lapinedadeleon.com"
+	SEARCH 11:"https:\/\/lapinedadeleon.com" ====================> "http:\/\/lapinedadeleon.com"
+	SEARCH 12:"https%3A%2F%2Flapinedadeleon.com" ================> "http%3A%2F%2Flapinedadeleon.com"
+
+EVALUATE TABLE: "ht_yoast_seo_links"______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "ht_yoast_seo_meta"_______________________________[ROWS:    30][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/humberto/public_html/pineda/" ==============> "/home/pineda/public_html/"
+	SEARCH  2:"\/home\/humberto\/public_html\/pineda\/" =========> "\/home\/pineda\/public_html\/"
+	SEARCH  3:"%2Fhome%2Fhumberto%2Fpublic_html%2Fpineda%2F" ====> "%2Fhome%2Fpineda%2Fpublic_html%2F"
+	SEARCH  4:"\home\humberto\public_html\pineda" ===============> "/home/pineda/public_html"
+	SEARCH  5:"\\home\\humberto\\public_html\\pineda" ===========> "\/home\/pineda\/public_html"
+	SEARCH  6:"%5Chome%5Chumberto%5Cpublic_html%5Cpineda" =======> "%2Fhome%2Fpineda%2Fpublic_html"
+	SEARCH  7:"//pineda.webkreativen.kreativetest.com" ==========> "//lapinedadeleon.com"
+	SEARCH  8:"\/\/pineda.webkreativen.kreativetest.com" ========> "\/\/lapinedadeleon.com"
+	SEARCH  9:"%2F%2Fpineda.webkreativen.kreativetest.com" ======> "%2F%2Flapinedadeleon.com"
+	SEARCH 10:"https://lapinedadeleon.com" ======================> "http://lapinedadeleon.com"
+	SEARCH 11:"https:\/\/lapinedadeleon.com" ====================> "http:\/\/lapinedadeleon.com"
+	SEARCH 12:"https%3A%2F%2Flapinedadeleon.com" ================> "http%3A%2F%2Flapinedadeleon.com"
+--------------------------------------
+SCANNED:	Tables:51 	|	 Rows:4919 	|	 Cells:32351 
+UPDATED:	Tables:10 	|	 Rows:883 	|	 Cells:889 
+ERRORS:		0 
+RUNTIME:	0.384000 sec
+
+====================================
+REMOVE LICENSE KEY
+====================================
+
+====================================
+CREATE NEW ADMIN USER
+====================================
+
+NEW WP-ADMIN USER:
+- New username 'admin' was created successfully allong with MU usermeta.
+
+====================================
+CONFIGURATION FILE UPDATES
+====================================
+	UPDATE DB_NAME ""pineda_st""
+	UPDATE DB_USER ""pineda_pineda_user""
+	UPDATE DB_PASSWORD "** OBSCURED **"
+	UPDATE DB_HOST ""localhost""
+	REMOVE WPCACHEHOME
+	
+*** UPDATED WP CONFIG FILE ***
+
+====================================
+HTACCESS UPDATE MODE: "NEW"
+====================================
+- PASS: Successfully created a new .htaccess file.
+- PASS: Existing Apache 'htaccess.orig' was removed
+
+====================================
+GENERAL UPDATES & CLEANUP
+====================================
+
+====================================
+DEACTIVATE PLUGINS CHECK
+====================================
+Deactivated plugins list here: Array
+(
+    [0] => really-simple-ssl/rlrsssl-really-simple-ssl.php
+    [1] => simple-google-recaptcha/simple-google-recaptcha.php
+    [2] => js_composer/js_composer.php
+)
+
+
+====================================
+NOTICES TEST
+====================================
+No General Notices Found
+
+
+====================================
+CLEANUP TMP FILES
+====================================
+
+====================================
+FINAL REPORT NOTICES
+====================================
+
+STEP-3 COMPLETE @ 03:41:48 - RUNTIME: 0.5068 sec. 
+
+
+====================================
+FINAL REPORT NOTICES LIST
+====================================
+-----------------------
+[INFO] No search and replace data errors
+	SECTIONS: search_replace
+
+-----------------------
+[INFO] No files extraction errors
+	SECTIONS: files
+
+-----------------------
+[INFO] No errors in database
+	SECTIONS: database
+
+-----------------------
+[INFO] No general notices
+	SECTIONS: general
+
+====================================

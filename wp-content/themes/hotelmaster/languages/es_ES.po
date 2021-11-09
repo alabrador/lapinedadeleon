@@ -1,0 +1,4204 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Hotel Master\n"
+"POT-Creation-Date: 2015-04-05 02:47+0700\n"
+"PO-Revision-Date: 2019-08-13 22:34-0400\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: C:/xampp/htdocs/hotelmaster/wp-content/themes/"
+"hotelmaster\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"Last-Translator: \n"
+"Language: es_ES\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:19
+msgid "Error 404"
+msgstr "Error 404"
+
+#: 404.php:22
+msgid "Sorry, we couldn't find the page you're looking for."
+msgstr "Lo sentimos, no podemos encontrar la página que estás buscando."
+
+#: comments.php:15
+msgid "Response"
+msgstr "Respuesta"
+
+#: comments.php:17
+msgid "Responses"
+msgstr "Respuestas"
+
+#: comments.php:28
+msgid "Comment navigation"
+msgstr "Comentario de navegación"
+
+#: comments.php:29
+msgid "&larr; Older Comments"
+msgstr "&larr; Comentarios antiguos"
+
+#: comments.php:30
+msgid "Newer Comments &rarr;"
+msgstr "Comentarios más nuevos y rarr;"
+
+#: comments.php:44
+msgid "Leave a Reply"
+msgstr "Deja una respuesta"
+
+#: comments.php:45
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Deja una respuesta a% s"
+
+#: comments.php:46
+msgid "Cancel Reply"
+msgstr "Cancelar respuesta"
+
+#: comments.php:47
+msgid "Post Comment"
+msgstr "Publicar comentario"
+
+#: comments.php:52
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Debe estar <a href=\"%s\"> conectado </a> para publicar un comentario."
+
+#: comments.php:55
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+"Conectado como <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Salir de "
+"esta cuenta\">¿Cerrar sesión?</a>"
+
+#: comments.php:62
+msgid "Name*"
+msgstr "Nombre*"
+
+#: comments.php:65
+msgid "Email*"
+msgstr "Email*"
+
+#: comments.php:68
+msgid "Website"
+msgstr "Sitio web"
+
+#: framework/function/gdlr-admin-panel-html.php:146
+msgid "Sample Font"
+msgstr "Fuente de muestra"
+
+#: framework/function/gdlr-admin-panel-html.php:276
+msgid "The skin you created can be used in Color / Background Wrapper Section"
+msgstr ""
+"La máscara que creó se puede usar en la sección de envoltura de color / fondo"
+
+#: framework/function/gdlr-admin-panel-html.php:371
+msgid "Insert Image"
+msgstr "Insertar imagen"
+
+#: framework/function/gdlr-admin-panel-html.php:373
+#: framework/function/gdlr-admin-panel-html.php:434
+#: framework/function/gdlr-admin-panel-html.php:450
+#: framework/function/gdlr-tax-meta.php:190
+#: include/gdlr-page-builder-option.php:198
+#: include/gdlr-page-builder-option.php:204
+#: include/gdlr-page-builder-option.php:1170
+#: include/gdlr-page-builder-option.php:1399 include/gdlr-page-options.php:104
+msgid "Upload"
+msgstr "Subir"
+
+#: framework/function/gdlr-admin-panel-html.php:385
+msgid "Upload font"
+msgstr "Subir fuente"
+
+#: framework/function/gdlr-admin-panel-html.php:415
+msgid "Font Name"
+msgstr "Nombre de la fuente"
+
+#: framework/function/gdlr-admin-panel-html.php:424
+msgid "EOT Font"
+msgstr "Fuente EOT"
+
+#: framework/function/gdlr-admin-panel-html.php:440
+msgid "TTF Font"
+msgstr "Fuente TTF"
+
+#: framework/function/gdlr-admin-panel.php:21
+msgid "Custom Option"
+msgstr "Opción personalizada"
+
+#: framework/function/gdlr-admin-panel.php:22
+msgid "Custom Menu"
+msgstr "Menú personalizado"
+
+#: framework/function/gdlr-admin-panel.php:86
+#: framework/function/gdlr-sidebar-generator.php:114
+#: framework/function/gdlr-sidebar-generator.php:160
+msgid "Invalid Nonce"
+msgstr "Nonce inválido"
+
+#: framework/function/gdlr-admin-panel.php:87
+#: framework/function/gdlr-admin-panel.php:106
+#: framework/function/gdlr-admin-panel.php:113
+#: framework/function/gdlr-sidebar-generator.php:115
+#: framework/function/gdlr-sidebar-generator.php:148
+#: framework/function/gdlr-sidebar-generator.php:161
+msgid "Please refresh the page and try this again."
+msgstr "Actualice la página e intente esto nuevamente."
+
+#: framework/function/gdlr-admin-panel.php:100
+msgid "Save Options Complete"
+msgstr "Opciones de guardado completadas"
+
+#: framework/function/gdlr-admin-panel.php:105
+msgid "Save Options Failed"
+msgstr "Error al guardar opciones"
+
+#: framework/function/gdlr-admin-panel.php:112
+msgid "Cannot Retrieve Options"
+msgstr "No se pueden recuperar opciones"
+
+#: framework/function/gdlr-admin-panel.php:194
+#: framework/function/gdlr-admin-panel.php:225
+msgid "Save Changes"
+msgstr "Guardar cambios"
+
+#: framework/function/gdlr-customizer.php:43
+#: framework/function/gdlr-customizer.php:57
+msgid "Color :"
+msgstr "Color :"
+
+#: framework/function/gdlr-font-loader.php:84
+msgid "Custom Font"
+msgstr "Fuente personalizada"
+
+#: framework/function/gdlr-font-loader.php:105
+msgid "Web Safe Font"
+msgstr "Fuente segura de la web"
+
+#: framework/function/gdlr-font-loader.php:113
+msgid "Google Font"
+msgstr "Fuente de Google"
+
+#: framework/function/gdlr-page-builder.php:21
+#: include/gdlr-page-builder-option.php:90
+msgid "Page Builder Options"
+msgstr "Opciones del generador de páginas"
+
+#: framework/function/gdlr-page-builder.php:27
+msgid "Above Sidebar Section"
+msgstr "Por encima de la sección de la barra lateral"
+
+#: framework/function/gdlr-page-builder.php:31
+msgid "Content ( With Sidebar ) Section"
+msgstr "Sección de contenido (con barra lateral)"
+
+#: framework/function/gdlr-page-builder.php:35
+msgid "Below Sidebar Section"
+msgstr "Debajo de la sección de la barra lateral"
+
+#: framework/function/gdlr-page-builder.php:131
+msgid "Add Content Item"
+msgstr "Agregar elemento de contenido"
+
+#: framework/function/gdlr-page-builder.php:203
+msgid "Page Builder Section"
+msgstr "Sección del generador de páginas"
+
+#: framework/function/gdlr-page-builder.php:206
+msgid "Undo"
+msgstr "Deshacer"
+
+#: framework/function/gdlr-page-builder.php:207
+msgid "Redo"
+msgstr "Rehacer"
+
+#: framework/function/gdlr-page-options.php:21 include/gdlr-page-options.php:38
+msgid "Goodlayers Page Option"
+msgstr "Opción de página Goodlayers"
+
+#: framework/function/gdlr-sidebar-generator.php:24
+msgid "Footer Column 1"
+msgstr "Pie de página columna 1"
+
+#: framework/function/gdlr-sidebar-generator.php:25
+msgid "Footer Column 2"
+msgstr "Pie de página columna 2"
+
+#: framework/function/gdlr-sidebar-generator.php:26
+msgid "Footer Column 3"
+msgstr "Pie de página columna 3"
+
+#: framework/function/gdlr-sidebar-generator.php:27
+msgid "Footer Column 4"
+msgstr "Pie de página columna 4"
+
+#: framework/function/gdlr-sidebar-generator.php:60
+#: framework/function/gdlr-sidebar-generator.php:75
+msgid "Custom widget area"
+msgstr "Área de widgets personalizados"
+
+#: framework/function/gdlr-sidebar-generator.php:103
+msgid "Create New Sidebar"
+msgstr "Crear nueva barra lateral"
+
+#: framework/function/gdlr-sidebar-generator.php:132
+msgid "Save Sidebar Failed"
+msgstr "No se pudo guardar la barra lateral"
+
+#: framework/function/gdlr-sidebar-generator.php:133
+#: framework/function/gdlr-sidebar-generator.php:141
+msgid "Please try creating the sidebar again with different name."
+msgstr "Intente crear la barra lateral nuevamente con un nombre diferente."
+
+#: framework/function/gdlr-sidebar-generator.php:140
+msgid "Duplicated Sidebar Name"
+msgstr "Nombre de barra lateral duplicado"
+
+#: framework/function/gdlr-sidebar-generator.php:147
+#: framework/function/gdlr-sidebar-generator.php:186
+msgid "Cannot Retrieve Sidebar Name"
+msgstr "No se puede recuperar el nombre de la barra lateral"
+
+#: framework/function/gdlr-sidebar-generator.php:179
+msgid "Save Failed"
+msgstr "Error al guardar"
+
+#: framework/function/gdlr-sidebar-generator.php:180
+#: framework/function/gdlr-sidebar-generator.php:187
+msgid "Please try again."
+msgstr "Inténtalo de nuevo."
+
+#: functions-size.php:74
+msgid "full size (Original Images)"
+msgstr "tamaño completo (Imágenes originales)"
+
+#: header-nav.php:31
+msgid "Type Keywords"
+msgstr "Escriba palabras clave"
+
+#: header-title.php:20
+msgid "Booking"
+msgstr "Reserva"
+
+#: header-title.php:94
+msgid "404"
+msgstr "cuatrocientos cuatro"
+
+#: header-title.php:95
+msgid "Page not found"
+msgstr "Página no encontrada"
+
+#: header-title.php:100
+msgid "Search Results"
+msgstr "Resultados de la búsqueda"
+
+#: header-title.php:103 include/gdlr-page-builder-option.php:402
+#: include/gdlr-page-builder-option.php:784
+#: include/gdlr-page-builder-option.php:1491
+msgid "Category"
+msgstr "Categoría"
+
+#: header-title.php:106 include/gdlr-page-builder-option.php:408
+msgid "Tag"
+msgstr "Etiqueta"
+
+#: header-title.php:109
+msgid "Day"
+msgstr "Día"
+
+#: header-title.php:112
+msgid "Month"
+msgstr "Mes"
+
+#: header-title.php:115
+msgid "Year"
+msgstr "Año"
+
+#: header-title.php:118
+msgid "By"
+msgstr "Por"
+
+#: header-title.php:124
+msgid "Shop"
+msgstr "Tienda"
+
+#: include/function/gdlr-function-regist.php:116
+msgid "Main Navigation Menu"
+msgstr "Menú de navegación principal"
+
+#: include/function/gdlr-function-regist.php:147
+msgid "Continue Reading"
+msgstr "Sigue leyendo"
+
+#: include/function/gdlr-function-regist.php:188
+msgid "Pingback :"
+msgstr "Ping de regreso:"
+
+#: include/function/gdlr-function-regist.php:188
+msgid "(Edit)"
+msgstr "(Editar)"
+
+#: include/function/gdlr-function-regist.php:202
+msgid "at"
+msgstr "a"
+
+#: include/function/gdlr-function-regist.php:207
+msgid "Reply"
+msgstr "Respuesta"
+
+#: include/function/gdlr-function-regist.php:212
+msgid "Your comment is awaiting moderation."
+msgstr "Tu comentario está esperando ser moderado."
+
+#: include/function/gdlr-function-regist.php:217
+msgid "Edit"
+msgstr "Editar"
+
+#: include/function/gdlr-function-regist.php:238
+msgid "Logout"
+msgstr "Cerrar sesión"
+
+#: include/function/gdlr-function-regist.php:240
+msgid "Login"
+msgstr "Iniciar sesión"
+
+#: include/function/gdlr-function-regist.php:246
+msgid "Username"
+msgstr "Nombre de usuario"
+
+#: include/function/gdlr-function-regist.php:247
+msgid "Password"
+msgstr "Contraseña"
+
+#: include/function/gdlr-function-regist.php:248
+msgid "Remember Me"
+msgstr "Recuérdame"
+
+#: include/function/gdlr-function-regist.php:249
+msgid "Log In"
+msgstr "Iniciar sesión"
+
+#: include/function/gdlr-function-regist.php:268
+msgid "Subscribe"
+msgstr "Suscribir"
+
+#: include/function/gdlr-page-item.php:416
+#: include/gdlr-page-builder-option.php:1016
+msgid "Buy Now"
+msgstr "Compra ahora"
+
+#: include/function/gdlr-page-item.php:459
+#: include/gdlr-page-builder-option.php:690
+msgid "Learn More"
+msgstr "Aprende más"
+
+#: include/function/gdlr-utility.php:183
+msgid "No Skin"
+msgstr "Sin piel"
+
+#: include/function/gdlr-utility.php:207 include/function/gdlr-utility.php:219
+msgid "&lsaquo; Previous"
+msgstr "&lsaquo; Anterior"
+
+#: include/function/gdlr-utility.php:208 include/function/gdlr-utility.php:230
+msgid "Next &rsaquo;"
+msgstr "Siguiente &rsaquo;"
+
+#: include/gdlr-admin-option.php:26
+msgid "Cannot Generate Custom File"
+msgstr "No se puede generar un archivo personalizado"
+
+#: include/gdlr-admin-option.php:27
+msgid ""
+"Please try changing the style-custom.css file permission to 775 or 777 for "
+"this."
+msgstr ""
+"Intente cambiar el permiso del archivo style-custom.css a 775 o 777 para "
+"esto."
+
+#: include/gdlr-admin-option.php:126
+msgid "Option"
+msgstr "Opción"
+
+#: include/gdlr-admin-option.php:139
+msgid "General"
+msgstr "General"
+
+#: include/gdlr-admin-option.php:144 include/gdlr-page-options.php:73
+msgid "Page Style"
+msgstr "Estilo de página"
+
+#: include/gdlr-admin-option.php:147
+msgid "Container Style"
+msgstr "Estilo del envase"
+
+#: include/gdlr-admin-option.php:150
+msgid "Full Style"
+msgstr "Estilo completo"
+
+#: include/gdlr-admin-option.php:151
+msgid "Boxed Style"
+msgstr "Estilo en caja"
+
+#: include/gdlr-admin-option.php:155 include/gdlr-page-builder-option.php:190
+#: include/gdlr-page-builder-option.php:197
+msgid "Background Image"
+msgstr "Imagen de fondo"
+
+#: include/gdlr-admin-option.php:160
+msgid "Background Pattern"
+msgstr "Patrón de fondo"
+
+#: include/gdlr-admin-option.php:167
+msgid "Container Width"
+msgstr "Ancho del contenedor"
+
+#: include/gdlr-admin-option.php:175
+msgid "Boxed Style Frame Width"
+msgstr "Ancho del marco de estilo en caja"
+
+#: include/gdlr-admin-option.php:181
+msgid "Default value is container width + 80"
+msgstr "El valor predeterminado es el ancho del contenedor + 80"
+
+#: include/gdlr-admin-option.php:184
+msgid "Enable Responsive"
+msgstr "Habilitar receptivo"
+
+#: include/gdlr-admin-option.php:189
+msgid "Sidebar Size"
+msgstr "Tamaño de barra lateral"
+
+#: include/gdlr-admin-option.php:192
+msgid "16 Percent"
+msgstr "16 por ciento"
+
+#: include/gdlr-admin-option.php:193 include/gdlr-admin-option.php:205
+msgid "25 Percent"
+msgstr "25 por ciento"
+
+#: include/gdlr-admin-option.php:194 include/gdlr-admin-option.php:206
+msgid "33 Percent"
+msgstr "33 por ciento"
+
+#: include/gdlr-admin-option.php:195
+msgid "41 Percent"
+msgstr "41 por ciento"
+
+#: include/gdlr-admin-option.php:196
+msgid "50 Percent"
+msgstr "50 por ciento"
+
+#: include/gdlr-admin-option.php:202
+msgid "Both Sidebar Size"
+msgstr "Tamaño de la barra lateral"
+
+#: include/gdlr-admin-option.php:212
+msgid "Date Format"
+msgstr "Formato de fecha"
+
+#: include/gdlr-admin-option.php:215
+msgid ""
+"See more details about the date format here. http://codex.wordpress.org/"
+"Formatting_Date_and_Time"
+msgstr ""
+"Ver más detalles sobre el formato de fecha aquí. http://codex.wordpress.org/"
+"Formatting_Date_and_Time"
+
+#: include/gdlr-admin-option.php:218
+msgid "Default Video Ratio"
+msgstr "Relación de video predeterminada"
+
+#: include/gdlr-admin-option.php:221
+msgid "Please only fill number/number as default video ratio"
+msgstr "Solo complete el número / número como relación de video predeterminada"
+
+#: include/gdlr-admin-option.php:224
+msgid "Additional Style"
+msgstr "Estilo adicional"
+
+#: include/gdlr-admin-option.php:229
+msgid "Additional Script ( no &lt;script> tag ) "
+msgstr "Script adicional (sin & lt; script> etiqueta ) "
+
+#: include/gdlr-admin-option.php:237
+msgid "Analytics / Favicon"
+msgstr "Analítica / Favicon"
+
+#: include/gdlr-admin-option.php:240
+msgid "Upload Favicon ( .ico file )"
+msgstr "Subir Favicon (archivo .ico)"
+
+#: include/gdlr-admin-option.php:241
+msgid "Select Icon"
+msgstr "Seleccionar icono"
+
+#: include/gdlr-admin-option.php:245
+msgid "Analytic Script ( with the &lt;script> tag )"
+msgstr "Script analítico (con la etiqueta & lt; script>)"
+
+#: include/gdlr-admin-option.php:257
+msgid "Search - Archive Style"
+msgstr "Búsqueda - Estilo de archivo"
+
+#: include/gdlr-admin-option.php:260
+msgid "Search - Archive Sidebar Template"
+msgstr "Buscar: plantilla de barra lateral de archivo"
+
+#: include/gdlr-admin-option.php:271
+msgid "Search - Archive Sidebar Left"
+msgstr "Buscar - Archivo Barra lateral izquierda"
+
+#: include/gdlr-admin-option.php:277
+msgid "Search - Archive Sidebar Right"
+msgstr "Buscar - Archivar barra lateral derecha"
+
+#: include/gdlr-admin-option.php:283
+msgid "Search - Archive Blog Style"
+msgstr "Buscar - Archivo Blog Style"
+
+#: include/gdlr-admin-option.php:286 include/gdlr-admin-option.php:287
+#: include/gdlr-admin-option.php:288 include/gdlr-admin-option.php:289
+#: include/gdlr-page-builder-option.php:430
+#: include/gdlr-page-builder-option.php:431
+#: include/gdlr-page-builder-option.php:432
+#: include/gdlr-page-builder-option.php:433
+msgid "Blog Grid"
+msgstr "Blog Cuadrícula"
+
+#: include/gdlr-admin-option.php:290 include/gdlr-page-builder-option.php:434
+msgid "Blog Medium"
+msgstr "Blog Medio"
+
+#: include/gdlr-admin-option.php:291 include/gdlr-page-builder-option.php:435
+msgid "Blog Full"
+msgstr "Blog completo"
+
+#: include/gdlr-admin-option.php:296
+msgid "Search - Archive Num Excerpt (Word)"
+msgstr "Búsqueda - Extracto de número de archivo (Word)"
+
+#: include/gdlr-admin-option.php:299 include/gdlr-admin-option.php:333
+#: include/gdlr-page-builder-option.php:417
+#: include/gdlr-page-builder-option.php:1500
+msgid ""
+"This is a number of word (decided by spaces) that you want to show on the "
+"post excerpt. <strong>Use 0 to hide the excerpt, -1 to show full posts and "
+"use the wordpress more tag</strong>."
+msgstr ""
+"Esta es una cantidad de palabras (decididas por espacios) que desea mostrar "
+"en el extracto de la publicación. <strong> Use 0 para ocultar el extracto, "
+"-1 para mostrar las publicaciones completas y use la etiqueta wordpress more "
+"</strong>."
+
+#: include/gdlr-admin-option.php:302 include/gdlr-admin-option.php:336
+#: include/gdlr-page-builder-option.php:452
+#: include/gdlr-page-builder-option.php:668
+#: include/gdlr-page-builder-option.php:825
+#: include/gdlr-page-builder-option.php:972
+#: include/gdlr-page-builder-option.php:1319
+#: include/gdlr-page-builder-option.php:1349
+#: include/gdlr-page-builder-option.php:1402
+#: include/gdlr-page-builder-option.php:1509
+#: include/gdlr-page-builder-option.php:1575
+msgid "Thumbnail Size"
+msgstr "Tamaño de la uña del pulgar"
+
+#: include/gdlr-admin-option.php:306 include/gdlr-admin-option.php:340
+#: include/gdlr-page-builder-option.php:828
+msgid "Only effects to <strong>standard and gallery post format</strong>"
+msgstr ""
+"Solo efectos para <strong> estándar y formato de publicación de galería </"
+"strong>"
+
+#: include/gdlr-admin-option.php:309
+msgid "Archive Portfolio Style"
+msgstr "Estilo de cartera de archivo"
+
+#: include/gdlr-admin-option.php:312 include/gdlr-plugin-option.php:66
+msgid "Portfolio Classic Style"
+msgstr "Portafolio Estilo Clásico"
+
+#: include/gdlr-admin-option.php:313 include/gdlr-plugin-option.php:67
+msgid "Portfolio Modern Style"
+msgstr "Portafolio Estilo Moderno"
+
+#: include/gdlr-admin-option.php:317
+msgid "Portfolio Size"
+msgstr "Tamaño de cartera"
+
+#: include/gdlr-admin-option.php:329
+msgid "Portfolio Num Excerpt (Word)"
+msgstr "Extracto de número de cartera (Word)"
+
+#: include/gdlr-admin-option.php:347
+msgid "Woocommerce Style"
+msgstr "Estilo Woocommerce"
+
+#: include/gdlr-admin-option.php:350
+msgid "Products Per Row"
+msgstr "Productos por fila"
+
+#: include/gdlr-admin-option.php:362
+msgid "All Products Sidebar"
+msgstr "Todos los productos barra lateral"
+
+#: include/gdlr-admin-option.php:373
+msgid "All Products Sidebar Left"
+msgstr "Todos los productos Barra lateral izquierda"
+
+#: include/gdlr-admin-option.php:379
+msgid "All Products Sidebar Right"
+msgstr "Todos los productos Barra lateral derecha"
+
+#: include/gdlr-admin-option.php:385
+msgid "Single Products Sidebar"
+msgstr "Barra lateral de productos individuales"
+
+#: include/gdlr-admin-option.php:396
+msgid "Single Products Sidebar Left"
+msgstr "Productos individuales Barra lateral izquierda"
+
+#: include/gdlr-admin-option.php:402
+msgid "Single products Sidebar Right"
+msgstr "Productos individuales Barra lateral derecha"
+
+#: include/gdlr-admin-option.php:411
+msgid "Footer - Copyright Style"
+msgstr "Pie de página - Estilo de copyright"
+
+#: include/gdlr-admin-option.php:414
+msgid "Show Footer"
+msgstr "Mostrar pie de página"
+
+#: include/gdlr-admin-option.php:419
+msgid "Footer Layout"
+msgstr "Diseño de pie de página"
+
+#: include/gdlr-admin-option.php:432
+msgid "Show Copyright"
+msgstr "Mostrar derechos de autor"
+
+#: include/gdlr-admin-option.php:440
+msgid "Import/Export Option"
+msgstr "Opción de importación / exportación"
+
+#: include/gdlr-admin-option.php:443
+msgid "Export Option"
+msgstr "Opción de exportación"
+
+#: include/gdlr-admin-option.php:446
+msgid "Export"
+msgstr "Exportar"
+
+#: include/gdlr-admin-option.php:450
+msgid "Import Option"
+msgstr "Opción de importación"
+
+#: include/gdlr-admin-option.php:453
+msgid "Import"
+msgstr "Importar"
+
+#: include/gdlr-admin-option.php:464
+msgid "Overall Elements"
+msgstr "Elementos generales"
+
+#: include/gdlr-admin-option.php:469
+msgid "Top Bar"
+msgstr "Barra superior"
+
+#: include/gdlr-admin-option.php:472
+msgid "Enable Top Bar"
+msgstr "Habilitar barra superior"
+
+#: include/gdlr-admin-option.php:476
+msgid "Top Bar Left Text"
+msgstr "Texto de la barra superior izquierda"
+
+#: include/gdlr-admin-option.php:483
+msgid "Header - Logo"
+msgstr "El logotipo de cabecera"
+
+#: include/gdlr-admin-option.php:486
+msgid "Header Style"
+msgstr "Estilo de encabezado"
+
+#: include/gdlr-admin-option.php:489
+msgid "Left Logo"
+msgstr "Logo izquierdo"
+
+#: include/gdlr-admin-option.php:490
+msgid "Centered Logo"
+msgstr "Logo Centrado"
+
+#: include/gdlr-admin-option.php:494
+msgid "Enable Float Menu"
+msgstr "Habilitar menú flotante"
+
+#: include/gdlr-admin-option.php:498
+msgid "Upload Header Logo"
+msgstr "Subir logotipo de encabezado"
+
+#: include/gdlr-admin-option.php:499
+msgid "Set As Logo"
+msgstr "Establecer como logotipo"
+
+#: include/gdlr-admin-option.php:503
+msgid "Logo Width"
+msgstr "Ancho del logo"
+
+#: include/gdlr-admin-option.php:508
+msgid ""
+"You may upload 2x size image and limit the logo width for retina display"
+msgstr ""
+"Puede cargar una imagen de tamaño 2x y limitar el ancho del logotipo para la "
+"pantalla retina"
+
+#: include/gdlr-admin-option.php:511
+msgid "Logo Top Margin"
+msgstr "Margen superior del logotipo"
+
+#: include/gdlr-admin-option.php:518
+msgid "Logo Bottom Margin"
+msgstr "Margen inferior del logotipo"
+
+#: include/gdlr-admin-option.php:525
+msgid "Navigation Top Margin"
+msgstr "Margen superior de navegación"
+
+#: include/gdlr-admin-option.php:536
+msgid "Page Title Background"
+msgstr "Fondo del título de la página"
+
+#: include/gdlr-admin-option.php:539
+msgid "Default Page Title Background"
+msgstr "Fondo de título de página predeterminado"
+
+#: include/gdlr-admin-option.php:545
+msgid "Default Post Title Background"
+msgstr "Fondo de título de publicación predeterminado"
+
+#: include/gdlr-admin-option.php:551
+msgid "Default Portfolio Title Background"
+msgstr "Fondo de título de cartera predeterminado"
+
+#: include/gdlr-admin-option.php:557
+msgid "Default Search Archive Title Background"
+msgstr "Fondo predeterminado del título del archivo de búsqueda"
+
+#: include/gdlr-admin-option.php:563
+msgid "Default 404 Title Background"
+msgstr "Fondo de título 404 predeterminado"
+
+#: include/gdlr-admin-option.php:576
+msgid "Copyright"
+msgstr "Derechos de autor"
+
+#: include/gdlr-admin-option.php:580
+msgid "Copyright Left Text"
+msgstr "Texto izquierdo del copyright"
+
+#: include/gdlr-admin-option.php:585
+msgid "Copyright Right Text"
+msgstr "Texto de derecho de autor"
+
+#: include/gdlr-admin-option.php:596
+msgid "Font Setting"
+msgstr "Configuración de fuente"
+
+#: include/gdlr-admin-option.php:603
+msgid "Font Size"
+msgstr "Tamaño de fuente"
+
+#: include/gdlr-admin-option.php:607
+msgid "Content Size"
+msgstr "Tamaño de contenido"
+
+#: include/gdlr-admin-option.php:614
+msgid "H1 Size"
+msgstr "Tamaño H1"
+
+#: include/gdlr-admin-option.php:621
+msgid "H2 Size"
+msgstr "Tamaño H2"
+
+#: include/gdlr-admin-option.php:628
+msgid "H3 Size"
+msgstr "Tamaño H3"
+
+#: include/gdlr-admin-option.php:635
+msgid "H4 Size"
+msgstr "Tamaño H4"
+
+#: include/gdlr-admin-option.php:642
+msgid "H5 Size"
+msgstr "Tamaño H5"
+
+#: include/gdlr-admin-option.php:649
+msgid "H6 Size"
+msgstr "Tamaño H6"
+
+#: include/gdlr-admin-option.php:660
+msgid "Upload Font"
+msgstr "Subir fuente"
+
+#: include/gdlr-admin-option.php:673
+msgid "Elements Color"
+msgstr "Color de los elementos"
+
+#: include/gdlr-admin-option.php:678
+msgid "Cutom Skin"
+msgstr "Apariencia personalizada"
+
+#: include/gdlr-admin-option.php:681
+msgid "Skin Settings"
+msgstr "Configuraciones de piel"
+
+#: include/gdlr-admin-option.php:684
+msgid "Title Color"
+msgstr "Color del título"
+
+#: include/gdlr-admin-option.php:685
+msgid "Title (Link) Hover Color"
+msgstr "Color de desplazamiento del título (enlace)"
+
+#: include/gdlr-admin-option.php:686
+msgid "Caption / Info Color"
+msgstr "Título / Color de información"
+
+#: include/gdlr-admin-option.php:687 include/gdlr-admin-option.php:907
+msgid "Link Color"
+msgstr "Color de enlace"
+
+#: include/gdlr-admin-option.php:688 include/gdlr-admin-option.php:913
+msgid "Link Hover Color"
+msgstr "Color de desplazamiento del enlace"
+
+#: include/gdlr-admin-option.php:689
+msgid "Element Background"
+msgstr "Elemento de fondo"
+
+#: include/gdlr-admin-option.php:690 include/gdlr-page-builder-option.php:1163
+msgid "Content Color"
+msgstr "Color de contenido"
+
+#: include/gdlr-admin-option.php:691 include/gdlr-page-builder-option.php:523
+msgid "Icon Color"
+msgstr "Color del icono"
+
+#: include/gdlr-admin-option.php:692 include/gdlr-admin-option.php:919
+#: include/gdlr-page-builder-option.php:765
+msgid "Border Color"
+msgstr "Color del borde"
+
+#: include/gdlr-admin-option.php:693 include/gdlr-admin-option.php:1071
+#: include/gdlr-admin-option.php:2116
+msgid "Button Text Color"
+msgstr "Color del texto del botón"
+
+#: include/gdlr-admin-option.php:694 include/gdlr-admin-option.php:1078
+#: include/gdlr-admin-option.php:2123
+msgid "Button Background Color"
+msgstr "Color de fondo del botón"
+
+#: include/gdlr-admin-option.php:695 include/gdlr-admin-option.php:1084
+msgid "Button Border Color"
+msgstr "Color del borde del botón"
+
+#: include/gdlr-admin-option.php:696
+msgid "Input Background Color"
+msgstr "Color de fondo de entrada"
+
+#: include/gdlr-admin-option.php:697
+msgid "Input Text Color"
+msgstr "Color de texto de entrada"
+
+#: include/gdlr-admin-option.php:704
+msgid "Top Bar / Header Bg"
+msgstr "Barra superior / encabezado Bg"
+
+#: include/gdlr-admin-option.php:707
+msgid "Top Bar Background"
+msgstr "Fondo de la barra superior"
+
+#: include/gdlr-admin-option.php:713
+msgid "Top Bar Bottom Border"
+msgstr "Barra superior Borde inferior"
+
+#: include/gdlr-admin-option.php:719
+msgid "Top Bar Text"
+msgstr "Texto de barra superior"
+
+#: include/gdlr-admin-option.php:725
+msgid "Top Bar Link"
+msgstr "Enlace de barra superior"
+
+#: include/gdlr-admin-option.php:731
+msgid "Header Background Color"
+msgstr "Color de fondo del encabezado"
+
+#: include/gdlr-admin-option.php:738
+msgid "Main Navigation Text"
+msgstr "Texto de navegación principal"
+
+#: include/gdlr-admin-option.php:744
+msgid "Main Navigation Text Hover/Current"
+msgstr "Navegación principal Texto Hover / Current"
+
+#: include/gdlr-admin-option.php:751
+msgid "Main Navigation Text Hover divider"
+msgstr "Divisor principal de desplazamiento del texto de navegación"
+
+#: include/gdlr-admin-option.php:760
+msgid "Main Menu / Search"
+msgstr "Menú principal / Búsqueda"
+
+#: include/gdlr-admin-option.php:763
+msgid "Sub Menu Top Border"
+msgstr "Submenú Borde superior"
+
+#: include/gdlr-admin-option.php:770
+msgid "Sub Menu Background"
+msgstr "Fondo del submenú"
+
+#: include/gdlr-admin-option.php:776
+msgid "Sub Menu Text Color"
+msgstr "Color del texto del submenú"
+
+#: include/gdlr-admin-option.php:782
+msgid "Sub Menu Text Hover/Current"
+msgstr "Submenú Texto Hover / Current"
+
+#: include/gdlr-admin-option.php:791
+msgid "Sub Mega Menu Background Hover"
+msgstr "Submenú de fondo del megamenú"
+
+#: include/gdlr-admin-option.php:798
+msgid "Sub Menu Divider"
+msgstr "Divisor de submenú"
+
+#: include/gdlr-admin-option.php:804
+msgid "Sub (Mega) Menu Title"
+msgstr "Título del menú secundario (mega)"
+
+#: include/gdlr-admin-option.php:810
+msgid "Sub (Mega) Menu Title Hover/Current"
+msgstr "Sub (Mega) Menú Título Hover / Current"
+
+#: include/gdlr-admin-option.php:818
+msgid "Mobile Menu Background"
+msgstr "Fondo del menú móvil"
+
+#: include/gdlr-admin-option.php:824
+msgid "Mobile Menu Background Hover"
+msgstr "Desplazamiento del fondo del menú móvil"
+
+#: include/gdlr-admin-option.php:832
+msgid "Header Search Box Background"
+msgstr "Fondo del cuadro de búsqueda de encabezado"
+
+#: include/gdlr-admin-option.php:842
+msgid "Body"
+msgstr "Cuerpo"
+
+#: include/gdlr-admin-option.php:845
+msgid "Body Icon Color"
+msgstr "Color del icono del cuerpo"
+
+#: include/gdlr-admin-option.php:848 include/gdlr-social-icon.php:44
+msgid "Dark"
+msgstr "Oscuro"
+
+#: include/gdlr-admin-option.php:849 include/gdlr-social-icon.php:43
+msgid "Light"
+msgstr "Ligero"
+
+#: include/gdlr-admin-option.php:853
+msgid "Body Background ( for boxed style )"
+msgstr "Fondo del cuerpo (para estilo en caja)"
+
+#: include/gdlr-admin-option.php:859
+msgid "Container Background"
+msgstr "Contenedor de fondo"
+
+#: include/gdlr-admin-option.php:865
+msgid "Page Title Color"
+msgstr "Color del título de la página"
+
+#: include/gdlr-admin-option.php:871
+msgid "Page Caption Color"
+msgstr "Color de título de página"
+
+#: include/gdlr-admin-option.php:877
+msgid "Heading Color"
+msgstr "Color de rumbo"
+
+#: include/gdlr-admin-option.php:883
+msgid "Item Title Color"
+msgstr "Color del título del artículo"
+
+#: include/gdlr-admin-option.php:889
+msgid "Item Title Divider"
+msgstr "Divisor del título del artículo"
+
+#: include/gdlr-admin-option.php:895
+msgid "Item Title Caption Color"
+msgstr "Título del artículo Título Color"
+
+#: include/gdlr-admin-option.php:901 include/gdlr-page-builder-option.php:754
+#: include/gdlr-page-builder-option.php:1069
+#: include/gdlr-page-builder-option.php:1111
+msgid "Text Color"
+msgstr "Color de texto"
+
+#: include/gdlr-admin-option.php:925
+msgid "404 Box Background"
+msgstr "Fondo de caja 404"
+
+#: include/gdlr-admin-option.php:931
+msgid "404 Box Text"
+msgstr "404 cuadro de texto"
+
+#: include/gdlr-admin-option.php:937
+msgid "404 Search Box Background"
+msgstr "Fondo de cuadro de búsqueda 404"
+
+#: include/gdlr-admin-option.php:943
+msgid "404 Search Box Text"
+msgstr "404 Texto del cuadro de búsqueda"
+
+#: include/gdlr-admin-option.php:952
+msgid "Sidebar Color"
+msgstr "Color de barra lateral"
+
+#: include/gdlr-admin-option.php:955
+msgid "Sidebar Title Color"
+msgstr "Color de título de barra lateral"
+
+#: include/gdlr-admin-option.php:961
+msgid "Sidebar Border Color"
+msgstr "Color del borde de la barra lateral"
+
+#: include/gdlr-admin-option.php:967
+msgid "Sidebar List Circle"
+msgstr "Círculo de lista de barra lateral"
+
+#: include/gdlr-admin-option.php:973
+msgid "Search Form Background"
+msgstr "Fondo de formulario de búsqueda"
+
+#: include/gdlr-admin-option.php:979
+msgid "Search Form Text Color"
+msgstr "Color del texto del formulario de búsqueda"
+
+#: include/gdlr-admin-option.php:985
+msgid "Search Form Border Color"
+msgstr "Color del borde del formulario de búsqueda"
+
+#: include/gdlr-admin-option.php:991
+msgid "Tagcloud Background"
+msgstr "Fondo de Tagcloud"
+
+#: include/gdlr-admin-option.php:997
+msgid "Tagcloud Text"
+msgstr "Texto de Tag Cloud"
+
+#: include/gdlr-admin-option.php:1006
+msgid "Content Elements"
+msgstr "Elementos de contenido"
+
+#: include/gdlr-admin-option.php:1009
+msgid "Accordion (Style 1) Title Text"
+msgstr "Acordeón (Estilo 1) Texto del título"
+
+#: include/gdlr-admin-option.php:1015
+msgid "Accordion (Style 1) Title Active Color"
+msgstr "Acordeón (Estilo 1) Título Color activo"
+
+#: include/gdlr-admin-option.php:1021
+msgid "Accordion (Style 1) Icon Background"
+msgstr "Fondo de icono de acordeón (estilo 1)"
+
+#: include/gdlr-admin-option.php:1027
+msgid "Accordion (Style 1) Icon Color"
+msgstr "Color de icono de acordeón (estilo 1)"
+
+#: include/gdlr-admin-option.php:1033
+msgid "Accordion (Style 1) Icon Active Background"
+msgstr "Icono de acordeón (Estilo 1) Fondo activo"
+
+#: include/gdlr-admin-option.php:1039
+msgid "Accordion (Style 1) Icon Active Color"
+msgstr "Icono de acordeón (Estilo 1) Color activo"
+
+#: include/gdlr-admin-option.php:1045
+msgid "Banner Item Navigation Color"
+msgstr "Color de navegación del elemento de banner"
+
+#: include/gdlr-admin-option.php:1052
+msgid "Box With Icon Background"
+msgstr "Cuadro con fondo de icono"
+
+#: include/gdlr-admin-option.php:1058
+msgid "Box With Icon Title Color"
+msgstr "Cuadro con color del título del icono"
+
+#: include/gdlr-admin-option.php:1065
+msgid "Box With Icon Text Color"
+msgstr "Cuadro con color de texto de icono"
+
+#: include/gdlr-admin-option.php:1090
+msgid "Column Service Title Color"
+msgstr "Color del título del servicio de columna"
+
+#: include/gdlr-admin-option.php:1096
+msgid "Column Service Content Color"
+msgstr "Color del contenido del servicio de columna"
+
+#: include/gdlr-admin-option.php:1102
+msgid "Column Service Icon Color"
+msgstr "Color de icono de servicio de columna"
+
+#: include/gdlr-admin-option.php:1109
+msgid "Column Service Icon Background (Style 2) Color"
+msgstr "Color del fondo del icono de servicio de columna (Estilo 2)"
+
+#: include/gdlr-admin-option.php:1115
+msgid "List With Icon Title Color"
+msgstr "Lista con el color del título del icono"
+
+#: include/gdlr-admin-option.php:1121
+msgid "Pie Chart Title Color"
+msgstr "Color del título del gráfico circular"
+
+#: include/gdlr-admin-option.php:1127
+msgid "Price Background"
+msgstr "Fondo de precios"
+
+#: include/gdlr-admin-option.php:1133
+msgid "Price Title Background"
+msgstr "Fondo de título de precio"
+
+#: include/gdlr-admin-option.php:1139
+msgid "Price Title Text"
+msgstr "Texto del título del precio"
+
+#: include/gdlr-admin-option.php:1145
+msgid "Price Tag Background"
+msgstr "Fondo de etiqueta de precio"
+
+#: include/gdlr-admin-option.php:1151
+msgid "Active Price Tag Background"
+msgstr "Fondo de etiqueta de precio activo"
+
+#: include/gdlr-admin-option.php:1157
+msgid "Price Tag Text"
+msgstr "Texto de etiqueta de precio"
+
+#: include/gdlr-admin-option.php:1166
+msgid "Content Elements 2"
+msgstr "Elementos de contenido 2"
+
+#: include/gdlr-admin-option.php:1169
+msgid "Process Icon Background"
+msgstr "Fondo del icono de proceso"
+
+#: include/gdlr-admin-option.php:1175
+msgid "Process Icon Border"
+msgstr "Borde del icono de proceso"
+
+#: include/gdlr-admin-option.php:1181
+msgid "Process Icon Color"
+msgstr "Color del icono de proceso"
+
+#: include/gdlr-admin-option.php:1187
+msgid "Process Line Color"
+msgstr "Color de línea de proceso"
+
+#: include/gdlr-admin-option.php:1195
+msgid "Process Title"
+msgstr "Título del proceso"
+
+#: include/gdlr-admin-option.php:1201
+msgid "Skill Item Text Color"
+msgstr "Color del texto del elemento de habilidad"
+
+#: include/gdlr-admin-option.php:1207
+msgid "Stunning Text Title Color"
+msgstr "Impresionante color del título del texto"
+
+#: include/gdlr-admin-option.php:1213
+msgid "Stunning Text Caption Color"
+msgstr "Impresionante color de subtítulos de texto"
+
+#: include/gdlr-admin-option.php:1219
+msgid "Stunning Text Background"
+msgstr "Impresionante fondo de texto"
+
+#: include/gdlr-admin-option.php:1225
+msgid "Stunning Text Border"
+msgstr "Impresionante borde de texto"
+
+#: include/gdlr-admin-option.php:1231
+msgid "Tab Title Background"
+msgstr "Fondo del título de la pestaña"
+
+#: include/gdlr-admin-option.php:1237
+msgid "Tab Title Text Color"
+msgstr "Color del texto del título de la pestaña"
+
+#: include/gdlr-admin-option.php:1243
+msgid "Tab Title Content Background"
+msgstr "Fondo del contenido del título de la pestaña"
+
+#: include/gdlr-admin-option.php:1249
+msgid "Table Head Background"
+msgstr "Fondo de cabeza de mesa"
+
+#: include/gdlr-admin-option.php:1255
+msgid "Table Head Text Color"
+msgstr "Color del texto del encabezado de la tabla"
+
+#: include/gdlr-admin-option.php:1261 include/gdlr-admin-option.php:1267
+msgid "Table (Style2) Odd Row Background"
+msgstr "Tabla (Estilo2) Fondo de fila impar"
+
+#: include/gdlr-admin-option.php:1273 include/gdlr-admin-option.php:1279
+msgid "Table (Style2) Even Row Background"
+msgstr "Tabla (Style2) Fondo de fila par"
+
+#: include/gdlr-admin-option.php:1288
+msgid "Blog Color"
+msgstr "Blog Color"
+
+#: include/gdlr-admin-option.php:1291
+msgid "Blog Title Color"
+msgstr "Color del título del blog"
+
+#: include/gdlr-admin-option.php:1297
+msgid "Blog Title Hover Color"
+msgstr "Color de desplazamiento del título del blog"
+
+#: include/gdlr-admin-option.php:1303
+msgid "Blog Info Color"
+msgstr "Color de información del blog"
+
+#: include/gdlr-admin-option.php:1309
+msgid "Blog Sticky Bar Backgrond"
+msgstr "Blog Fondo de barra adhesiva"
+
+#: include/gdlr-admin-option.php:1315
+msgid "Blog Sticky Bar Text"
+msgstr "Blog Texto de barra adhesiva"
+
+#: include/gdlr-admin-option.php:1321
+msgid "Blog Social Share Background"
+msgstr "Blog Social Share Background"
+
+#: include/gdlr-admin-option.php:1327
+msgid "Blog Social Share Title"
+msgstr "Blog social share title"
+
+#: include/gdlr-admin-option.php:1333
+msgid "Blog Tag Background"
+msgstr "Fondo de etiqueta de precio"
+
+#: include/gdlr-admin-option.php:1339
+msgid "Blog Tag Text Color"
+msgstr "Color del texto de la etiqueta del blog"
+
+#: include/gdlr-admin-option.php:1345
+msgid "Blog Date Background"
+msgstr "Fondo de fecha de blog"
+
+#: include/gdlr-admin-option.php:1351
+msgid "Blog Widget Date Shadow"
+msgstr "Blog Widget Date Shadow"
+
+#: include/gdlr-admin-option.php:1358
+msgid "Blog Widget Date Text"
+msgstr "Texto de fecha del widget del blog"
+
+#: include/gdlr-admin-option.php:1364
+msgid "Blog Aside Format Background"
+msgstr "Fondo de formato de blog aparte"
+
+#: include/gdlr-admin-option.php:1370
+msgid "Blog Aside Format Text Color"
+msgstr "Color de texto del formato de blog aparte"
+
+#: include/gdlr-admin-option.php:1376
+msgid "Blog Quote Format Text"
+msgstr "Texto de formato de cotización de blog"
+
+#: include/gdlr-admin-option.php:1382
+msgid "Blog Quote Format Author"
+msgstr "Autor del formato de cotización del blog"
+
+#: include/gdlr-admin-option.php:1388
+msgid "Blog Navigation Background ( Prev / Next )"
+msgstr "Fondo de navegación del blog (Anterior / Siguiente)"
+
+#: include/gdlr-admin-option.php:1394
+msgid "Blog Navigation Icon ( Prev / Next )"
+msgstr "Icono de navegación del blog (Anterior / Siguiente)"
+
+#: include/gdlr-admin-option.php:1403
+msgid "Portfolio / Pagination"
+msgstr "Portafolio / Paginación"
+
+#: include/gdlr-admin-option.php:1406
+msgid "Portfolio Filter Text"
+msgstr "Texto del filtro de cartera"
+
+#: include/gdlr-admin-option.php:1412
+msgid "Portfolio Filter Text Active"
+msgstr "Portfolio Filter Text Active"
+
+#: include/gdlr-admin-option.php:1418
+msgid "Portfolio Thumbnail Hover Background"
+msgstr "Fondo de desplazamiento de miniatura de cartera"
+
+#: include/gdlr-admin-option.php:1425
+msgid "Portfolio Thumbnail Hover Icon Color"
+msgstr "Color de icono de desplazamiento de miniatura de cartera"
+
+#: include/gdlr-admin-option.php:1432
+msgid "Portfolio Title"
+msgstr "Titulo de Portafolio"
+
+#: include/gdlr-admin-option.php:1438
+msgid "Portfolio Title Hover"
+msgstr "Portafolio Título Hover"
+
+#: include/gdlr-admin-option.php:1444
+msgid "Portfolio Info"
+msgstr "Información de cartera"
+
+#: include/gdlr-admin-option.php:1451
+msgid "Pagination Background"
+msgstr "Fondo de paginación"
+
+#: include/gdlr-admin-option.php:1457
+msgid "Pagination Text Color"
+msgstr "Color de texto de paginación"
+
+#: include/gdlr-admin-option.php:1463
+msgid "Pagination Background Hover"
+msgstr "Desplazamiento de fondo de paginación"
+
+#: include/gdlr-admin-option.php:1470
+msgid "Pagination Text Color Hover"
+msgstr "Texto de paginación Color Hover"
+
+#: include/gdlr-admin-option.php:1480
+msgid "Room Color"
+msgstr "Color de la habitación"
+
+#: include/gdlr-admin-option.php:1483
+msgid "Single Room Title Color"
+msgstr "Color de título de habitación individual"
+
+#: include/gdlr-admin-option.php:1489
+msgid "Room Item Title Color"
+msgstr "Título de elemento de habitación Color"
+
+#: include/gdlr-admin-option.php:1496
+msgid "Room Item Title Color Hover"
+msgstr "Título del elemento de habitación Color Hover"
+
+#: include/gdlr-admin-option.php:1503
+msgid "Room Price Title Color"
+msgstr "Precio de la habitación Título Color"
+
+#: include/gdlr-admin-option.php:1509
+msgid "Room Price Color"
+msgstr "Precio de habitación Color"
+
+#: include/gdlr-admin-option.php:1516
+msgid "Modern Room Detail Color"
+msgstr "Color de detalle de habitación moderna"
+
+#: include/gdlr-admin-option.php:1522
+msgid "Medium Room Info Border"
+msgstr "Borde mediano de información de habitación"
+
+#: include/gdlr-admin-option.php:1528
+msgid "Medium Room Info Color"
+msgstr "Color medio de la información de la habitación"
+
+#: include/gdlr-admin-option.php:1534
+msgid "Medium Room Price Breakdown Text"
+msgstr "Texto de desglose medio del precio de la habitación"
+
+#: include/gdlr-admin-option.php:1540
+msgid "Price Breakdown Background"
+msgstr "Fondo de desglose de precios"
+
+#: include/gdlr-admin-option.php:1546
+msgid "Price Breakdown Border"
+msgstr "Desglose de precios en la frontera"
+
+#: include/gdlr-admin-option.php:1553
+msgid "Price Breakdown Title"
+msgstr "Título de desglose de precios"
+
+#: include/gdlr-admin-option.php:1560
+msgid "Price Breakdown Info"
+msgstr "Información de desglose de precios"
+
+#: include/gdlr-admin-option.php:1571
+msgid "Room 2 Color"
+msgstr "Habitación 2 Color"
+
+#: include/gdlr-admin-option.php:1574
+msgid "Booking Payment Type Border"
+msgstr "Reserva Tipo de pago Frontera"
+
+#: include/gdlr-admin-option.php:1581
+msgid "Booking Payment Submit Background"
+msgstr "Pago de la reserva Enviar antecedentes"
+
+#: include/gdlr-admin-option.php:1587
+msgid "Booking Payment Submit Border"
+msgstr "Reserva Pago Enviar Frontera"
+
+#: include/gdlr-admin-option.php:1593
+msgid "Booking Summary Text"
+msgstr "Texto de resumen de reserva"
+
+#: include/gdlr-admin-option.php:1602
+msgid "Booking Summary Info Text"
+msgstr "Texto de información de resumen de reserva"
+
+#: include/gdlr-admin-option.php:1610
+msgid "Booking Summary Divider Color"
+msgstr "Color del divisor de resumen de reserva"
+
+#: include/gdlr-admin-option.php:1616
+msgid "Booking Summary Edit Button Background"
+msgstr "Resumen de reserva Editar fondo del botón"
+
+#: include/gdlr-admin-option.php:1622
+msgid "Booking Summary Edit Button Border"
+msgstr "Borde del botón Editar resumen de reserva"
+
+#: include/gdlr-admin-option.php:1628
+msgid "Booking Complete Message Background"
+msgstr "Reserva de fondo del mensaje completo"
+
+#: include/gdlr-admin-option.php:1634
+msgid "Booking Complete Message Caption"
+msgstr "Leyenda completa del mensaje de reserva"
+
+#: include/gdlr-admin-option.php:1640
+msgid "Booking Complete Message Caption Border"
+msgstr "Reserva completa borde del subtítulo del mensaje"
+
+#: include/gdlr-admin-option.php:1646
+msgid "Booking Complete Message Title"
+msgstr "Título completo del mensaje de reserva"
+
+#: include/gdlr-admin-option.php:1656
+msgid "Datepicker / Process"
+msgstr "Datepicker / Process"
+
+#: include/gdlr-admin-option.php:1659
+msgid "Datepicker Background Color"
+msgstr "Color de fondo del selector de fecha"
+
+#: include/gdlr-admin-option.php:1665
+msgid "Datepicker Head Text"
+msgstr "Texto de la cabeza del selector de fecha"
+
+#: include/gdlr-admin-option.php:1671
+msgid "Datepicker Date Background"
+msgstr "Datepicker Fecha Fondo"
+
+#: include/gdlr-admin-option.php:1678
+msgid "Datepicker Date Text"
+msgstr "Selector de fecha Texto de fecha"
+
+#: include/gdlr-admin-option.php:1685
+msgid "Datepicker Disable Date Background"
+msgstr "Selector de fecha Desactivar fondo de fecha"
+
+#: include/gdlr-admin-option.php:1691
+msgid "Datepicker Disable Date Text"
+msgstr "Selector de fecha Desactivar texto de fecha"
+
+#: include/gdlr-admin-option.php:1697
+msgid "Datepicker Highlight Date Background"
+msgstr "Datepicker resaltar fecha fondo"
+
+#: include/gdlr-admin-option.php:1703
+msgid "Datepicker Highlight Date Text"
+msgstr "Datepicker Resaltar Fecha Texto"
+
+#: include/gdlr-admin-option.php:1709 include/gdlr-admin-option.php:1716
+msgid "Booking Process Background"
+msgstr "Antecedentes del proceso de reserva"
+
+#: include/gdlr-admin-option.php:1722
+msgid "Booking Process Border"
+msgstr "Proceso de reserva frontera"
+
+#: include/gdlr-admin-option.php:1731
+msgid "Reservation Bar"
+msgstr "Barra de reserva"
+
+#: include/gdlr-admin-option.php:1734
+msgid "Reservation Bar Background"
+msgstr "Fondo de barra de reserva"
+
+#: include/gdlr-admin-option.php:1740
+msgid "Reservation Bar Header Text"
+msgstr "Texto del encabezado de la barra de reservas"
+
+#: include/gdlr-admin-option.php:1747
+msgid "Reservation Bar Header Border"
+msgstr "Borde de encabezado de barra de reserva"
+
+#: include/gdlr-admin-option.php:1753
+msgid "Reservation Bar Input Background"
+msgstr "Fondo de entrada de barra de reserva"
+
+#: include/gdlr-admin-option.php:1759
+msgid "Reservation Bar Input Text"
+msgstr "Texto de entrada de la barra de reservas"
+
+#: include/gdlr-admin-option.php:1765
+msgid "Reservation Bar Input Icon"
+msgstr "Icono de entrada de barra de reserva"
+
+#: include/gdlr-admin-option.php:1771
+msgid "Reservation Bar Room Section Background"
+msgstr "Fondo de sección de sala de barra de reserva"
+
+#: include/gdlr-admin-option.php:1777
+msgid "Reservation Bar Room Section Text"
+msgstr "Reservación Bar Habitación Sección Texto"
+
+#: include/gdlr-admin-option.php:1783
+msgid "Reservation Bar Room Section Active Text"
+msgstr "Barra de reserva Sección de habitación Texto activo"
+
+#: include/gdlr-admin-option.php:1789
+msgid "Reservation Bar Room Section Edit Text"
+msgstr "Barra de reserva Sección de sala Editar texto"
+
+#: include/gdlr-admin-option.php:1795
+msgid "Reservation Bar Button Background"
+msgstr "Fondo de botón de barra de reserva"
+
+#: include/gdlr-admin-option.php:1801 include/gdlr-admin-option.php:1807
+msgid "Reservation Bar Button Text"
+msgstr "Texto del botón de la barra de reservas"
+
+#: include/gdlr-admin-option.php:1816
+msgid "Personnel / Testimonial"
+msgstr "Personal / Testimonio"
+
+#: include/gdlr-admin-option.php:1819
+msgid "Personnel Box Background"
+msgstr "Fondo de caja de personal"
+
+#: include/gdlr-admin-option.php:1825
+msgid "Round Personnel Hover Background"
+msgstr "Fondo redondo de desplazamiento del personal"
+
+#: include/gdlr-admin-option.php:1831
+msgid "Personnel Author Text"
+msgstr "Texto del autor del personal"
+
+#: include/gdlr-admin-option.php:1837
+msgid "Personnel Author Image Border"
+msgstr "Personal Autor Imagen Frontera"
+
+#: include/gdlr-admin-option.php:1843
+msgid "Personnel Position Color"
+msgstr "Color de posición del personal"
+
+#: include/gdlr-admin-option.php:1849
+msgid "Personnel Content Color"
+msgstr "Color del contenido del personal"
+
+#: include/gdlr-admin-option.php:1855
+msgid "Personnel Social Icon Color"
+msgstr "Color de icono social de personal"
+
+#: include/gdlr-admin-option.php:1861
+msgid "Testimonial Box Background"
+msgstr "Fondo de caja de testimonios"
+
+#: include/gdlr-admin-option.php:1868
+msgid "Testimonial Content Text"
+msgstr "Texto de contenido testimonial"
+
+#: include/gdlr-admin-option.php:1874
+msgid "Testimonial Author Text"
+msgstr "Texto de autor testimonial"
+
+#: include/gdlr-admin-option.php:1880
+msgid "Testimonial Author Position"
+msgstr "Posición del autor testimonial"
+
+#: include/gdlr-admin-option.php:1886
+msgid "Testimonial Author Image Border"
+msgstr "Testimonio de la imagen del autor Border"
+
+#: include/gdlr-admin-option.php:1892
+msgid "Testimonial Shadow ( Box Style )"
+msgstr "Sombra testimonial (estilo caja)"
+
+#: include/gdlr-admin-option.php:1902
+msgid "Slider / Gallery / Input"
+msgstr "Control deslizante / Galería / Entrada"
+
+#: include/gdlr-admin-option.php:1905
+msgid "Gallery ( Thumbnail ) Frame"
+msgstr "Marco de la galería (miniatura)"
+
+#: include/gdlr-admin-option.php:1911
+msgid "Gallery ( Thumbnail ) Caption Background"
+msgstr "Fondo de subtítulos de la galería (miniatura)"
+
+#: include/gdlr-admin-option.php:1917
+msgid "Gallery ( Thumbnail ) Caption Text"
+msgstr "Texto de subtítulos de la galería (miniatura)"
+
+#: include/gdlr-admin-option.php:1923
+msgid "Slider Bullet Background"
+msgstr "Fondo de bala deslizante"
+
+#: include/gdlr-admin-option.php:1929
+msgid "Slider Bullet Background Hover"
+msgstr "Deslizador de fondo de bala de control deslizante"
+
+#: include/gdlr-admin-option.php:1936
+msgid "Slider Bullet Border Color"
+msgstr "Color de borde de viñeta deslizante"
+
+#: include/gdlr-admin-option.php:1942
+msgid "Slider Navigation Background"
+msgstr "Fondo de navegación del control deslizante"
+
+#: include/gdlr-admin-option.php:1949
+msgid "Slider Navigation Icon"
+msgstr "Icono de navegación deslizante"
+
+#: include/gdlr-admin-option.php:1956
+msgid "Slider Caption Background"
+msgstr "Fondo del título deslizante"
+
+#: include/gdlr-admin-option.php:1962
+msgid "Slider Caption Title"
+msgstr "Título del título del control deslizante"
+
+#: include/gdlr-admin-option.php:1968
+msgid "Slider Caption Text"
+msgstr "Texto del subtítulo deslizante"
+
+#: include/gdlr-admin-option.php:1974
+msgid "Post Slider Caption Background"
+msgstr "Fondo del título del control deslizante posterior"
+
+#: include/gdlr-admin-option.php:1980
+msgid "Post Slider Caption Title"
+msgstr "Título del título del control deslizante posterior"
+
+#: include/gdlr-admin-option.php:1986
+msgid "Post Slider Caption Text"
+msgstr "Texto del título del control deslizante posterior"
+
+#: include/gdlr-admin-option.php:1992
+msgid "Post Slider Date Text"
+msgstr "Texto de fecha del control deslizante de publicación"
+
+#: include/gdlr-admin-option.php:1999
+msgid "Post Slider Date Background"
+msgstr "Fondo de fecha del control deslizante posterior"
+
+#: include/gdlr-admin-option.php:2006
+msgid "Slider Outer Navigation Background"
+msgstr "Fondo de navegación exterior del control deslizante"
+
+#: include/gdlr-admin-option.php:2010 include/gdlr-admin-option.php:2017
+#: include/gdlr-admin-option.php:2024 include/gdlr-admin-option.php:2031
+msgid "The slider navigation that does not be inside the slider area."
+msgstr ""
+"La navegación del control deslizante que no está dentro del área del control "
+"deslizante."
+
+#: include/gdlr-admin-option.php:2013
+msgid "Slider Outer Navigation Icon"
+msgstr "Icono de navegación exterior del control deslizante"
+
+#: include/gdlr-admin-option.php:2020
+msgid "Slider Outer Navigation Background Hover"
+msgstr "Deslizador Desplazamiento de fondo de navegación exterior"
+
+#: include/gdlr-admin-option.php:2027
+msgid "Slider Outer Navigation Icon Hover"
+msgstr "Deslizador Ícono de navegación externa Desplazamiento"
+
+#: include/gdlr-admin-option.php:2034
+msgid "Input Box Background"
+msgstr "Fondo de cuadro de entrada"
+
+#: include/gdlr-admin-option.php:2040
+msgid "Input Box Text"
+msgstr "Texto del cuadro de entrada"
+
+#: include/gdlr-admin-option.php:2056
+msgid "Footer"
+msgstr "Pie de página"
+
+#: include/gdlr-admin-option.php:2059
+msgid "Footer Background"
+msgstr "Fondo de pie de página"
+
+#: include/gdlr-admin-option.php:2065
+msgid "Footer Title Text Color"
+msgstr "Título de pie de página Color del texto"
+
+#: include/gdlr-admin-option.php:2071
+msgid "Footer Text Color"
+msgstr "Color de texto de pie de página"
+
+#: include/gdlr-admin-option.php:2077
+msgid "Footer Text Link Color"
+msgstr "Color de enlace de texto de pie de página"
+
+#: include/gdlr-admin-option.php:2083
+msgid "Footer Text Link Hover Color"
+msgstr "Color de desplazamiento del enlace de texto de pie de página"
+
+#: include/gdlr-admin-option.php:2089
+msgid "Footer Border Color"
+msgstr "Color de borde de pie de página"
+
+#: include/gdlr-admin-option.php:2095
+msgid "Footer Input Box Background"
+msgstr "Fondo de cuadro de entrada de pie de página"
+
+#: include/gdlr-admin-option.php:2102
+msgid "Footer Input Box Text"
+msgstr "Texto del cuadro de entrada de pie de página"
+
+#: include/gdlr-admin-option.php:2109
+msgid "Footer Input Box Border"
+msgstr "Borde de cuadro de entrada de pie de página"
+
+#: include/gdlr-admin-option.php:2130
+msgid "Footer Tagcloud Background"
+msgstr "Fondo de Tagcloud de pie de página"
+
+#: include/gdlr-admin-option.php:2136
+msgid "Footer Tagcloud Text"
+msgstr "Pie de página Tagcloud Text"
+
+#: include/gdlr-admin-option.php:2142
+msgid "Copyright Background"
+msgstr "Fondo de derechos de autor"
+
+#: include/gdlr-admin-option.php:2148
+msgid "Copyright Text Color"
+msgstr "Color de texto de copyright"
+
+#: include/gdlr-admin-option.php:2154
+msgid "Copyright Top Border"
+msgstr "Copyright Top Border"
+
+#: include/gdlr-admin-option.php:2163
+msgid "Woocommerce Color"
+msgstr "Color de Woocommerce"
+
+#: include/gdlr-admin-option.php:2166
+msgid "Woocommerce Theme Color"
+msgstr "Color del tema de Woocommerce"
+
+#: include/gdlr-admin-option.php:2169
+msgid ""
+"This color effects following elements : sales tag, stars, table, tab, woo "
+"message, price color(pruduct single)"
+msgstr ""
+"Este color afecta a los siguientes elementos: etiqueta de ventas, estrellas, "
+"tabla, pestaña, mensaje de cortejo, color de precio (producto individual)"
+
+#: include/gdlr-admin-option.php:2179
+msgid "Woocommerce Text In Element Color"
+msgstr "Texto de Woocommerce en color de elemento"
+
+#: include/gdlr-admin-option.php:2182
+msgid ""
+"This color effects following elements : active tab, sale tag, th in table, "
+"message, notification, error, active pagination"
+msgstr ""
+"Este color afecta a los siguientes elementos: pestaña activa, etiqueta de "
+"venta, tabla, mensaje, notificación, error, paginación activa"
+
+#: include/gdlr-admin-option.php:2192
+msgid "Woocommerce Notification Background"
+msgstr "Fondo de notificaciones de Woocommerce"
+
+#: include/gdlr-admin-option.php:2198
+msgid "Woocommerce Error Background"
+msgstr "Fondo de error de Woocommerce"
+
+#: include/gdlr-admin-option.php:2204
+msgid "Woocommerce Button Background"
+msgstr "Fondo del botón de Woocommerce"
+
+#: include/gdlr-admin-option.php:2223
+msgid "Woocommerce Button Text"
+msgstr "Texto del botón de Woocommerce"
+
+#: include/gdlr-admin-option.php:2242
+msgid "Woocommerce Button Bottom Border"
+msgstr "Borde inferior del botón de Woocommerce"
+
+#: include/gdlr-admin-option.php:2261
+msgid "Woocommerce Border Color"
+msgstr "Color de borde de Woocommerce"
+
+#: include/gdlr-admin-option.php:2284
+msgid "Woocommerce Secondary Element"
+msgstr "Elemento secundario de Woocommerce"
+
+#: include/gdlr-admin-option.php:2287
+msgid ""
+"This color effects following elements : inactive tab, input, textarea,"
+"romving product button, payment option box, inactive pagination"
+msgstr ""
+"Este color afecta a los siguientes elementos: pestaña inactiva, entrada, "
+"área de texto, botón de eliminar producto, casilla de opción de pago, "
+"paginación inactiva"
+
+#: include/gdlr-admin-option.php:2301
+msgid "Woocommerce Secondary Element Border"
+msgstr "Borde del elemento secundario de Woocommerce"
+
+#: include/gdlr-admin-option.php:2309
+msgid "Woocommerce Cart Summary Text / Price"
+msgstr "Texto/Precio del resumen del carrito de Woocommerce"
+
+#: include/gdlr-admin-option.php:2317
+msgid "Discount Price / Product Arrow"
+msgstr "Precio Descuento / Flecha Producto"
+
+#: include/gdlr-admin-option.php:2325
+msgid "Plus / Minus Product Border"
+msgstr "Más / Menos Borde Producto"
+
+#: include/gdlr-admin-option.php:2333
+msgid "Plus / Minus Product Sign"
+msgstr "Más / Menos Sello Producto"
+
+#: include/gdlr-admin-option.php:2341
+msgid "Plus Product Background"
+msgstr "Fondo Producto Plus"
+
+#: include/gdlr-admin-option.php:2349
+msgid "Minus Product Background"
+msgstr "Menos fondo del producto"
+
+#: include/gdlr-admin-option.php:2364
+msgid "Plugin / Slider"
+msgstr "Plugin / Control deslizante"
+
+#: include/gdlr-admin-option.php:2368
+msgid "General Plugins"
+msgstr "Complementos generales"
+
+#: include/gdlr-admin-option.php:2371
+msgid "Enable Plugin Recommendation"
+msgstr "Habilitar Recomendación de Plugins"
+
+#: include/gdlr-admin-option.php:2376
+msgid "Enable Goodlayers Navigation"
+msgstr "Habilitar la navegación Goodlayers"
+
+#: include/gdlr-admin-option.php:2379
+msgid "Do not turn this off, it can breaks both top and main menu."
+msgstr "No apague esto, puede romper tanto el menú superior como el principal."
+
+#: include/gdlr-admin-option.php:2382
+msgid "Enable Mobile Navigation"
+msgstr "Complementos generales"
+
+#: include/gdlr-admin-option.php:2385
+msgid "Turn this menu off when you use 3rd party menu plugin like Uber Menu"
+msgstr ""
+"Desactiva este menú cuando uses el plugin de menú 3rd party como Uber Menu"
+
+#: include/gdlr-admin-option.php:2388
+msgid "Enable Flex Slider"
+msgstr "Habilitar control deslizante flexible"
+
+#: include/gdlr-admin-option.php:2391
+msgid ""
+"Turn this option off will make slider shortcode / post slider widget "
+"unavailable"
+msgstr ""
+"Desactivar esta opción hará que el control deslizante shortcode / post "
+"slider no esté disponible"
+
+#: include/gdlr-admin-option.php:2394
+msgid "Enable Fancybox"
+msgstr "Habilitar Fancybox"
+
+#: include/gdlr-admin-option.php:2397
+msgid "Turn this option off can make all lightbox option breaks"
+msgstr ""
+"Desactivar esta opción puede hacer que se rompan todas las opciones de caja"
+
+#: include/gdlr-admin-option.php:2400
+msgid "Enable Fancybox Thumbnail ( Gallery Mode )"
+msgstr "Habilitar miniatura de Fancybox (modo Galería)"
+
+#: include/gdlr-admin-option.php:2405
+msgid "Enable New Font Awesome Version"
+msgstr "Habilitar nueva versión impresionante de fuente"
+
+#: include/gdlr-admin-option.php:2412
+msgid "Flex Slider"
+msgstr "Control deslizante flexible"
+
+#: include/gdlr-admin-option.php:2415
+msgid "Flex Slider Effect"
+msgstr "Efecto deslizante flexible"
+
+#: include/gdlr-admin-option.php:2418
+msgid "Fade"
+msgstr "Descolorarse"
+
+#: include/gdlr-admin-option.php:2419
+msgid "Slide"
+msgstr "Diapositiva"
+
+#: include/gdlr-admin-option.php:2423
+msgid "Flex Slider Pause Time"
+msgstr "Tiempo de pausa del control deslizante flexible"
+
+#: include/gdlr-admin-option.php:2428
+msgid "Flex Slider Animation Speed"
+msgstr "Control deslizante flexible Velocidad de animación"
+
+#: include/gdlr-admin-option.php:2435 include/gdlr-page-builder-option.php:1571
+msgid "Nivo Slider"
+msgstr "Nivo Slider"
+
+#: include/gdlr-admin-option.php:2438
+msgid "Nivo Slider Effect"
+msgstr "Efecto Nivo Slider"
+
+#: include/gdlr-admin-option.php:2441
+msgid "sliceDownRight"
+msgstr "cortar hacia abajo"
+
+#: include/gdlr-admin-option.php:2442
+msgid "sliceDownLeft"
+msgstr "sliceDownLeft"
+
+#: include/gdlr-admin-option.php:2443
+msgid "sliceUpRight"
+msgstr "sliceUpRight"
+
+#: include/gdlr-admin-option.php:2444
+msgid "sliceUpLeft"
+msgstr "sliceUpLeft"
+
+#: include/gdlr-admin-option.php:2445
+msgid "sliceUpDown"
+msgstr "sliceUpDown"
+
+#: include/gdlr-admin-option.php:2446
+msgid "sliceUpDownLeft"
+msgstr "sliceUpDownLeft"
+
+#: include/gdlr-admin-option.php:2447
+msgid "fold"
+msgstr "doblez"
+
+#: include/gdlr-admin-option.php:2448
+msgid "fade"
+msgstr "descolorarse"
+
+#: include/gdlr-admin-option.php:2449
+msgid "boxRandom"
+msgstr "boxRandom"
+
+#: include/gdlr-admin-option.php:2450
+msgid "boxRain"
+msgstr "boxRain"
+
+#: include/gdlr-admin-option.php:2451
+msgid "boxRainReverse"
+msgstr "boxRainReverse"
+
+#: include/gdlr-admin-option.php:2452
+msgid "boxRainGrow"
+msgstr "boxRainGrow"
+
+#: include/gdlr-admin-option.php:2453
+msgid "boxRainGrowReverse"
+msgstr "boxRainGrowReverse"
+
+#: include/gdlr-admin-option.php:2457
+msgid "Nivo Slider Pause Time"
+msgstr "Tiempo de Pausa Nivo Slider"
+
+#: include/gdlr-admin-option.php:2462
+msgid "Nivo Slider Animation Speed"
+msgstr "Velocidad de animación Nivo Slider"
+
+#: include/gdlr-demo-page.php:13
+msgid "Load Demo Page"
+msgstr "Cargar página de demostración"
+
+#: include/gdlr-demo-page.php:27
+msgid "Homepage 1"
+msgstr "Página de inicio 1"
+
+#: include/gdlr-demo-page.php:28
+msgid "Homepage 2"
+msgstr "Página de inicio 2"
+
+#: include/gdlr-demo-page.php:29
+msgid "Homepage 3"
+msgstr "Página de inicio 3"
+
+#: include/gdlr-demo-page.php:30
+msgid "Homepage 4"
+msgstr "Página de inicio 4"
+
+#: include/gdlr-demo-page.php:31
+msgid "Homepage 5"
+msgstr "Página de inicio 5"
+
+#: include/gdlr-demo-page.php:32
+msgid "Homepage One Page"
+msgstr "Página principal de una página"
+
+#: include/gdlr-demo-page.php:33
+msgid "About Us"
+msgstr "Sobre nosotros"
+
+#: include/gdlr-demo-page.php:34
+msgid "Service"
+msgstr "Servicio"
+
+#: include/gdlr-demo-page.php:35
+msgid "Pricing"
+msgstr "Precios"
+
+#: include/gdlr-demo-page.php:36
+msgid "Contact 1"
+msgstr "Contacto 1"
+
+#: include/gdlr-demo-page.php:37
+msgid "Contact 2"
+msgstr "Contacto 2"
+
+#: include/gdlr-demo-page.php:38
+msgid "Shop With Product Slider"
+msgstr "Comprar con control deslizante de producto"
+
+#: include/gdlr-demo-page.php:43
+msgid ""
+"*This option allow you to set page item to following pages with one click. "
+"Note that to use this option will replace all your current page item setting "
+"in this page and <strong>This Can't Be Undone</strong>. ( Images are not "
+"included. )"
+msgstr ""
+"* Esta opción le permite configurar el elemento de página en las páginas "
+"siguientes con un solo clic. Tenga en cuenta que el uso de esta opción "
+"reemplazará toda la configuración actual de elementos de página en esta "
+"página y <strong> Esto no se puede deshacer </strong>. (Las imágenes no "
+"están incluidas)."
+
+#: include/gdlr-font-controls.php:10
+msgid "Font Family"
+msgstr "Familia tipográfica"
+
+#: include/gdlr-font-controls.php:14
+msgid "Header Font"
+msgstr "Fuente de encabezado"
+
+#: include/gdlr-font-controls.php:21
+msgid "Content Font"
+msgstr "Fuente de contenido"
+
+#: include/gdlr-font-controls.php:28
+msgid "Navigation Font"
+msgstr "Navigation Font"
+
+#: include/gdlr-font-controls.php:35
+msgid "Slider Font"
+msgstr "Fuente Slider"
+
+#: include/gdlr-navigation-menu.php:113
+#, php-format
+msgid "%s (Invalid)"
+msgstr "% s (inválido)"
+
+#: include/gdlr-navigation-menu.php:117
+#, php-format
+msgid "%s (Pending)"
+msgstr "% s (pendiente)"
+
+#: include/gdlr-navigation-menu.php:130
+msgid "sub item"
+msgstr "sub elemento"
+
+#: include/gdlr-navigation-menu.php:162
+msgid "Edit Menu Item"
+msgstr "Editar elemento de menú"
+
+#: include/gdlr-navigation-menu.php:171
+#: include/gdlr-page-builder-option.php:1418
+msgid "URL"
+msgstr "URL"
+
+#: include/gdlr-navigation-menu.php:178
+msgid "Navigation Label"
+msgstr "Etiqueta de Navegación"
+
+#: include/gdlr-navigation-menu.php:184
+msgid "Title Attribute"
+msgstr "Título Atributo"
+
+#: include/gdlr-navigation-menu.php:191
+msgid "Menu Icon"
+msgstr "Ícono de menú"
+
+#: include/gdlr-navigation-menu.php:198
+msgid "Enable Mega Menu"
+msgstr "Habilitar mega menú"
+
+#: include/gdlr-navigation-menu.php:203
+msgid "Section Size ( *Only when parent mega menu option is checked )"
+msgstr ""
+"Tamaño de sección (* Solo cuando la opción de mega menú principal está "
+"marcada)"
+
+#: include/gdlr-navigation-menu.php:222
+msgid "Open link in a new window/tab"
+msgstr "Abrir enlace en una nueva ventana / pestaña"
+
+#: include/gdlr-navigation-menu.php:227
+msgid "CSS Classes (optional)"
+msgstr "Clases CSS (opcional)"
+
+#: include/gdlr-navigation-menu.php:233
+msgid "Link Relationship (XFN)"
+msgstr "Relación de enlace (XFN)"
+
+#: include/gdlr-navigation-menu.php:239
+msgid "Description"
+msgstr "Descripción"
+
+#: include/gdlr-navigation-menu.php:241
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr "La descripción se mostrará en el menú si el tema actual lo admite."
+
+#: include/gdlr-navigation-menu.php:247
+msgid "Move"
+msgstr "Movimiento"
+
+#: include/gdlr-navigation-menu.php:248
+msgid "Up one"
+msgstr "Hasta uno"
+
+#: include/gdlr-navigation-menu.php:249
+msgid "Down one"
+msgstr "Abajo uno"
+
+#: include/gdlr-navigation-menu.php:252
+msgid "To the top"
+msgstr "A la cima"
+
+#: include/gdlr-navigation-menu.php:259
+#, php-format
+msgid "Original: %s"
+msgstr "Original: %s"
+
+#: include/gdlr-navigation-menu.php:272
+msgid "Remove"
+msgstr "Retirar"
+
+#: include/gdlr-navigation-menu.php:273
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: include/gdlr-page-builder-option.php:36
+msgid "Title Type"
+msgstr "Tipo de título"
+
+#: include/gdlr-page-builder-option.php:39
+#: include/gdlr-page-builder-option.php:149
+#: include/gdlr-page-builder-option.php:269
+#: include/gdlr-page-builder-option.php:325
+#: include/gdlr-page-builder-option.php:1410
+msgid "None"
+msgstr "Ninguno"
+
+#: include/gdlr-page-builder-option.php:40
+msgid "Left Align"
+msgstr "Alinear a la izquierda"
+
+#: include/gdlr-page-builder-option.php:41
+msgid "Left Align With Divider"
+msgstr "Alinear a la izquierda con el divisor"
+
+#: include/gdlr-page-builder-option.php:42
+msgid "Center Align"
+msgstr "Alinear al centro"
+
+#: include/gdlr-page-builder-option.php:43
+msgid "Center Align With Divider"
+msgstr "El centro se alinea con el divisor"
+
+#: include/gdlr-page-builder-option.php:47
+#: include/gdlr-page-builder-option.php:463
+#: include/gdlr-page-builder-option.php:534
+#: include/gdlr-page-builder-option.php:574
+#: include/gdlr-page-builder-option.php:915
+#: include/gdlr-page-builder-option.php:985
+#: include/gdlr-page-builder-option.php:1045
+#: include/gdlr-page-builder-option.php:1117
+#: include/gdlr-page-builder-option.php:1263
+#: include/gdlr-page-builder-option.php:1536
+msgid "Title"
+msgstr "Título"
+
+#: include/gdlr-page-builder-option.php:52
+#: include/gdlr-page-builder-option.php:1121
+msgid "Caption"
+msgstr "Subtítulo"
+
+#: include/gdlr-page-builder-option.php:59
+msgid "Read All News"
+msgstr "Leer todas las noticias"
+
+#: include/gdlr-page-builder-option.php:62
+msgid "Titlte Link Text"
+msgstr "Titlte Link Text"
+
+#: include/gdlr-page-builder-option.php:68
+msgid "Title Link URL"
+msgstr "URL del enlace de título"
+
+#: include/gdlr-page-builder-option.php:97
+msgid "Column Wrapper Item"
+msgstr "Artículo de envoltura de columna"
+
+#: include/gdlr-page-builder-option.php:98
+msgid "- Select Column Item -"
+msgstr "- Seleccionar elemento de columna -"
+
+#: include/gdlr-page-builder-option.php:100
+#: include/gdlr-page-builder-option.php:101
+#: include/gdlr-page-builder-option.php:102
+#: include/gdlr-page-builder-option.php:103
+#: include/gdlr-page-builder-option.php:104
+#: include/gdlr-page-builder-option.php:105
+#: include/gdlr-page-builder-option.php:106
+#: include/gdlr-page-builder-option.php:107
+#: include/gdlr-page-builder-option.php:108
+#: include/gdlr-page-builder-option.php:109
+msgid "Column Item"
+msgstr "Elemento de columna"
+
+#: include/gdlr-page-builder-option.php:112
+msgid "Color Wrapper"
+msgstr "Envoltura de color"
+
+#: include/gdlr-page-builder-option.php:116
+#: include/gdlr-page-builder-option.php:1138
+msgid "Background Type"
+msgstr "Tipo de fondo"
+
+#: include/gdlr-page-builder-option.php:119
+msgid "Color"
+msgstr "Color"
+
+#: include/gdlr-page-builder-option.php:120
+msgid "Transparent"
+msgstr "Transparente"
+
+#: include/gdlr-page-builder-option.php:124
+#: include/gdlr-page-builder-option.php:307
+#: include/gdlr-page-builder-option.php:759
+#: include/gdlr-page-builder-option.php:1074
+#: include/gdlr-page-builder-option.php:1105
+#: include/gdlr-page-builder-option.php:1151
+msgid "Background Color"
+msgstr "Color de fondo"
+
+#: include/gdlr-page-builder-option.php:130
+#: include/gdlr-page-builder-option.php:250
+msgid "Skin"
+msgstr "Piel"
+
+#: include/gdlr-page-builder-option.php:133
+#: include/gdlr-page-builder-option.php:253
+msgid ""
+"Can be created at the Theme Options > Elements Color > Custom Skin section"
+msgstr ""
+"Se puede crear en la sección Opciones de tema> Color de elementos> Máscara "
+"personalizada"
+
+#: include/gdlr-page-builder-option.php:136
+#: include/gdlr-page-builder-option.php:256
+#: include/gdlr-page-builder-option.php:312
+msgid "Show This Section In"
+msgstr "Mostrar esta sección en"
+
+#: include/gdlr-page-builder-option.php:139
+#: include/gdlr-page-builder-option.php:259
+#: include/gdlr-page-builder-option.php:315
+msgid "All Devices"
+msgstr "Todos los dispositivos"
+
+#: include/gdlr-page-builder-option.php:140
+#: include/gdlr-page-builder-option.php:260
+#: include/gdlr-page-builder-option.php:316
+msgid "Hide This Section In Tablet"
+msgstr "Ocultar esta sección en tableta"
+
+#: include/gdlr-page-builder-option.php:141
+#: include/gdlr-page-builder-option.php:261
+#: include/gdlr-page-builder-option.php:317
+msgid "Hide This Section In Mobile"
+msgstr "Ocultar esta sección en dispositivos móviles"
+
+#: include/gdlr-page-builder-option.php:142
+#: include/gdlr-page-builder-option.php:262
+#: include/gdlr-page-builder-option.php:318
+msgid "Hide This Section In Tablet and Mobile"
+msgstr "Ocultar esta sección en tabletas y dispositivos móviles"
+
+#: include/gdlr-page-builder-option.php:146
+#: include/gdlr-page-builder-option.php:266
+#: include/gdlr-page-builder-option.php:322
+#: include/gdlr-page-builder-option.php:1427
+msgid "Border"
+msgstr "Frontera"
+
+#: include/gdlr-page-builder-option.php:150
+#: include/gdlr-page-builder-option.php:270
+#: include/gdlr-page-builder-option.php:326
+msgid "Border Top"
+msgstr "Borde superior"
+
+#: include/gdlr-page-builder-option.php:151
+#: include/gdlr-page-builder-option.php:271
+#: include/gdlr-page-builder-option.php:327
+msgid "Border Bottom"
+msgstr "Borde inferior"
+
+#: include/gdlr-page-builder-option.php:152
+#: include/gdlr-page-builder-option.php:272
+#: include/gdlr-page-builder-option.php:328
+msgid "Both Border"
+msgstr "Tanto frontera"
+
+#: include/gdlr-page-builder-option.php:156
+#: include/gdlr-page-builder-option.php:276
+#: include/gdlr-page-builder-option.php:332
+msgid "Border Top Color"
+msgstr "Color superior del borde"
+
+#: include/gdlr-page-builder-option.php:162
+#: include/gdlr-page-builder-option.php:282
+#: include/gdlr-page-builder-option.php:338
+msgid "Border Bottom Color"
+msgstr "Color inferior del borde"
+
+#: include/gdlr-page-builder-option.php:168
+#: include/gdlr-page-builder-option.php:288
+#: include/gdlr-page-builder-option.php:344
+msgid "Padding Top"
+msgstr "Acolchado superior"
+
+#: include/gdlr-page-builder-option.php:171
+#: include/gdlr-page-builder-option.php:291
+#: include/gdlr-page-builder-option.php:347
+msgid "Spaces before starting any content in this section"
+msgstr "Espacios antes de comenzar cualquier contenido en esta sección"
+
+#: include/gdlr-page-builder-option.php:174
+#: include/gdlr-page-builder-option.php:294
+#: include/gdlr-page-builder-option.php:350
+msgid "Padding Bottom"
+msgstr "Fondo acolchado"
+
+#: include/gdlr-page-builder-option.php:177
+#: include/gdlr-page-builder-option.php:297
+#: include/gdlr-page-builder-option.php:353
+msgid "Spaces after ending of the content in this section"
+msgstr "Espacios después del final del contenido en esta sección"
+
+#: include/gdlr-page-builder-option.php:183
+msgid "Background/Parallax Wrapper"
+msgstr "Fondo / Parallax Wrapper"
+
+#: include/gdlr-page-builder-option.php:187
+#: include/gdlr-page-builder-option.php:742
+#: include/plugin/class-tgm-plugin-activation.php:1293
+msgid "Type"
+msgstr "Tipo"
+
+#: include/gdlr-page-builder-option.php:191
+msgid "Predefined Pattern"
+msgstr "Patrón predefinido"
+
+#: include/gdlr-page-builder-option.php:192
+msgid "Video Background"
+msgstr "Video de fondo"
+
+#: include/gdlr-page-builder-option.php:203
+msgid "Background Mobile"
+msgstr "Fondo móvil"
+
+#: include/gdlr-page-builder-option.php:209
+msgid "Background Speed"
+msgstr "Velocidad de fondo"
+
+#: include/gdlr-page-builder-option.php:213
+msgid ""
+"Fill 0 if you don't want the background to scroll and 1 when you want the "
+"background to have the same speed as the scroll bar"
+msgstr ""
+"Rellene 0 si no desea que el fondo se desplace y 1 cuando desee que el fondo "
+"tenga la misma velocidad que la barra de desplazamiento"
+
+#: include/gdlr-page-builder-option.php:214
+msgid "*** only allow the number between -1 to 1"
+msgstr "*** solo permite el número entre -1 y 1"
+
+#: include/gdlr-page-builder-option.php:217
+msgid "Pattern"
+msgstr "Modelo"
+
+#: include/gdlr-page-builder-option.php:233
+msgid "Youtube URL"
+msgstr "URL de YouTube"
+
+#: include/gdlr-page-builder-option.php:238
+msgid "Video Overlay Opacity"
+msgstr "Opacidad de superposición de video"
+
+#: include/gdlr-page-builder-option.php:244
+msgid "Video Control Bar"
+msgstr "Barra de control de video"
+
+#: include/gdlr-page-builder-option.php:303
+msgid "Full Size Wrapper"
+msgstr "Envoltorio de tamaño completo"
+
+#: include/gdlr-page-builder-option.php:361
+msgid "Content/Post Type Item"
+msgstr "Contenido / Artículo de tipo de publicación"
+
+#: include/gdlr-page-builder-option.php:362
+msgid "- Select Content Item -"
+msgstr "- Seleccionar elemento de contenido -"
+
+#: include/gdlr-page-builder-option.php:366
+#: include/gdlr-page-builder-option.php:371
+msgid "Accordion"
+msgstr "Acordeón"
+
+#: include/gdlr-page-builder-option.php:375
+msgid "Initial Open"
+msgstr "Abierto inicial"
+
+#: include/gdlr-page-builder-option.php:378
+msgid ""
+"0 will close all tab as an initial state, 1 will open the first tab and so "
+"on."
+msgstr ""
+"0 cerrará todas las pestañas como estado inicial, 1 abrirá la primera "
+"pestaña y así sucesivamente."
+
+#: include/gdlr-page-builder-option.php:381
+#: include/gdlr-page-builder-option.php:1285
+msgid "Accordion Style"
+msgstr "Estilo acordeón"
+
+#: include/gdlr-page-builder-option.php:384
+#: include/gdlr-page-builder-option.php:1288
+msgid "Style 1 ( Colored Background )"
+msgstr "Estilo 1 (fondo de color)"
+
+#: include/gdlr-page-builder-option.php:385
+#: include/gdlr-page-builder-option.php:1289
+msgid "Style 2 ( Transparent Background )"
+msgstr "Estilo 2 (fondo transparente)"
+
+#: include/gdlr-page-builder-option.php:389
+#: include/gdlr-page-builder-option.php:490
+#: include/gdlr-page-builder-option.php:542
+#: include/gdlr-page-builder-option.php:590
+#: include/gdlr-page-builder-option.php:607
+#: include/gdlr-page-builder-option.php:636
+#: include/gdlr-page-builder-option.php:697
+#: include/gdlr-page-builder-option.php:725
+#: include/gdlr-page-builder-option.php:771
+#: include/gdlr-page-builder-option.php:835
+#: include/gdlr-page-builder-option.php:882
+#: include/gdlr-page-builder-option.php:927
+#: include/gdlr-page-builder-option.php:952
+#: include/gdlr-page-builder-option.php:993
+#: include/gdlr-page-builder-option.php:1032
+#: include/gdlr-page-builder-option.php:1084
+#: include/gdlr-page-builder-option.php:1125
+#: include/gdlr-page-builder-option.php:1178
+#: include/gdlr-page-builder-option.php:1221
+#: include/gdlr-page-builder-option.php:1254
+#: include/gdlr-page-builder-option.php:1267
+#: include/gdlr-page-builder-option.php:1293
+#: include/gdlr-page-builder-option.php:1330
+#: include/gdlr-page-builder-option.php:1384
+#: include/gdlr-page-builder-option.php:1440
+#: include/gdlr-page-builder-option.php:1459
+#: include/gdlr-page-builder-option.php:1478
+#: include/gdlr-page-builder-option.php:1549
+#: include/gdlr-page-builder-option.php:1580
+#: include/gdlr-page-builder-option.php:1606
+msgid "Margin Bottom"
+msgstr "Margen inferior"
+
+#: include/gdlr-page-builder-option.php:392
+#: include/gdlr-page-builder-option.php:493
+#: include/gdlr-page-builder-option.php:545
+#: include/gdlr-page-builder-option.php:593
+#: include/gdlr-page-builder-option.php:610
+#: include/gdlr-page-builder-option.php:639
+#: include/gdlr-page-builder-option.php:700
+#: include/gdlr-page-builder-option.php:728
+#: include/gdlr-page-builder-option.php:774
+#: include/gdlr-page-builder-option.php:838
+#: include/gdlr-page-builder-option.php:885
+#: include/gdlr-page-builder-option.php:930
+#: include/gdlr-page-builder-option.php:955
+#: include/gdlr-page-builder-option.php:996
+#: include/gdlr-page-builder-option.php:1035
+#: include/gdlr-page-builder-option.php:1087
+#: include/gdlr-page-builder-option.php:1128
+#: include/gdlr-page-builder-option.php:1181
+#: include/gdlr-page-builder-option.php:1224
+#: include/gdlr-page-builder-option.php:1257
+#: include/gdlr-page-builder-option.php:1270
+#: include/gdlr-page-builder-option.php:1296
+#: include/gdlr-page-builder-option.php:1333
+#: include/gdlr-page-builder-option.php:1387
+#: include/gdlr-page-builder-option.php:1443
+#: include/gdlr-page-builder-option.php:1462
+#: include/gdlr-page-builder-option.php:1481
+#: include/gdlr-page-builder-option.php:1552
+#: include/gdlr-page-builder-option.php:1583
+#: include/gdlr-page-builder-option.php:1609
+msgid "Spaces after ending of this item"
+msgstr "Espacios después de finalizar este artículo"
+
+#: include/gdlr-page-builder-option.php:398
+msgid "Blog"
+msgstr "Blog"
+
+#: include/gdlr-page-builder-option.php:405
+#: include/gdlr-page-builder-option.php:411
+#: include/gdlr-page-builder-option.php:787
+#: include/gdlr-page-builder-option.php:1494
+msgid ""
+"You can use Ctrl/Command button to select multiple categories or remove the "
+"selected category. <br><br> Leave this field blank to select all categories."
+msgstr ""
+"Puede usar el botón Ctrl / Comando para seleccionar varias categorías o "
+"eliminar la categoría seleccionada. <br> <br> Deje este campo en blanco para "
+"seleccionar todas las categorías."
+
+#: include/gdlr-page-builder-option.php:414
+#: include/gdlr-page-builder-option.php:1497
+msgid "Num Excerpt (Word)"
+msgstr "Extracto numérico (Word)"
+
+#: include/gdlr-page-builder-option.php:420
+#: include/gdlr-page-builder-option.php:809
+#: include/gdlr-page-builder-option.php:1503
+msgid "Num Fetch"
+msgstr "Num Fetch"
+
+#: include/gdlr-page-builder-option.php:423
+#: include/gdlr-page-builder-option.php:1506
+msgid "Specify the number of posts you want to pull out."
+msgstr "Especifique el número de publicaciones que desea extraer."
+
+#: include/gdlr-page-builder-option.php:426 include/gdlr-plugin-option.php:53
+#: include/gdlr-post-options.php:17
+msgid "Blog Style"
+msgstr "Blog Style"
+
+#: include/gdlr-page-builder-option.php:429
+msgid "Blog Widget"
+msgstr "Blog Widget"
+
+#: include/gdlr-page-builder-option.php:440
+msgid "Blog Layout Order"
+msgstr "Orden de diseño de blog"
+
+#: include/gdlr-page-builder-option.php:443
+#: include/gdlr-page-builder-option.php:818
+msgid "FitRows ( Order items by row )"
+msgstr "FitRows (Ordenar artículos por fila)"
+
+#: include/gdlr-page-builder-option.php:444
+#: include/gdlr-page-builder-option.php:819
+msgid "Masonry ( Order items by spaces )"
+msgstr "Albañilería (Ordenar artículos por espacios)"
+
+#: include/gdlr-page-builder-option.php:445
+msgid "Carousel ( Only For Blog Grid )"
+msgstr "Carrusel (solo para cuadrícula de blog)"
+
+#: include/gdlr-page-builder-option.php:448
+#: include/gdlr-page-builder-option.php:821
+msgid "You can see an example of these two layout here"
+msgstr "Puedes ver un ejemplo de estos dos diseños aquí"
+
+#: include/gdlr-page-builder-option.php:456
+msgid "Only effects to <strong>standard and gallery post format</strong>."
+msgstr ""
+"Solo efectos para <strong> estándar y formato de publicación de galería </"
+"strong>."
+
+#: include/gdlr-page-builder-option.php:459
+#: include/gdlr-page-builder-option.php:1532
+msgid "Order By"
+msgstr "Ordenar por"
+
+#: include/gdlr-page-builder-option.php:462
+#: include/gdlr-page-builder-option.php:1535
+msgid "Publish Date"
+msgstr "Fecha de publicación"
+
+#: include/gdlr-page-builder-option.php:464
+#: include/gdlr-page-builder-option.php:1537
+#: include/widget/flickr-widget.php:97
+msgid "Random"
+msgstr "Aleatorio"
+
+#: include/gdlr-page-builder-option.php:468
+#: include/gdlr-page-builder-option.php:1541
+msgid "Order"
+msgstr "Orden"
+
+#: include/gdlr-page-builder-option.php:471
+#: include/gdlr-page-builder-option.php:1544
+msgid "Descending Order"
+msgstr "Orden descendiente"
+
+#: include/gdlr-page-builder-option.php:472
+#: include/gdlr-page-builder-option.php:1545
+msgid "Ascending Order"
+msgstr "Orden ascendente"
+
+#: include/gdlr-page-builder-option.php:476
+msgid "Offset"
+msgstr "Compensar"
+
+#: include/gdlr-page-builder-option.php:478
+msgid ""
+"Fill in number of the posts you want to skip. Please noted that this will "
+"not works well with pagination"
+msgstr ""
+"Complete el número de publicaciones que desea omitir. Tenga en cuenta que "
+"esto no funcionará bien con la paginación"
+
+#: include/gdlr-page-builder-option.php:481
+#: include/gdlr-page-builder-option.php:831
+msgid "Enable Pagination"
+msgstr "Habilitar paginación"
+
+#: include/gdlr-page-builder-option.php:485
+msgid "Prepend Sticky Post"
+msgstr "Anteponer publicación adhesiva"
+
+#: include/gdlr-page-builder-option.php:499
+msgid "Box Icon"
+msgstr "Icono de caja"
+
+#: include/gdlr-page-builder-option.php:503
+#: include/gdlr-page-builder-option.php:569
+#: include/gdlr-page-builder-option.php:738
+#: include/gdlr-page-builder-option.php:911
+#: include/gdlr-page-builder-option.php:1064
+msgid "Icon Class"
+msgstr "Clase de icono"
+
+#: include/gdlr-page-builder-option.php:507
+msgid "Icon Position"
+msgstr "Posición del icono"
+
+#: include/gdlr-page-builder-option.php:510
+#: include/gdlr-page-builder-option.php:678
+msgid "Left"
+msgstr "Izquierda"
+
+#: include/gdlr-page-builder-option.php:511
+msgid "Top"
+msgstr "Parte superior"
+
+#: include/gdlr-page-builder-option.php:515
+msgid "Icon Type"
+msgstr "Tipo de icono"
+
+#: include/gdlr-page-builder-option.php:518
+#: include/gdlr-page-builder-option.php:1026
+#: include/gdlr-page-builder-option.php:1100 include/gdlr-page-options.php:76
+msgid "Normal"
+msgstr "Normal"
+
+#: include/gdlr-page-builder-option.php:519
+msgid "Circle Background"
+msgstr "Fondo del círculo"
+
+#: include/gdlr-page-builder-option.php:528
+msgid "Icon Background"
+msgstr "Fondo del icono"
+
+#: include/gdlr-page-builder-option.php:538
+#: include/gdlr-page-builder-option.php:586
+#: include/gdlr-page-builder-option.php:603
+#: include/gdlr-page-builder-option.php:684
+#: include/gdlr-page-builder-option.php:923
+#: include/gdlr-page-builder-option.php:989
+#: include/gdlr-page-builder-option.php:1602
+msgid "Content Text"
+msgstr "Texto de contenido"
+
+#: include/gdlr-page-builder-option.php:551
+msgid "Column Service"
+msgstr "Servicio de columna"
+
+#: include/gdlr-page-builder-option.php:555
+#: include/gdlr-page-builder-option.php:649
+msgid "Media Type"
+msgstr "Tipo de medio"
+
+#: include/gdlr-page-builder-option.php:558
+msgid "Icon"
+msgstr "Icono"
+
+#: include/gdlr-page-builder-option.php:559
+#: include/gdlr-page-builder-option.php:652
+msgid "Image"
+msgstr "Imagen"
+
+#: include/gdlr-page-builder-option.php:563
+#: include/gdlr-page-builder-option.php:662
+#: include/gdlr-page-builder-option.php:967
+msgid "Service Image"
+msgstr "Imagen de servicio"
+
+#: include/gdlr-page-builder-option.php:565
+#: include/gdlr-page-builder-option.php:664
+#: include/gdlr-page-builder-option.php:969
+msgid "upload"
+msgstr "subir"
+
+#: include/gdlr-page-builder-option.php:578
+#: include/gdlr-page-builder-option.php:790
+#: include/gdlr-page-builder-option.php:1097
+msgid "Item Style"
+msgstr "Estilo del artículo"
+
+#: include/gdlr-page-builder-option.php:581
+msgid "Style 1"
+msgstr "Estilo 1"
+
+#: include/gdlr-page-builder-option.php:582
+msgid "Style 2"
+msgstr "Estilo 2"
+
+#: include/gdlr-page-builder-option.php:599
+#: include/gdlr-page-builder-option.php:750
+#: include/gdlr-page-builder-option.php:1174
+msgid "Content"
+msgstr "Contenido"
+
+#: include/gdlr-page-builder-option.php:616
+#: include/gdlr-page-builder-option.php:620
+msgid "Divider"
+msgstr "Divisor"
+
+#: include/gdlr-page-builder-option.php:623
+#: include/gdlr-page-builder-option.php:1428
+msgid "Solid"
+msgstr "Sólido"
+
+#: include/gdlr-page-builder-option.php:624
+msgid "Double"
+msgstr "Doble"
+
+#: include/gdlr-page-builder-option.php:625
+msgid "Dotted"
+msgstr "Punteado"
+
+#: include/gdlr-page-builder-option.php:626
+msgid "Double Dotted"
+msgstr "Doble punteado"
+
+#: include/gdlr-page-builder-option.php:627
+msgid "Thick"
+msgstr "Grueso"
+
+#: include/gdlr-page-builder-option.php:631
+msgid "Divider Width"
+msgstr "Divisor ancho"
+
+#: include/gdlr-page-builder-option.php:633
+msgid "Specify the divider size. Ex. 50%, 200px"
+msgstr "Especifique el tamaño del divisor. Ex. 50%, 200 px"
+
+#: include/gdlr-page-builder-option.php:645
+msgid "Feature Media"
+msgstr "Reportaje multimedia"
+
+#: include/gdlr-page-builder-option.php:653
+#: include/gdlr-page-builder-option.php:1589
+msgid "Video"
+msgstr "Video"
+
+#: include/gdlr-page-builder-option.php:657
+msgid "Video URL"
+msgstr "Video URL"
+
+#: include/gdlr-page-builder-option.php:675
+msgid "Alignment"
+msgstr "Alineación"
+
+#: include/gdlr-page-builder-option.php:679
+#: include/gdlr-page-builder-option.php:1028
+msgid "Center"
+msgstr "Centrar"
+
+#: include/gdlr-page-builder-option.php:688
+msgid "Learn More Button Text"
+msgstr "Más información Texto del botón"
+
+#: include/gdlr-page-builder-option.php:693
+msgid "Learn More Button Link"
+msgstr "Más información Enlace de botón"
+
+#: include/gdlr-page-builder-option.php:708
+msgid "List With Icon"
+msgstr "Lista con icono"
+
+#: include/gdlr-page-builder-option.php:713
+msgid "Icon With List"
+msgstr "Icono con lista"
+
+#: include/gdlr-page-builder-option.php:717
+msgid "Text Align"
+msgstr "Texto alineado"
+
+#: include/gdlr-page-builder-option.php:720
+#: include/gdlr-page-builder-option.php:980
+msgid "Left Aligned"
+msgstr "Alineado a la izquierda"
+
+#: include/gdlr-page-builder-option.php:721
+#: include/gdlr-page-builder-option.php:981
+msgid "Right Aligned"
+msgstr "Alineado a la derecha"
+
+#: include/gdlr-page-builder-option.php:734
+msgid "Notification"
+msgstr "Notificación"
+
+#: include/gdlr-page-builder-option.php:745
+#: include/gdlr-page-builder-option.php:1101
+#: include/gdlr-page-builder-option.php:1141
+msgid "Color Background"
+msgstr "Fondo de color"
+
+#: include/gdlr-page-builder-option.php:746
+msgid "Color Border"
+msgstr "Borde de color"
+
+#: include/gdlr-page-builder-option.php:780
+msgid "Page"
+msgstr "Página"
+
+#: include/gdlr-page-builder-option.php:793
+msgid "Classic Style"
+msgstr "Estilo clásico"
+
+#: include/gdlr-page-builder-option.php:794
+msgid "Modern Style"
+msgstr "Estilo moderno"
+
+#: include/gdlr-page-builder-option.php:798
+msgid "Item Size"
+msgstr "Tamaño del artículo"
+
+#: include/gdlr-page-builder-option.php:812
+msgid "Specify the number of page you want to pull out."
+msgstr "Especifique el número de página que desea extraer."
+
+#: include/gdlr-page-builder-option.php:815
+msgid "Page Layout Order"
+msgstr "Orden de diseño de página"
+
+#: include/gdlr-page-builder-option.php:844
+#: include/gdlr-page-builder-option.php:849
+msgid "Personnel"
+msgstr "Personal"
+
+#: include/gdlr-page-builder-option.php:853
+msgid "Personnel Columns"
+msgstr "Columnas de personal"
+
+#: include/gdlr-page-builder-option.php:859
+msgid "Personnel Type"
+msgstr "Tipo de personal"
+
+#: include/gdlr-page-builder-option.php:862
+msgid "Static Personnel"
+msgstr "Personal estático"
+
+#: include/gdlr-page-builder-option.php:863
+msgid "Carousel Personnel"
+msgstr "Personal de carrusel"
+
+#: include/gdlr-page-builder-option.php:867
+msgid "Personnel Style"
+msgstr "Estilo de personal"
+
+#: include/gdlr-page-builder-option.php:870
+#: include/gdlr-page-builder-option.php:1214
+msgid "Box Style"
+msgstr "Estilo de caja"
+
+#: include/gdlr-page-builder-option.php:871
+#: include/gdlr-page-builder-option.php:1216
+msgid "Plain Style"
+msgstr "Estilo llano"
+
+#: include/gdlr-page-builder-option.php:872
+#: include/gdlr-page-builder-option.php:1215
+msgid "Round Style"
+msgstr "Estilo redondo"
+
+#: include/gdlr-page-builder-option.php:876
+msgid "Author Thumbnail Size"
+msgstr "Tamaño de miniatura del autor"
+
+#: include/gdlr-page-builder-option.php:891
+msgid "Pie Chart"
+msgstr "Gráfico circular"
+
+#: include/gdlr-page-builder-option.php:895
+msgid "Progress (Percent)"
+msgstr "Progreso (porcentaje)"
+
+#: include/gdlr-page-builder-option.php:898
+msgid "Accept integer value between 0 - 100"
+msgstr "Aceptar valor entero entre 0 -  100"
+
+#: include/gdlr-page-builder-option.php:901
+#: include/gdlr-page-builder-option.php:1079
+msgid "Progress Color"
+msgstr "Color de progreso"
+
+#: include/gdlr-page-builder-option.php:906
+msgid "Progress Track Color"
+msgstr "Color de la pista de progreso"
+
+#: include/gdlr-page-builder-option.php:919
+msgid "Learn More Link"
+msgstr "Más información Enlace"
+
+#: include/gdlr-page-builder-option.php:938
+#: include/gdlr-page-builder-option.php:943
+msgid "Price Table"
+msgstr "Lista de precios"
+
+#: include/gdlr-page-builder-option.php:946
+msgid "Columns"
+msgstr "Columnas"
+
+#: include/gdlr-page-builder-option.php:963
+msgid "Service With Image"
+msgstr "Servicio con imagen"
+
+#: include/gdlr-page-builder-option.php:977
+msgid "Item Alignment"
+msgstr "Alineación de artículo"
+
+#: include/gdlr-page-builder-option.php:1002
+msgid "Stunning Text"
+msgstr "Impresionante texto"
+
+#: include/gdlr-page-builder-option.php:1006
+msgid "Stunning Text title"
+msgstr "Impresionante título de texto"
+
+#: include/gdlr-page-builder-option.php:1010
+msgid "Stunning Text Caption"
+msgstr "Impresionante subtítulo de texto"
+
+#: include/gdlr-page-builder-option.php:1014
+msgid "Stunning Button Text"
+msgstr "Impresionante botón de texto"
+
+#: include/gdlr-page-builder-option.php:1019
+msgid "Stunning Button Link"
+msgstr "Impresionante enlace de botón"
+
+#: include/gdlr-page-builder-option.php:1023
+msgid "Stunning Text Style"
+msgstr "Impresionante estilo de texto"
+
+#: include/gdlr-page-builder-option.php:1027
+msgid "Normal With Background"
+msgstr "Normal con fondo"
+
+#: include/gdlr-page-builder-option.php:1041
+msgid "Skill Bar"
+msgstr "Barra de habilidades"
+
+#: include/gdlr-page-builder-option.php:1049
+msgid "Percent"
+msgstr "Por ciento"
+
+#: include/gdlr-page-builder-option.php:1052
+msgid "Fill only number here"
+msgstr "Rellene solo el número aquí"
+
+#: include/gdlr-page-builder-option.php:1055
+msgid "Size"
+msgstr "Tamaño"
+
+#: include/gdlr-page-builder-option.php:1058
+msgid "Small"
+msgstr "Pequeño"
+
+#: include/gdlr-page-builder-option.php:1059
+msgid "Medium"
+msgstr "Medio"
+
+#: include/gdlr-page-builder-option.php:1060
+msgid "Large"
+msgstr "Grande"
+
+#: include/gdlr-page-builder-option.php:1093
+msgid "Skill Item"
+msgstr "Artículo de habilidad"
+
+#: include/gdlr-page-builder-option.php:1134
+msgid "Styled Box"
+msgstr "Caja de estilo"
+
+#: include/gdlr-page-builder-option.php:1142
+msgid "Image Background"
+msgstr "Fondo de imagen"
+
+#: include/gdlr-page-builder-option.php:1146
+msgid "Flip Corner"
+msgstr "Voltear esquina"
+
+#: include/gdlr-page-builder-option.php:1157
+msgid "Corner Color"
+msgstr "Color de esquina"
+
+#: include/gdlr-page-builder-option.php:1168
+msgid "Image URL"
+msgstr "URL de la imagen"
+
+#: include/gdlr-page-builder-option.php:1187
+#: include/gdlr-page-builder-option.php:1193
+msgid "Testimonial"
+msgstr "Testimonial"
+
+#: include/gdlr-page-builder-option.php:1197
+msgid "Testimonial Columns"
+msgstr "Columnas Testimoniales"
+
+#: include/gdlr-page-builder-option.php:1203
+msgid "Testimonial Type"
+msgstr "Tipo de testimonio"
+
+#: include/gdlr-page-builder-option.php:1206
+msgid "Static Testimonial"
+msgstr "Testimonio Estático"
+
+#: include/gdlr-page-builder-option.php:1207
+msgid "Carousel Testimonial"
+msgstr "Testimonio de carrusel"
+
+#: include/gdlr-page-builder-option.php:1211
+msgid "Testimonial Style"
+msgstr "Estilo testimonial"
+
+#: include/gdlr-page-builder-option.php:1217
+msgid "Large Plain Style"
+msgstr "Estilo liso grande"
+
+#: include/gdlr-page-builder-option.php:1230
+#: include/gdlr-page-builder-option.php:1235
+msgid "Tab"
+msgstr "Lengüeta"
+
+#: include/gdlr-page-builder-option.php:1238
+msgid "Initial Tab"
+msgstr "Pestaña inicial"
+
+#: include/gdlr-page-builder-option.php:1241
+msgid "1 will open the first tab, 2 for second tab and so on."
+msgstr ""
+"1 abrirá la primera pestaña, 2 para la segunda pestaña y así sucesivamente."
+
+#: include/gdlr-page-builder-option.php:1244
+msgid "Tab Style"
+msgstr "Estilo de pestaña"
+
+#: include/gdlr-page-builder-option.php:1247
+msgid "Horizontal Tab"
+msgstr "Pestaña horizontal"
+
+#: include/gdlr-page-builder-option.php:1248
+msgid "Vertical Tab"
+msgstr "Pestaña vertical"
+
+#: include/gdlr-page-builder-option.php:1249
+msgid "Vertical Right Tab"
+msgstr "Pestaña vertical derecha"
+
+#: include/gdlr-page-builder-option.php:1276
+#: include/gdlr-page-builder-option.php:1281
+msgid "Toggle Box"
+msgstr "Caja de palanca"
+
+#: include/gdlr-page-builder-option.php:1305
+msgid "Media Item"
+msgstr "Artículo de medios"
+
+#: include/gdlr-page-builder-option.php:1306
+msgid "- Select Media Item -"
+msgstr "- Seleccionar elemento multimedia -"
+
+#: include/gdlr-page-builder-option.php:1310
+msgid "Banner"
+msgstr "Bandera"
+
+#: include/gdlr-page-builder-option.php:1324
+msgid "Banner Image Columns"
+msgstr "Columnas de imagen de banner"
+
+#: include/gdlr-page-builder-option.php:1339
+msgid "Gallery"
+msgstr "Galería"
+
+#: include/gdlr-page-builder-option.php:1354
+msgid "Gallery Style"
+msgstr "Estilo de galería"
+
+#: include/gdlr-page-builder-option.php:1357
+msgid "Grid Gallery"
+msgstr "Galería de cuadrícula"
+
+#: include/gdlr-page-builder-option.php:1358
+msgid "Thumbnail Gallery"
+msgstr "Galería de miniaturas"
+
+#: include/gdlr-page-builder-option.php:1362
+msgid "With Featured"
+msgstr "Con destacados"
+
+#: include/gdlr-page-builder-option.php:1367
+msgid "Gallery Image Columns"
+msgstr "Columnas de imágenes de la galería"
+
+#: include/gdlr-page-builder-option.php:1373
+msgid "Num Fetch (Per Page)"
+msgstr "Num Fetch (por página)"
+
+#: include/gdlr-page-builder-option.php:1375
+msgid "Leave this field blank to fetch all image without pagination."
+msgstr ""
+"Deje este campo en blanco para recuperar toda la imagen sin paginación."
+
+#: include/gdlr-page-builder-option.php:1379
+msgid "Show Caption"
+msgstr "Mostrar subtítulo"
+
+#: include/gdlr-page-builder-option.php:1393
+msgid "Image / Frame"
+msgstr "Imagen / Marco"
+
+#: include/gdlr-page-builder-option.php:1397
+msgid "Upload Image"
+msgstr "Cargar imagen"
+
+#: include/gdlr-page-builder-option.php:1407
+msgid "Image Link"
+msgstr "Enlace de imágen"
+
+#: include/gdlr-page-builder-option.php:1411
+msgid "Link to Url"
+msgstr "Enlace a la URL"
+
+#: include/gdlr-page-builder-option.php:1412
+msgid "Lightbox to Current Image"
+msgstr "Lightbox a la imagen actual"
+
+#: include/gdlr-page-builder-option.php:1413
+msgid "Lightbox to Image"
+msgstr "Lightbox a imagen"
+
+#: include/gdlr-page-builder-option.php:1414
+msgid "Lightbox to Video"
+msgstr "Lightbox to Video"
+
+#: include/gdlr-page-builder-option.php:1423
+msgid "Frame Type"
+msgstr "Tipo de marco"
+
+#: include/gdlr-page-builder-option.php:1426
+msgid "none"
+msgstr "ninguno"
+
+#: include/gdlr-page-builder-option.php:1429
+msgid "Round"
+msgstr "Redondo"
+
+#: include/gdlr-page-builder-option.php:1430
+msgid "Circle"
+msgstr "Circulo"
+
+#: include/gdlr-page-builder-option.php:1434
+msgid "Frame Background"
+msgstr "Fondo de marco"
+
+#: include/gdlr-page-builder-option.php:1449
+msgid "Layer Slider"
+msgstr "Control deslizante de capa"
+
+#: include/gdlr-page-builder-option.php:1453
+#: include/gdlr-page-builder-option.php:1472
+#: include/gdlr-page-builder-option.php:1567
+msgid "Slider Type"
+msgstr "Tipo de control deslizante"
+
+#: include/gdlr-page-builder-option.php:1456
+#: include/gdlr-page-builder-option.php:1475
+msgid ""
+"Please update layerslider to latest version to make this item work properly "
+"too"
+msgstr ""
+"Actualice el deslizador de capas a la última versión para que este elemento "
+"también funcione correctamente"
+
+#: include/gdlr-page-builder-option.php:1468
+msgid "Master Slider"
+msgstr "Control deslizante maestro"
+
+#: include/gdlr-page-builder-option.php:1487
+msgid "Post Slider"
+msgstr "Control deslizante de publicación"
+
+#: include/gdlr-page-builder-option.php:1514
+msgid "Style"
+msgstr "Estilo"
+
+#: include/gdlr-page-builder-option.php:1517
+msgid "No Excerpt"
+msgstr "Sin extracto"
+
+#: include/gdlr-page-builder-option.php:1518
+msgid "With Excerpt"
+msgstr "Con extracto"
+
+#: include/gdlr-page-builder-option.php:1522
+msgid "Caption Style"
+msgstr "Estilo de subtítulos"
+
+#: include/gdlr-page-builder-option.php:1525
+msgid "Bottom Caption"
+msgstr "Subtítulo inferior"
+
+#: include/gdlr-page-builder-option.php:1526
+msgid "Right Caption"
+msgstr "Subtítulo derecho"
+
+#: include/gdlr-page-builder-option.php:1527
+msgid "Left Caption"
+msgstr "Subtítulo izquierdo"
+
+#: include/gdlr-page-builder-option.php:1558
+msgid "Slider"
+msgstr "Control deslizante"
+
+#: include/gdlr-page-builder-option.php:1570
+msgid "Flex slider"
+msgstr "Control deslizante flexible"
+
+#: include/gdlr-page-builder-option.php:1593
+msgid "Video Url"
+msgstr "URL del vídeo"
+
+#: include/gdlr-page-builder-option.php:1595
+msgid "Youtube / Vimeo / Self Hosted Video Is allowed Here"
+msgstr "Youtube / Vimeo / Video autohospedado está permitido aquí"
+
+#: include/gdlr-page-builder-option.php:1598
+msgid "Title Text"
+msgstr "Texto del título"
+
+#: include/gdlr-page-options.php:19
+msgid "Page Categories"
+msgstr "Categorías de página"
+
+#: include/gdlr-page-options.php:20
+msgid "Page Category"
+msgstr "Categoría de página"
+
+#: include/gdlr-page-options.php:48 include/gdlr-post-options.php:107
+msgid "Page Layout"
+msgstr "Diseño de página"
+
+#: include/gdlr-page-options.php:61 include/gdlr-post-options.php:122
+msgid "Left Sidebar"
+msgstr "Barra lateral izquierda"
+
+#: include/gdlr-page-options.php:67 include/gdlr-post-options.php:128
+msgid "Right Sidebar"
+msgstr "Barra lateral derecha"
+
+#: include/gdlr-page-options.php:77
+msgid "No Header"
+msgstr "Sin encabezado"
+
+#: include/gdlr-page-options.php:78
+msgid "No Footer"
+msgstr "Sin pie de página"
+
+#: include/gdlr-page-options.php:79
+msgid "No Header / No Footer"
+msgstr "Sin encabezado / sin pie de página"
+
+#: include/gdlr-page-options.php:86 include/gdlr-post-options.php:137
+msgid "Page Option"
+msgstr "Opción de página"
+
+#: include/gdlr-page-options.php:89
+msgid "Show Title"
+msgstr "Mostrar título"
+
+#: include/gdlr-page-options.php:94
+msgid "Page Caption"
+msgstr "Título de la página"
+
+#: include/gdlr-page-options.php:98
+msgid "Show Content (From Default Editor)"
+msgstr "Mostrar contenido (del editor predeterminado)"
+
+#: include/gdlr-page-options.php:103
+msgid "Header Background Image"
+msgstr "Imagen de fondo del encabezado"
+
+#: include/gdlr-plugin-option.php:18
+msgid "Portfolio Style"
+msgstr "Estilo de cartera"
+
+#: include/gdlr-plugin-option.php:21
+msgid "Portfolio Slug ( Permalink )"
+msgstr "Portfolio Slug (Enlace permanente)"
+
+#: include/gdlr-plugin-option.php:24
+msgid ""
+"Only <strong>a-z (lower case), hyphen and underscore</strong> is allowed "
+"here <br><br>"
+msgstr ""
+"Aquí solo se permiten <strong> a-z (minúsculas), guiones y guiones bajos </"
+"strong> <br> <br>"
+
+#: include/gdlr-plugin-option.php:25
+msgid ""
+"After changing, you have to set the permalink at the setting > permalink to "
+"default (to reset the permalink rules) as well."
+msgstr ""
+"Después de cambiar, también debe establecer el enlace permanente en la "
+"configuración> enlace permanente al valor predeterminado (para restablecer "
+"las reglas de enlace permanente)."
+
+#: include/gdlr-plugin-option.php:28
+msgid "Portfolio Category Slug ( Permalink )"
+msgstr "Portfolio Category Slug (Enlace permanente)"
+
+#: include/gdlr-plugin-option.php:33
+msgid "Portfolio Tag Slug ( Permalink )"
+msgstr "Portfolio Tag Slug (Enlace permanente)"
+
+#: include/gdlr-plugin-option.php:38
+msgid "Enable Comment On Portfolio"
+msgstr "Habilitar comentario en cartera"
+
+#: include/gdlr-plugin-option.php:43
+msgid "Enable Related Portfolio"
+msgstr "Habilitar cartera relacionada"
+
+#: include/gdlr-plugin-option.php:48
+msgid "Portfolio Page Style"
+msgstr "Estilo de página de cartera"
+
+#: include/gdlr-plugin-option.php:51
+msgid "Portfolio Style 1"
+msgstr "Portafolio Estilo 1"
+
+#: include/gdlr-plugin-option.php:52
+msgid "Portfolio Style 2"
+msgstr "Portafolio Estilo 2"
+
+#: include/gdlr-plugin-option.php:57
+msgid "Single Portfolio Thumbnail Size"
+msgstr "Tamaño de miniatura de cartera única"
+
+#: include/gdlr-plugin-option.php:63
+msgid "Related Portfolio Style"
+msgstr "Estilo de cartera relacionado"
+
+#: include/gdlr-plugin-option.php:71
+msgid "Related Portfolio Size"
+msgstr "Tamaño de cartera relacionado"
+
+#: include/gdlr-plugin-option.php:74
+msgid "1/2"
+msgstr "1/2"
+
+#: include/gdlr-plugin-option.php:75
+msgid "1/3"
+msgstr "1/3"
+
+#: include/gdlr-plugin-option.php:76
+msgid "1/4"
+msgstr "1/4"
+
+#: include/gdlr-plugin-option.php:77
+msgid "1/5"
+msgstr "1/5"
+
+#: include/gdlr-plugin-option.php:82
+msgid "Related Portfolio Num Fetch"
+msgstr "Portafolio relacionado Num Fetch"
+
+#: include/gdlr-plugin-option.php:87
+msgid "Related Portfolio Num Excerpt"
+msgstr "Extracto relacionado del número de cartera"
+
+#: include/gdlr-plugin-option.php:92
+msgid "Related Portfolio Thumbnail Size"
+msgstr "Tamaño de miniatura de la cartera relacionada"
+
+#: include/gdlr-post-options.php:20
+msgid "Default Post Title"
+msgstr "Título de publicación predeterminado"
+
+#: include/gdlr-post-options.php:25
+msgid "Default Post Caption"
+msgstr "Título de publicación predeterminado"
+
+#: include/gdlr-post-options.php:30
+msgid "Single Post Thumbnail Size"
+msgstr "Tamaño de miniatura de publicación única"
+
+#: include/gdlr-post-options.php:36
+msgid "Disable Post Meta Data"
+msgstr "Deshabilitar metadatos de publicación"
+
+#: include/gdlr-post-options.php:45
+msgid "Select this to remove the meta data out of the post.<br><br>"
+msgstr ""
+"Seleccione esto para eliminar los metadatos de la publicación. <br> <br>"
+
+#: include/gdlr-post-options.php:46
+msgid ""
+"You can use Ctrl/Command button to select multiple option or remove the "
+"selected option."
+msgstr ""
+"Puede usar el botón Ctrl / Comando para seleccionar varias opciones o "
+"eliminar la opción seleccionada."
+
+#: include/gdlr-post-options.php:49
+msgid "Enable Single Post Author"
+msgstr "Habilitar autor de publicación única"
+
+#: include/gdlr-post-options.php:53
+msgid "Default Post Sidebar"
+msgstr "Barra lateral de publicación predeterminada"
+
+#: include/gdlr-post-options.php:64
+msgid "Default Post Sidebar Left"
+msgstr "Barra lateral de publicación predeterminada izquierda"
+
+#: include/gdlr-post-options.php:70
+msgid "Default Post Sidebar Right"
+msgstr "Post Sidebar predeterminado a la derecha"
+
+#: include/gdlr-post-options.php:97
+msgid "Goodlayers Post Option"
+msgstr "Opción de Goodlayers Post"
+
+#: include/gdlr-post-options.php:110
+msgid "Sidebar Template"
+msgstr "Plantilla de barra lateral"
+
+#: include/gdlr-post-options.php:140
+msgid "Post Title"
+msgstr "Título de la entrada"
+
+#: include/gdlr-post-options.php:142
+msgid ""
+"Leave this field blank to use the default title from admin panel > general > "
+"blog style section."
+msgstr ""
+"Deje este campo en blanco para usar el título predeterminado del panel de "
+"administración> general> sección de estilo de blog."
+
+#: include/gdlr-post-options.php:145
+msgid "Post Caption"
+msgstr "Publicar subtítulo"
+
+#: include/gdlr-social-icon.php:10
+msgid "Delicius"
+msgstr "Delicius"
+
+#: include/gdlr-social-icon.php:11
+msgid "Deviant Art"
+msgstr "Arte desviado"
+
+#: include/gdlr-social-icon.php:12 include/gdlr-social-icon.php:95
+msgid "Digg"
+msgstr "Digg"
+
+#: include/gdlr-social-icon.php:13
+msgid "Email"
+msgstr "Email"
+
+#: include/gdlr-social-icon.php:14 include/gdlr-social-icon.php:96
+msgid "Facebook"
+msgstr "Facebook"
+
+#: include/gdlr-social-icon.php:15
+msgid "Flickr"
+msgstr "Flickr"
+
+#: include/gdlr-social-icon.php:16 include/gdlr-social-icon.php:97
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: include/gdlr-social-icon.php:17
+msgid "Lastfm"
+msgstr "Last FM"
+
+#: include/gdlr-social-icon.php:18 include/gdlr-social-icon.php:98
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: include/gdlr-social-icon.php:19
+msgid "Picasa"
+msgstr "Picasa"
+
+#: include/gdlr-social-icon.php:20 include/gdlr-social-icon.php:100
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: include/gdlr-social-icon.php:21
+msgid "Rss"
+msgstr "Rss"
+
+#: include/gdlr-social-icon.php:22
+msgid "Skype"
+msgstr "Skype"
+
+#: include/gdlr-social-icon.php:23 include/gdlr-social-icon.php:102
+msgid "Stumble Upon"
+msgstr "Tropezar con"
+
+#: include/gdlr-social-icon.php:24
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: include/gdlr-social-icon.php:25 include/gdlr-social-icon.php:103
+msgid "Twitter"
+msgstr "Twitter"
+
+#: include/gdlr-social-icon.php:26
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: include/gdlr-social-icon.php:27
+msgid "Youtube"
+msgstr "Youtube"
+
+#: include/gdlr-social-icon.php:37 include/gdlr-social-icon.php:53
+msgid "Header Social"
+msgstr "Encabezado Social"
+
+#: include/gdlr-social-icon.php:40
+msgid "Header Social Icon Type"
+msgstr "Tipo de icono social de encabezado"
+
+#: include/gdlr-social-icon.php:99
+msgid "My Space"
+msgstr "My Space"
+
+#: include/gdlr-social-icon.php:101
+msgid "Reddit"
+msgstr "Reddit"
+
+#: include/gdlr-social-icon.php:106
+msgid "Social Shares"
+msgstr "Acciones sociales"
+
+#: include/gdlr-social-icon.php:109
+msgid "Enable Social Share"
+msgstr "Habilitar Compartir en redes sociales"
+
+#: include/gdlr-social-icon.php:137
+msgid "Share Post:"
+msgstr "Compartir post:"
+
+#: include/plugin/class-tgm-plugin-activation.php:155
+#: include/plugin/gdlr-plugin-activation.php:68
+msgid "Install Required Plugins"
+msgstr "Instalar complementos necesarios"
+
+#: include/plugin/class-tgm-plugin-activation.php:156
+#: include/plugin/gdlr-plugin-activation.php:69
+msgid "Install Plugins"
+msgstr "Instalar complementos"
+
+#: include/plugin/class-tgm-plugin-activation.php:157
+#: include/plugin/gdlr-plugin-activation.php:70
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Instalación del complemento:% s"
+
+#: include/plugin/class-tgm-plugin-activation.php:158
+msgid "Something went wrong."
+msgstr "Algo salió mal."
+
+#: include/plugin/class-tgm-plugin-activation.php:169
+#: include/plugin/gdlr-plugin-activation.php:82
+msgid "Return to Required Plugins Installer"
+msgstr "Regresar al instalador de complementos necesarios"
+
+#: include/plugin/class-tgm-plugin-activation.php:170
+msgid "Return to the dashboard"
+msgstr "Regreso al panel de control"
+
+#: include/plugin/class-tgm-plugin-activation.php:171
+#: include/plugin/class-tgm-plugin-activation.php:1840
+#: include/plugin/gdlr-plugin-activation.php:83
+msgid "Plugin activated successfully."
+msgstr "Plugin activado correctamente."
+
+#: include/plugin/class-tgm-plugin-activation.php:172
+msgid "The following plugin was activated successfully:"
+msgstr "El siguiente complemento se activó correctamente:"
+
+#: include/plugin/class-tgm-plugin-activation.php:173
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Todos los plugins  instalados y activados con éxito. %1$s"
+
+#: include/plugin/class-tgm-plugin-activation.php:174
+msgid "Dismiss this notice"
+msgstr "Descartar este aviso"
+
+#: include/plugin/class-tgm-plugin-activation.php:1085
+msgid "External Link"
+msgstr "Enlace externo"
+
+#: include/plugin/class-tgm-plugin-activation.php:1090
+msgid "Private Repository"
+msgstr "Repositorio privado"
+
+#: include/plugin/class-tgm-plugin-activation.php:1093
+msgid "Pre-Packaged"
+msgstr "Preempaquetado"
+
+#: include/plugin/class-tgm-plugin-activation.php:1097
+msgid "WordPress Repository"
+msgstr "Repositorio de WordPress"
+
+#: include/plugin/class-tgm-plugin-activation.php:1100
+msgid "Required"
+msgstr "Necesario"
+
+#: include/plugin/class-tgm-plugin-activation.php:1100
+msgid "Recommended"
+msgstr "Recomendado"
+
+#: include/plugin/class-tgm-plugin-activation.php:1103
+msgid "Not Installed"
+msgstr "No instalado"
+
+#: include/plugin/class-tgm-plugin-activation.php:1105
+msgid "Installed But Not Activated"
+msgstr "Instalado pero no activado"
+
+#: include/plugin/class-tgm-plugin-activation.php:1275
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+"No hay complementos para instalar o activar. <a href=\"%1$s\" title=\"Volver "
+"al panel de control\"> Volver al panel de control </a>"
+
+#: include/plugin/class-tgm-plugin-activation.php:1291
+msgid "Plugin"
+msgstr "Plugin"
+
+#: include/plugin/class-tgm-plugin-activation.php:1292
+msgid "Source"
+msgstr "Fuente"
+
+#: include/plugin/class-tgm-plugin-activation.php:1294
+msgid "Status"
+msgstr "Estado"
+
+#: include/plugin/class-tgm-plugin-activation.php:1312
+msgid "Install"
+msgstr "Instalar"
+
+#: include/plugin/class-tgm-plugin-activation.php:1313
+msgid "Activate"
+msgstr "Activar"
+
+#: include/plugin/class-tgm-plugin-activation.php:1823
+msgid "Install package not available."
+msgstr "El paquete de instalación no está disponible."
+
+#: include/plugin/class-tgm-plugin-activation.php:1824
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+"Descargando el paquete de instalación de <span class = \"code\">% s </span> "
+"& # 8230;"
+
+#: include/plugin/class-tgm-plugin-activation.php:1825
+msgid "Unpacking the package&#8230;"
+msgstr "Desembalaje del paquete & # 8230;"
+
+#: include/plugin/class-tgm-plugin-activation.php:1826
+msgid "Installing the plugin&#8230;"
+msgstr "Instalación del complemento & # 8230;"
+
+#: include/plugin/class-tgm-plugin-activation.php:1827
+msgid "Plugin install failed."
+msgstr "La instalación del complemento ha fallado."
+
+#: include/plugin/class-tgm-plugin-activation.php:1828
+msgid "Plugin installed successfully."
+msgstr "Complemento instalado con éxito."
+
+#: include/plugin/class-tgm-plugin-activation.php:1839
+msgid "Plugin activation failed."
+msgstr "La activación del complemento ha fallado."
+
+#: include/plugin/class-tgm-plugin-activation.php:1949
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"El proceso de instalación y activación está comenzando. Este proceso puede "
+"llevar un tiempo en algunos hosts, así que tenga paciencia."
+
+#: include/plugin/class-tgm-plugin-activation.php:1950
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s instalado y activado correctamente."
+
+#: include/plugin/class-tgm-plugin-activation.php:1950
+#: include/plugin/class-tgm-plugin-activation.php:1959
+msgid "Show Details"
+msgstr "Mostrar detalles"
+
+#: include/plugin/class-tgm-plugin-activation.php:1950
+#: include/plugin/class-tgm-plugin-activation.php:1959
+msgid "Hide Details"
+msgstr "Ocultar detalles"
+
+#: include/plugin/class-tgm-plugin-activation.php:1951
+msgid "All installations and activations have been completed."
+msgstr "Todas las instalaciones y activaciones han sido completadas."
+
+#: include/plugin/class-tgm-plugin-activation.php:1952
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalación y activación del complemento %1$s (%2$d/%3$d)"
+
+#: include/plugin/class-tgm-plugin-activation.php:1956
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"El proceso de instalación está comenzando. Este proceso puede llevar un "
+"tiempo en algunos hosts, así que tenga paciencia."
+
+#: include/plugin/class-tgm-plugin-activation.php:1957
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Se produjo un error al instalar %1$s: <strong>%2$s </strong>."
+
+#: include/plugin/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "La instalación de %1$s falló."
+
+#: include/plugin/class-tgm-plugin-activation.php:1959
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s instalado correctamente."
+
+#: include/plugin/class-tgm-plugin-activation.php:1960
+msgid "All installations have been completed."
+msgstr "Todas las instalaciones han sido completadas."
+
+#: include/plugin/class-tgm-plugin-activation.php:1961
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalación del complemento %1$s (%2$d/%3$d)"
+
+#: include/plugin/class-tgm-plugin-activation.php:2052
+msgid "Return to the Dashboard"
+msgstr "Regreso al panel de control"
+
+#: include/plugin/gdlr-plugin-activation.php:71
+msgid "Something went wrong with the plugin API."
+msgstr "Algo salió mal con el complemento API."
+
+#: include/plugin/gdlr-plugin-activation.php:84
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr "Todos los complementos instalados y activados con éxito. % s"
+
+#: include/widget/flickr-widget.php:26
+msgid "Goodlayers Flickr Widget"
+msgstr "Goodlayers Flickr Widget"
+
+#: include/widget/flickr-widget.php:27
+msgid "A widget that show image from flickr"
+msgstr "Un widget que muestra imágenes de flickr"
+
+#: include/widget/flickr-widget.php:76
+#: include/widget/popular-post-widget.php:100
+#: include/widget/port-slider-widget.php:99
+#: include/widget/post-slider-widget.php:99
+#: include/widget/recent-comment.php:105
+#: include/widget/recent-port-widget-2.php:84
+#: include/widget/recent-port-widget.php:91
+#: include/widget/recent-post-widget.php:92
+#: include/widget/recent-room-widget.php:94
+#: include/widget/twitter-widget.php:96 include/widget/video-widget.php:63
+msgid "Title :"
+msgstr "Titulo:"
+
+#: include/widget/flickr-widget.php:82
+msgid "Flickr ID :"
+msgstr "Identificación de Flickr:"
+
+#: include/widget/flickr-widget.php:88
+#: include/widget/popular-post-widget.php:119
+#: include/widget/port-slider-widget.php:118
+#: include/widget/post-slider-widget.php:118
+#: include/widget/recent-comment.php:124
+#: include/widget/recent-port-widget-2.php:103
+#: include/widget/recent-port-widget.php:110
+#: include/widget/recent-post-widget.php:111
+#: include/widget/recent-room-widget.php:113
+msgid "Num Fetch :"
+msgstr "Num Fetch:"
+
+#: include/widget/flickr-widget.php:94
+msgid "Order By :"
+msgstr "Ordenar por:"
+
+#: include/widget/flickr-widget.php:96
+msgid "Latest"
+msgstr "Último"
+
+#: include/widget/popular-post-widget.php:26
+msgid "Goodlayers Popular Post Widget"
+msgstr "Goodlayers Widget de publicación popular"
+
+#: include/widget/popular-post-widget.php:27
+msgid "A widget that show popular posts ( by comment )"
+msgstr "Un widget que muestra publicaciones populares (por comentario)"
+
+#: include/widget/popular-post-widget.php:71
+msgid "0 Comment"
+msgstr "0 comentario"
+
+#: include/widget/popular-post-widget.php:72
+msgid "1 Comment"
+msgstr "1 comentario"
+
+#: include/widget/popular-post-widget.php:73
+msgid "% Comments"
+msgstr "% Comentarios"
+
+#: include/widget/popular-post-widget.php:74
+msgid "Comments are Off"
+msgstr "Los comentarios están desactivados"
+
+#: include/widget/popular-post-widget.php:106
+#: include/widget/port-slider-widget.php:105
+#: include/widget/post-slider-widget.php:105
+#: include/widget/recent-comment.php:111
+#: include/widget/recent-port-widget-2.php:90
+#: include/widget/recent-port-widget.php:97
+#: include/widget/recent-post-widget.php:98
+#: include/widget/recent-room-widget.php:100
+msgid "Category :"
+msgstr "Categoría:"
+
+#: include/widget/popular-post-widget.php:108
+#: include/widget/port-slider-widget.php:107
+#: include/widget/post-slider-widget.php:107
+#: include/widget/recent-comment.php:113
+#: include/widget/recent-port-widget-2.php:92
+#: include/widget/recent-port-widget.php:99
+#: include/widget/recent-post-widget.php:100
+#: include/widget/recent-room-widget.php:102
+msgid "All"
+msgstr "Todos"
+
+#: include/widget/port-slider-widget.php:26
+msgid "Goodlayers Port Slider Widget"
+msgstr "Goodlayers Port Slidget Widget"
+
+#: include/widget/port-slider-widget.php:27
+msgid "A widget that show lastest portfolios in slider format"
+msgstr "Un widget que muestra las últimas carteras en formato deslizante"
+
+#: include/widget/port-slider-widget.php:124
+#: include/widget/post-slider-widget.php:124
+msgid "Thumbnail Size :"
+msgstr "Tamaño de la uña del pulgar :"
+
+#: include/widget/post-slider-widget.php:26
+msgid "Goodlayers Post Slider Widget"
+msgstr "Goodlayers Post Slider Widget"
+
+#: include/widget/post-slider-widget.php:27
+msgid "A widget that show lastest posts in slider format"
+msgstr "Un widget que muestra las últimas publicaciones en formato deslizante"
+
+#: include/widget/recent-comment.php:26
+msgid "Goodlayers Recent Comment Widget"
+msgstr "Goodlayers Widget de comentarios recientes"
+
+#: include/widget/recent-comment.php:27
+msgid "A widget that show lastest comment"
+msgstr "Un widget que muestra el último comentario"
+
+#: include/widget/recent-comment.php:72
+msgid "Commented On"
+msgstr "Comentado"
+
+#: include/widget/recent-port-widget-2.php:26
+msgid "Goodlayers Recent Portfolio 2 Widget"
+msgstr "Goodlayers Widget de cartera reciente 2"
+
+#: include/widget/recent-port-widget-2.php:27
+msgid "A widget that show lastest portfolios in 2nd style"
+msgstr "Un widget que muestra las últimas carteras en segundo estilo"
+
+#: include/widget/recent-port-widget.php:26
+msgid "Goodlayers Recent Portfolio Widget"
+msgstr "Goodlayers Widget de cartera reciente"
+
+#: include/widget/recent-port-widget.php:27
+msgid "A widget that show lastest portfolios"
+msgstr "Un widget que muestra las últimas carteras"
+
+#: include/widget/recent-post-widget.php:26
+msgid "Goodlayers Recent Post Widget"
+msgstr "Goodlayers Widget de publicación reciente"
+
+#: include/widget/recent-post-widget.php:27
+msgid "A widget that show lastest posts"
+msgstr "Un widget que muestra las últimas publicaciones"
+
+#: include/widget/recent-room-widget.php:26
+msgid "Goodlayers Recent Room Widget"
+msgstr "Goodlayers Widget de sala reciente"
+
+#: include/widget/recent-room-widget.php:27
+msgid "A widget that show lastest room"
+msgstr "Un widget que muestra la última sala"
+
+#: include/widget/recent-room-widget.php:69
+msgid "Check Details"
+msgstr "Verificar detalles"
+
+#: include/widget/twitter-widget.php:25
+msgid "Goodlayers Twitter"
+msgstr "Goodlayers Twitter"
+
+#: include/widget/twitter-widget.php:26
+msgid "A widget that show twitter feeds."
+msgstr "Un widget que muestra feeds de twitter."
+
+#: include/widget/twitter-widget.php:102
+msgid "Twitter username :"
+msgstr "Nombre de usuario de Twitter :"
+
+#: include/widget/twitter-widget.php:108
+msgid "Show Count :"
+msgstr "Mostrar cuenta:"
+
+#: include/widget/twitter-widget.php:114
+msgid "Consumer Key :"
+msgstr "Clave del consumidor:"
+
+#: include/widget/twitter-widget.php:120
+msgid "Consumer Secret :"
+msgstr "Secreto del consumidor:"
+
+#: include/widget/twitter-widget.php:126
+msgid "Access Token :"
+msgstr "Token de acceso:"
+
+#: include/widget/twitter-widget.php:132
+msgid "Access Token Secret :"
+msgstr "Secreto de token de acceso:"
+
+#: include/widget/twitter-widget.php:138
+msgid "Cache Time (hour) :"
+msgstr "Tiempo de caché (hora):"
+
+#: include/widget/video-widget.php:26
+msgid "Goodlayers Video Widget"
+msgstr "Goodlayers Video Widget"
+
+#: include/widget/video-widget.php:27
+msgid "A widget that show video specify by url"
+msgstr "Un widget que muestra el video especificado por url"
+
+#: include/widget/video-widget.php:69
+msgid "Video URL :"
+msgstr "URL del vídeo :"
+
+#: plugins/masterslider.php:16
+msgid "Goodlayers Starter"
+msgstr "Goodlayers Starter"
+
+#: plugins/masterslider.php:28
+msgid "Goodlayers Sample Slider"
+msgstr "Control deslizante de muestra Goodlayers"
+
+#: plugins/twitteroauth.php:1207
+msgid "right now"
+msgstr "ahora mismo"
+
+#: plugins/twitteroauth.php:1209
+msgid "seconds ago"
+msgstr "hace segundos"
+
+#: plugins/twitteroauth.php:1211
+msgid "about 1 minute ago"
+msgstr "hace aproximadamente 1 minuto"
+
+#: plugins/twitteroauth.php:1213
+msgid "minutes ago"
+msgstr "hace minutos"
+
+#: plugins/twitteroauth.php:1215
+msgid "about 1 hour ago"
+msgstr "hace aproximadamente 1 hora"
+
+#: plugins/twitteroauth.php:1217
+msgid "hours ago"
+msgstr "horas atras"
+
+#: plugins/twitteroauth.php:1219
+msgid "yesterday"
+msgstr "ayer"
+
+#: plugins/twitteroauth.php:1221
+msgid "days ago"
+msgstr "hace días"
+
+#: plugins/twitteroauth.php:1223
+msgid "over a year ago"
+msgstr "hace más de un año"
+
+#: plugins/woocommerce.php:21
+msgid "Items : "
+msgstr "Artículos "
+
+#: plugins/woocommerce.php:26
+msgid "Subtotal :"
+msgstr "Subtotal:"
+
+#: plugins/woocommerce.php:31
+msgid "View Cart"
+msgstr "Ver carrito"
+
+#: plugins/woocommerce.php:34
+msgid "Check Out"
+msgstr "Revisa"
+
+#: search.php:57
+msgid "Not Found"
+msgstr "Extraviado"
+
+#: search.php:60
+msgid ""
+"Nothing matched your search criteria. Please try again with different "
+"keywords."
+msgstr ""
+"Nada coincide con sus criterios de búsqueda. Intente nuevamente con "
+"diferentes palabras clave."
+
+#: searchform.php:6
+msgid "Type keywords..."
+msgstr "Escriba palabras clave ..."
+
+#: single.php:42
+msgid "About Post Author"
+msgstr "Sobre el autor de la publicación"
+
+#: single/content-aside.php:14 single/content-aside.php:16
+#: single/content-link.php:12 single/content-quote.php:11
+#: single/thumbnail-audio.php:8 single/thumbnail-gallery.php:8
+#: single/thumbnail-image.php:8 single/thumbnail-video.php:13
+msgid "Read More"
+msgstr "Lee mas"
+
+#: single/content-full.php:43 single/content-grid.php:29
+#: single/content-link.php:51 single/content-medium.php:34
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: single/thumbnail-image.php:26 single/thumbnail.php:23
+msgid "Sticky Post"
+msgstr "Mensaje pegajoso"

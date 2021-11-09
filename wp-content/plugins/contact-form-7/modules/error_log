@@ -1,0 +1,4 @@
+[24-Jul-2020 16:32:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/pineda/public_html/wp-content/plugins/contact-form-7/modules/file.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/pineda/public_html/wp-content/plugins/contact-form-7/modules/file.php on line 8

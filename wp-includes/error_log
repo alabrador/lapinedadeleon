@@ -1,0 +1,35 @@
+[03-Sep-2020 04:01:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_main_site() in /home/pineda/public_html/wp-includes/update.php:812
+Stack trace:
+#0 {main}
+  thrown in /home/pineda/public_html/wp-includes/update.php on line 812
+[03-Sep-2020 07:24:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/pineda/public_html/wp-includes/feed-atom-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/pineda/public_html/wp-includes/feed-atom-comments.php on line 8
+[03-Sep-2020 13:50:31 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/pineda/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[03-Sep-2020 14:47:40 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/pineda/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[03-Sep-2020 16:11:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_main_site() in /home/pineda/public_html/wp-includes/update.php:812
+Stack trace:
+#0 {main}
+  thrown in /home/pineda/public_html/wp-includes/update.php on line 812
+[03-Sep-2020 16:11:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_main_site() in /home/pineda/public_html/wp-includes/update.php:812
+Stack trace:
+#0 {main}
+  thrown in /home/pineda/public_html/wp-includes/update.php on line 812
+[03-Sep-2020 20:18:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/pineda/public_html/wp-includes/feed-atom-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/pineda/public_html/wp-includes/feed-atom-comments.php on line 8
+[03-Sep-2020 22:51:58 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/pineda/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[03-Sep-2020 22:52:00 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/pineda/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[04-Sep-2020 05:05:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/pineda/public_html/wp-includes/feed-atom-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/pineda/public_html/wp-includes/feed-atom-comments.php on line 8
+[17-Feb-2021 18:00:51 Europe/Madrid] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/pineda/public_html/wp-includes/functions.php on line 8
+[23-Feb-2021 06:33:38 Europe/Madrid] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/pineda/public_html/wp-includes/functions.php on line 8
+[20-Jul-2021 21:12:43 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/pineda/public_html/wp-includes/locale.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/pineda/public_html/wp-includes/locale.php on line 11
+[20-Jul-2021 22:14:54 Europe/Madrid] PHP Fatal error:  Class 'Walker' not found in /home/pineda/public_html/wp-includes/class-walker-nav-menu.php on line 17

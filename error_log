@@ -1,0 +1,13 @@
+[03-May-2021 04:53:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pineda/public_html/wp-content/themes/hotelmaster/include/gdlr-font-controls.php on line 76
+[03-May-2021 04:53:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pineda/public_html/wp-content/themes/hotelmaster/functions-size.php on line 36
+[03-May-2021 04:53:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pineda/public_html/wp-content/themes/hotelmaster/include/gdlr-social-icon.php on line 51
+[03-May-2021 04:53:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pineda/public_html/wp-content/themes/hotelmaster/include/gdlr-font-controls.php on line 76
+[03-May-2021 04:53:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pineda/public_html/wp-content/themes/hotelmaster/functions-size.php on line 36
+[03-May-2021 04:53:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pineda/public_html/wp-content/themes/hotelmaster/include/gdlr-social-icon.php on line 51
+[04-May-2021 04:52:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pineda/public_html/wp-content/themes/hotelmaster/include/gdlr-font-controls.php on line 76
+[04-May-2021 04:52:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pineda/public_html/wp-content/themes/hotelmaster/functions-size.php on line 36
+[04-May-2021 04:52:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pineda/public_html/wp-content/themes/hotelmaster/include/gdlr-social-icon.php on line 51
+[04-May-2021 04:52:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pineda/public_html/wp-content/themes/hotelmaster/include/gdlr-font-controls.php on line 76
+[04-May-2021 04:52:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pineda/public_html/wp-content/themes/hotelmaster/functions-size.php on line 36
+[04-May-2021 04:52:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pineda/public_html/wp-content/themes/hotelmaster/include/gdlr-social-icon.php on line 51
+[06-May-2021 06:16:34 UTC] PHP Warning:  Error while sending QUERY packet. PID=30636 in /home/pineda/public_html/wp-includes/wp-db.php on line 2030
